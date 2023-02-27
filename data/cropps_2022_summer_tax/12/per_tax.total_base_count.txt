@@ -1,0 +1,174 @@
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	226217
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella pneumoniae	38995
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;unclassified Achromobacter;Achromobacter sp. Marseille-Q0513	14642
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens	10097
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica	8656
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas citri group;Xanthomonas citri;Xanthomonas citri pv. citri	8151
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sonnei	6737
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas aeruginosa group;Pseudomonas nitroreducens/multiresinivorans group;Pseudomonas nitroreducens	5457
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii complex;Citrobacter freundii	4736
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 2-052-05_S3_C1	4590
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae	4444
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli W26	4253
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus thuringiensis	4075
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica	3980
+cellular organisms;Bacteria	3086
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sonnei;Shigella sonnei 4822-66	2798
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia albertii;Escherichia albertii TW07627	2754
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella flexneri	2519
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia;Delftia acidovorans	2366
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Cronobacter;Cronobacter turicensis;Cronobacter turicensis 564	2294
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Niallia;Niallia circulans	1732
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium tuberculosis complex;Mycobacterium tuberculosis	1596
+cellular organisms;Bacteria;Pseudomonadota	1553
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae	1360
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O139:H28;Escherichia coli O139:H28 str. E24377A	1360
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas aeruginosa group;Pseudomonas aeruginosa	1276
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sonnei;Shigella sonnei 53G	1194
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Newport	1181
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli PA40	1074
+cellular organisms;Bacteria;environmental samples;uncultured bacterium	1067
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Enteritidis	1064
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Agona	1060
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacteroides;Mycobacteroides abscessus;Mycobacteroides abscessus subsp. abscessus	978
+cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium group;Chryseobacterium;Chryseobacterium mucoviscidosis	870
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter cancerogenus	870
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus cereus	862
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli MS 200-1	805
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli K-12;Escherichia coli str. K-12 substr. MG1655	762
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium breve	759
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;unclassified Escherichia;Escherichia sp. S69_ASV_4	755
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli IAI1	754
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus/baumannii complex;Acinetobacter baumannii	735
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia marmotae	713
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Niallia	690
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter cloacae	653
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecalis	648
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis	646
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio harveyi group;Vibrio parahaemolyticus	641
+cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Nostocaceae;Nostoc;unclassified Nostoc;Nostoc sp. UCD121	639
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Bovismorbificans	635
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria	592
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella quasipneumoniae	572
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. arizonae;Salmonella enterica subsp. arizonae serovar 62:z4,z23:-	551
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli P0305260.3	550
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella aerogenes	542
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella boydii	538
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli P0298942.3	535
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 97.1742	531
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Typhimurium	514
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria monocytogenes	458
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus pacificus	456
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Weissella;Weissella cibaria	440
+cellular organisms;Bacteria;Spirochaetes;Spirochaetia;Leptospirales;Leptospiraceae;Leptospira;Leptospira borgpetersenii	440
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella bongori;Salmonella bongori N268-08	440
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Franconibacter;Franconibacter daqui	439
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus mirabilis	436
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Virchow	435
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Menston	434
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli VL2874	429
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Raoultella;Raoultella terrigena	420
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella michiganensis	411
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales	397
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli P0305260.15	330
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Paratyphi A	329
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia;Yersinia pseudotuberculosis complex;Yersinia pestis	329
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella pneumoniae;Klebsiella pneumoniae IS22	328
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia;unclassified Delftia;Delftia sp. BR1	325
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Enteritidis;Salmonella enterica subsp. enterica serovar Enteritidis str. 50-5646	323
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Paratyphi C	322
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Poona	322
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. arizonae	311
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. AtHG25	286
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes)	268
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus haemolyticus	264
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC035D11	225
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Methylococcales;Methylococcaceae;unclassified Methylococcaceae;Methylococcaceae bacterium CS3	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 2-052-05_S4_C3	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Newmexico	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Heidelberg;Salmonella enterica subsp. enterica serovar Heidelberg str. N189	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 2749250	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter asburiae	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella dysenteriae;Shigella dysenteriae CDC 74-1112	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;unclassified Enterobacteriaceae;Enterobacteriaceae bacterium TzEc052	218
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;unclassified Pseudomonas;Pseudomonas sp. 2588-5	218
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O157;Escherichia coli 95.0083	218
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Niallia;unclassified Niallia;Niallia sp. MER TA 168	215
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O145:H28	215
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Raoultella;Raoultella ornithinolytica	214
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus	214
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 180200	214
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella flexneri;Shigella flexneri K-404	214
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;unclassified Enterobacter cloacae complex;Enterobacter cloacae complex sp. 742-ADZ3-9B	213
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter koseri	213
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella dysenteriae;Shigella dysenteriae 1617	210
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella dysenteriae;Shigella dysenteriae 155-74	209
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter hormaechei	209
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli LT-68	206
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea brenneri	205
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli DEC12A	205
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea ananatis	202
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;unclassified Paenibacillus;Paenibacillus sp. DMB20	150
+cellular organisms;Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Streptobacillus;Streptobacillus moniliformis	115
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Heidelberg	111
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Carrau	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Edaphovirga;Edaphovirga cremea	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Johannesburg	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;unclassified Salmonella;Salmonella sp. gx-f4	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas citri group;Xanthomonas citri	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium;Pectobacterium carotovorum;Pectobacterium carotovorum subsp. carotovorum	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Trabulsiella;Trabulsiella odontotermitis	110
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;unclassified Acidovorax;Acidovorax sp. YS12	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes);Bacillus sp. 349Y	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 1-176-05_S3_C2	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Plesiomonas;Plesiomonas shigelloides	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;unclassified Salmonella;Salmonella sp. YW2-4	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas jandaei	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli HVH 149 (4-4451880)	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Kentucky	110
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia insidiosa	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli P12b	109
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 1-250-04_S4_C1	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus cereus;Bacillus cereus W	109
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli P0299438.2	109
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;unclassified Amycolatopsis;Amycolatopsis sp. WAC 04182	109
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O111:H8;Escherichia coli O111:H8 str. CFSAN001632	108
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Braenderup	108
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;Haemophilus influenzae	108
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Leclercia;Leclercia adecarboxylata	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus agaridevorans	108
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli P0298942.6	108
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter	107
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O18:H7	107
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella flexneri;Shigella flexneri 1235-66	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Terrisporobacter;Terrisporobacter mayombei	105
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 3-267-03_S4_C2	105
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O11	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. diarizonae	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Worthington	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli DEC6E	104
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter;Acetobacter malorum	104
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomonadales;Hyphomonadaceae;Ponticaulis;unclassified Ponticaulis;Ponticaulis sp.	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Cedecea;Cedecea neteri	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli G3/10	104
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Rhodocyclales;Zoogloeaceae;Zoogloea;Zoogloea ramigera	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii complex;Citrobacter sedlakii	103
+cellular organisms;Eukaryota;Opisthokonta;Fungi;Fungi incertae sedis;Mucoromycota;Glomeromycotina;Glomeromycetes;Diversisporales;Gigasporaceae;Racocetra;Racocetra persica	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Buttiauxella;unclassified Buttiauxella;Buttiauxella sp. WJP83	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;unclassified Porticoccaceae;Porticoccaceae bacterium	103
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia;Delftia tsuruhatensis	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Enteritidis;Salmonella enterica subsp. enterica serovar Enteritidis str. 22704	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium;Pectobacterium atrosepticum	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Typhimurium;Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;unclassified Pantoea;Pantoea sp. M_5	102
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;Aeromonas caviae	102
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Franconibacter;Franconibacter helveticus	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;unclassified Lachnospiraceae;Lachnospiraceae bacterium	102
+cellular organisms;Bacteria;Terrabacteria group;Candidatus Eremiobacterota;unclassified Candidatus Eremiobacteraeota;Candidatus Eremiobacteraeota bacterium	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Fructilactobacillus;Fructilactobacillus sanfranciscensis	102
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Corvallis	102
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli PA3	102
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli MP021017.10	101
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli MP021017.3	101
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Xenorhabdus;Xenorhabdus japonica	101
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Larochelle	101

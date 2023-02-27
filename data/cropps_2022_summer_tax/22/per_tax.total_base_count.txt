@@ -1,0 +1,518 @@
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis	998091
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria	541147
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis	448511
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus	437776
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus haemolyticus	263438
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus	220206
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria subflava	63763
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella pneumoniae	48846
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp.	44537
+cellular organisms;Bacteria	37839
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria monocytogenes	37563
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	35391
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC035D11	29755
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Limosilactobacillus;Limosilactobacillus reuteri	29156
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus warneri	27739
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae	26893
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacteroides;Mycobacteroides abscessus;Mycobacteroides abscessus subsp. abscessus	24880
+cellular organisms;Bacteria;Terrabacteria group	24744
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium perfringens	22992
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas aeruginosa group;Pseudomonas aeruginosa	22161
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria flavescens	22070
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus capitis	21496
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacter;Rhodanobacter denitrificans	20350
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saprophyticus	19025
+	18666
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria	16221
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus subtilis	15472
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis;Staphylococcus hominis VCU122	15112
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC14C01	14167
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus terrae	13425
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales	13321
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium	13052
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria	12866
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis;Staphylococcus hominis subsp. hominis;Staphylococcus hominis subsp. hominis C80	12209
+cellular organisms;Bacteria;Pseudomonadota	11798
+cellular organisms;Bacteria;Pseudomonadota;delta/epsilon subdivisions;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter jejuni	11704
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae	11419
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus intermedius group;Staphylococcus pseudintermedius	11160
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus gallinarum	10816
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC074F11	10632
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium tuberculosis complex;Mycobacterium tuberculosis	10487
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;Xanthomonas citri group;Xanthomonas citri;Xanthomonas citri pv. citri	10461
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus argenteus	10020
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus/baumannii complex;Acinetobacter baumannii	9393
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC078D05	9377
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus macerans	9068
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria mucosa	8820
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria meningitidis	8679
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;unclassified Caudoviricetes;Siphoviridae sp.	8644
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus mojavensis subgroup;Bacillus halotolerans	8570
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Pseudoclavibacter;unclassified Pseudoclavibacter;Pseudoclavibacter sp. RFBJ3	8379
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC068C09	8337
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria sicca	8333
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio cholerae	8089
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC063F02	7893
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC069E10	7781
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. KH1003-01	7655
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria subflava;Neisseria subflava NJ9703	7623
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus thuringiensis	7543
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus cohnii	7299
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus dysgalactiae group;Streptococcus equi	7278
+cellular organisms;Archaea;TACK group;Thaumarchaeota	7182
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacter;Rhodanobacter spathiphylli	6833
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium kefirresidentii	6547
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus auricularis	6424
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Pahexavirus	6188
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Typhimurium	5867
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis AU12-03	5860
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica	5825
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;Achromobacter xylosoxidans	5808
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus	5708
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio cholerae;Vibrio cholerae O1	5596
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. EG-SA-32	5585
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus licheniformis	5302
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC065C04	5072
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria lactamica	5027
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;unclassified Bacillus cereus group;Bacillus cereus group sp. N14	4952
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;unclassified Nitrososphaeraceae;Nitrososphaeraceae archaeon	4843
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC035F02	4662
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis;Staphylococcus hominis subsp. hominis	4513
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC064E03	4220
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC068C04	4147
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC062D04	4135
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacteroides;Mycobacteroides abscessus	4029
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC059G05	3983
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Micrococcales;Dermacoccaceae;Dermacoccus;Dermacoccus nishinomiyaensis	3853
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces cahuitamycinicus	3829
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae	3749
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC072E01	3684
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. AtDRG32	3597
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria gonorrhoeae	3592
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. SKL71207	3571
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacteroides;Mycobacteroides abscessus;Mycobacteroides abscessus subsp. massiliense	3554
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes	3493
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. EG-SA-13	3430
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus succinus	3426
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus capitis;Staphylococcus capitis CR01	3396
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia insidiosa	3323
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus lugdunensis	3246
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio vulnificus	3015
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Clostridioides;Clostridioides difficile	2910
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli	2900
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus arlettae	2890
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus paralicheniformis	2867
+Viruses;unclassified bacterial viruses;virus sp. ctn3M15	2788
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas nitrititolerans	2673
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella pneumoniae;Klebsiella pneumoniae IS10	2654
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus cereus;Bacillus cereus Q1	2549
+cellular organisms	2374
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC057A08	2364
+Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae;unclassified Inoviridae;Inoviridae sp.	2357
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia tropica	2231
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC078C12	2184
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella flexneri	2175
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium	2066
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;unclassified Pseudomonas;Pseudomonas sp. MOB-449	1993
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Negativicutes;Veillonellales;Veillonellaceae;Veillonella;Veillonella atypica	1947
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter;Aggregatibacter aphrophilus	1909
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC10B09	1859
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. RH3002v2g	1842
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria perflava	1820
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. L2B	1813
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;unclassified Nitrosopumilus;Nitrosopumilus sp.	1789
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC065D05	1729
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. M0480	1728
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria flavescens;Neisseria flavescens NRL30031/H210	1724
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecalis	1634
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis;Staphylococcus hominis SK119	1615
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus massiliensis	1610
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;environmental samples;uncultured beta proteobacterium CBNPD1 BAC clone 578	1588
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC075C10	1585
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus wiedmannii	1572
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus nepalensis	1511
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC072H03	1424
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus cereus	1415
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae	1410
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrosopumilales;unclassified Nitrosopumilales;Nitrosopumilales archaeon	1405
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecalis;Enterococcus faecalis EnGen0251	1404
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus equorum	1385
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria flavescens;Neisseria flavescens SK114	1381
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC073G10	1340
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. EG-SA-23	1297
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia cepacia complex;Burkholderia multivorans	1292
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus mirabilis	1284
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC057A02	1250
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC064D07	1227
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC074B09	1198
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens	1197
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;unclassified Paenibacillus;Paenibacillus sp. Y412MC10	1177
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC075H09	1167
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. KH1003-02	1132
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosopolaris;Candidatus Nitrosopolaris wilkensis	1094
+cellular organisms;Bacteria;Terrabacteria group;Chloroflexi;unclassified Chloroflexi;Chloroflexi bacterium	1092
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Anoxybacillus;unclassified Anoxybacillus;Anoxybacillus sp. BCO1	1088
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC034C12	1087
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium diphtheriae	1086
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrosopumilales	1084
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;Haemophilus parainfluenzae	1084
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus xylanexedens	1084
+cellular organisms;Bacteria;unclassified Bacteria;bacterium LRH843	1084
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp.	1080
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;Haemophilus influenzae	1004
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Propionibacteriales;Propionibacteriaceae;Cutibacterium;Cutibacterium acnes;Cutibacterium acnes HL002PA2	988
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter mori	979
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC077H01	971
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus str. Newbould 305	968
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium avium complex (MAC);Mycobacterium avium	963
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Mammaliicoccus;Mammaliicoccus fleurettii	963
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Blautia;Blautia obeum;Blautia obeum ATCC 29174	957
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. 8AQ	956
+cellular organisms;Bacteria;Terrabacteria group;Bacillota	935
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus felis	930
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus NCTC 8325	920
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter roggenkampii	914
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC071A01	896
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;unclassified Lysinibacillus;Lysinibacillus sp. B2A1	873
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis APO35	870
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus IS-105	865
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC061H08	864
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus argensis	864
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis 36-1	862
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Kentucky	859
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Stenotrophomonas maltophilia group;Stenotrophomonas maltophilia	859
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC070A01	816
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Blautia;Blautia faecis	759
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;Theria;Eutheria;Boreoeutheria;Euarchontoglires;Primates;Haplorrhini;Simiiformes;Catarrhini;Hominoidea;Hominidae;Homininae;Homo;Homo sapiens	758
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus contaminans	758
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC070D05	756
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio harveyi group;Vibrio parahaemolyticus	745
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus agalactiae	742
+cellular organisms;Archaea;Euryarchaeota;Stenosarchaea group;Methanomicrobia;Methanomicrobiales;Methanoregulaceae;Methanoregula;unclassified Methanoregula;Methanoregula sp. PtaU1.Bin051	718
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Shinella;Shinella curvata	665
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella quasipneumoniae	662
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Micromonosporales;Micromonosporaceae;Plantactinospora;Plantactinospora veratri	658
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC061E12	656
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus CIG149	646
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia cepacia complex;Burkholderia vietnamiensis	643
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC069H12	642
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus xylosus	641
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. KY49P	638
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus simulans	625
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Sauropsida;Sauria;Archelosauria;Testudinata;Testudines;Cryptodira;Durocryptodira;Americhelydia;Chelydroidea;Chelydridae;Chelydra;Chelydra serpentina	607
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC063B05	587
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes);Bacillus sp. OG2	573
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis VCU123	546
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus amyloliquefaciens group;Bacillus velezensis;Bacillus velezensis UCMB5036	545
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus chromogenes	538
+cellular organisms;Eukaryota;Opisthokonta;Fungi;Fungi incertae sedis;Mucoromycota;Glomeromycotina;Glomeromycetes;Diversisporales;Gigasporaceae;Racocetra;Racocetra persica	538
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes);Bacillus sp. 349Y	532
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus terrae	531
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus schleiferi	530
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Mammaliicoccus;Mammaliicoccus sciuri	526
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus altitudinis complex;Bacillus altitudinis	520
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter hormaechei;Enterobacter hormaechei subsp. steigerwaltii	515
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus devriesei	513
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Compostibacillus;Compostibacillus humi	480
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria elongata	480
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC056A03	467
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Orthoptera;Caelifera;Acrididea;Acridomorpha;Pamphagoidea;Pamphagidae;Orchaminae;Eumigus;Eumigus monticolus	458
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;unclassified Nitrososphaera;Nitrososphaera sp.	456
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria cinerea	456
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC058F07	440
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus 65-1322	439
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Secundilactobacillus;Secundilactobacillus silagei;Secundilactobacillus silagei JCM 19001	439
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Orion	438
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. EG-SA-6	438
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii complex;Citrobacter freundii	437
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus caprae	434
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus F68118	432
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus simiae	431
+cellular organisms;Bacteria;environmental samples;uncultured bacterium	430
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter cloacae	429
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis VCU057	428
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC056A04	419
+Viruses	417
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Curculionidae;Dryophthorinae;Sitophilus;Sitophilus oryzae	413
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Nocardiaceae;Nocardia;Nocardia beijingensis	412
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC065C09	405
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli O167	401
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria	398
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;unclassified Haemophilus;Haemophilus sp.	389
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Pahexavirus;Pahexavirus P100D;Propionibacterium phage P100D	377
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia pallida	372
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;Theria;Eutheria;Boreoeutheria;Laurasiatheria;Artiodactyla;Ruminantia;Pecora;Bovidae;Caprinae;Capra;Capra hircus	355
+cellular organisms;Bacteria;Pseudomonadota;delta/epsilon subdivisions;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter pylori	336
+cellular organisms;Bacteria;Bacteria incertae sedis;Bacteria candidate phyla;Candidatus Absconditabacteria;unclassified Candidatus Absconditabacteria;candidate division SR1 bacterium	335
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria mucosa;Neisseria mucosa C102	331
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus polymyxa	329
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus hominis;Staphylococcus hominis subsp. novobiosepticus	328
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Nocardiaceae;Rhodococcus;unclassified Rhodococcus;Rhodococcus sp. WS4	328
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium/Agrobacterium group;Rhizobium;Rhizobium leguminosarum	327
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC062C01	325
+cellular organisms;Bacteria;Pseudomonadota;delta/epsilon subdivisions;Deltaproteobacteria;Desulfobacterales;Desulfobulbaceae;Desulfobulbus;Desulfobulbus rhabdoformis	324
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus 1111100370	323
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus MUF256	323
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia persicina	321
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus amyloliquefaciens group;Bacillus velezensis	320
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus equorum;Staphylococcus equorum UMC-CNS-924	319
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. EG-SA-21	319
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus IS-189	319
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas;unclassified Xanthomonas;Xanthomonas sp. LMG 8992	319
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC066C03	318
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli DORA_B_14	318
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Curculionidae;Scolytinae;Dendroctonus;Dendroctonus ponderosae	317
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Raoultella;Raoultella terrigena	316
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC066B07	314
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria macacae;Neisseria macacae ATCC 33926	313
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces daliensis	303
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Sauropsida;Sauria;Lepidosauria;Squamata;Bifurcata;Unidentata;Episquamata;Laterata;Lacertibaenia;Lacertidae;Lacertinae;Podarcis;Podarcis muralis	298
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus saccharolyticus	293
+cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;unclassified Prevotellaceae;Prevotellaceae bacterium	287
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC064F03	281
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC064F04	280
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;Candidatus Nitrosocosmicus arcticus	275
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Pahexavirus;Pahexavirus PHL092M00;Propionibacterium phage PHL092M00	268
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter cloacae complex;Enterobacter hormaechei	264
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC061B04	263
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria meningitidis;Neisseria meningitidis NM80	248
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia cepacia complex;Burkholderia diffusa	246
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Propionibacteriales;Propionibacteriaceae;Propionibacterium;unclassified Propionibacterium;Propionibacterium sp. DORA_15	242
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC075C12	240
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus;Brevibacillus laterosporus	237
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Mediterraneibacter;[Ruminococcus] gnavus	232
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria meningitidis;Neisseria meningitidis alpha275	232
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Sauropsida;Sauria;Lepidosauria;Squamata;Bifurcata;Unidentata;Episquamata;Toxicofera;Anguimorpha;Paleoanguimorpha;Varanoidea;Varanidae;Varanus;Varanus komodoensis	231
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC072F04	225
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus DAR3148	221
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Pahexavirus;Pahexavirus ouroboros;Propionibacterium phage Ouroboros	220
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC065C10	220
+cellular organisms;Bacteria;Bacteria incertae sedis;Bacteria candidate phyla;Candidatus Dependentiae;unclassified Candidatus Dependentiae;Candidatus Dependentiae bacterium ADurb.Bin331	220
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus alkalisoli	220
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;Oscillospiraceae incertae sedis;[Clostridium] leptum;[Clostridium] leptum DSM 753	220
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;unclassified Serratia;Serratia sp. PGPR-27	220
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus popilliae;Paenibacillus popilliae ATCC 14706	219
+cellular organisms;Bacteria;unclassified Bacteria;bacterium M00.F.Ca.ET.177.01.1.1	219
+cellular organisms;Archaea;TACK group;Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;Candidatus Nitrososphaera gargensis	218
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Planococcaceae;Sporosarcina;unclassified Sporosarcina;Sporosarcina sp. NCCP-2331	218
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia marmotae	218
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus CIG1500	217
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lentilactobacillus;Lentilactobacillus parakefiri	217
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Tissierellia;Tissierellales;Tepidimicrobiaceae;Schnuerera;Schnuerera ultunensis;[Clostridium] ultunense Esp	217
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli chi7122	217
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae group;Pseudomonas syringae group genomosp. 2;Pseudomonas amygdali	216
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus M0075	216
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella aerogenes	216
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Eubacteriales incertae sedis;Clostridiales Family XVI. Incertae Sedis;Carboxydocella;unclassified Carboxydocella;Carboxydocella sp. ULO1	216
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus IS-160	216
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lacticaseibacillus;Lacticaseibacillus zeae;Lacticaseibacillus zeae DSM 20178 = KCTC 3804	215
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pectobacteriaceae;Pectobacterium;Pectobacterium brasiliense	215
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis ATCC 12228	215
+cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Scorpiones;Buthida;Buthoidea;Buthidae;Centruroides;Centruroides sculpturatus	214
+Viruses;unclassified bacterial viruses;Bacteriophage sp.	214
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis SK135	214
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus carnosus	214
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus ADL-330	214
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria sicca;Neisseria sicca ATCC 29256	213
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC077D08	213
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Ursidibacter;Ursidibacter maritimus	213
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Virchow	212
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. GDX8P47P	212
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus CIG2018	212
+cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis	211
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus lugdunensis;Staphylococcus lugdunensis VCU148	211
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus pragensis	211
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;unclassified Oscillospiraceae;Oscillospiraceae bacterium	211
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus taiwanensis	211
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus warneri;Staphylococcus warneri VCU121	211
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis NIH05005	211
+cellular organisms;Bacteria;PVC group;Candidatus Omnitrophica;unclassified Candidatus Omnitrophica;Candidatus Omnitrophica bacterium	211
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella oxytoca	210
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Mammaliicoccus;Mammaliicoccus vitulinus	209
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus	208
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Peptococcaceae;unclassified Peptococcaceae;Peptococcaceae bacterium	208
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus toyonensis	207
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Leuconostoc;Leuconostoc mesenteroides	207
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces albidoflavus group;Streptomyces albidoflavus	206
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria elongata;Neisseria elongata subsp. glycolytica;Neisseria elongata subsp. glycolytica ATCC 29315	206
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Propionibacteriales;Propionibacteriaceae;Cutibacterium;unclassified Cutibacterium;Cutibacterium sp.	206
+cellular organisms;Bacteria;Pseudomonadota;delta/epsilon subdivisions;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter jejuni;Campylobacter jejuni subsp. jejuni;Campylobacter jejuni subsp. jejuni 1336	205
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Trichococcus;Trichococcus flocculiformis	204
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. GSSP0090	204
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Mammaliicoccus;unclassified Mammaliicoccus;Mammaliicoccus sp. Marseille-Q6498	202
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus 84069-2	181
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae group;Pseudomonas syringae group genomosp. 2;Pseudomonas savastanoi;Pseudomonas savastanoi pv. phaseolicola	146
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;unclassified Caudoviricetes;Myoviridae sp.	144
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria meningitidis;Neisseria meningitidis NM271	141
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes);Bacillus sp. B14905	122
+cellular organisms;Bacteria;Terrabacteria group;Tenericutes;Mollicutes;Acholeplasmatales;unclassified Acholeplasmatales;Acholeplasmatales bacterium	116
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus VET0353R	112
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Oleiphilaceae;Oleiphilus;unclassified Oleiphilus;Oleiphilus sp. HI0061	111
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Desulfotomaculaceae;Pelotomaculum;Pelotomaculum thermopropionicum;Pelotomaculum thermopropionicum SI	111
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Virgibacillus;Virgibacillus profundi	111
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus mycoides	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis Scl19	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC036D05	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC62B09	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. NAM3COL9	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pyogenes	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus;Brevibacillus parabrevis	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Ligilactobacillus;Ligilactobacillus salivarius;Ligilactobacillus salivarius DSM 20555 = ATCC 11741	110
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Propionibacteriales;Propionibacteriaceae;Cutibacterium;Cutibacterium acnes	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Peptococcaceae;Desulforamulus;Desulforamulus hydrothermalis;Desulforamulus hydrothermalis Lam5 = DSM 18033	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Weizmannia;Weizmannia acidilactici	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus iners	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lentilactobacillus;Lentilactobacillus farraginis;Lentilactobacillus farraginis DSM 18382 = JCM 14108	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Fructilactobacillus;Fructilactobacillus florum;Fructilactobacillus florum DSM 22689 = JCM 16035	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;unclassified Escherichia;Escherichia sp. XD100	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Paraliobacillus;Paraliobacillus quinghaiensis	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus safensis	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus DAR5893	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;unclassified Bacillaceae;Bacillaceae bacterium HSR45	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus lutrae	110
+Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Salasmaviridae;Picovirinae;Salasvirus;Salasvirus Gxv1;Bacillus phage Gxv1	110
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;unclassified Mesorhizobium;Mesorhizobium sp. M2D.F.Ca.ET.185.01.1.1	110
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;unclassified Mesorhizobium;Mesorhizobium sp. M00.F.Ca.ET.217.01.1.1	110
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. HMSC078H04	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. GDY8P207P	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica;Salmonella enterica subsp. enterica serovar Panama	110
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;unclassified Pseudomonas;Pseudomonas sp. MWU13-2860	110
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Listeriaceae;Brochothrix;Brochothrix thermosphacta	109
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Frankiales;Frankiaceae;Frankia;unclassified Frankia;Frankia sp. Cpl3	109
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Nitrobacteraceae;Bradyrhizobium;Bradyrhizobium lablabi	109
+cellular organisms;Bacteria;Pseudomonadota;unclassified Pseudomonadota;Pseudomonadota bacterium	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus W75229	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes);Bacillus sp. OxB-1	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus intermedius group;Staphylococcus intermedius	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus M0640	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus W23214	109
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;unclassified Klebsiella;Klebsiella sp. Kps	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Rossellomorea;Rossellomorea aquimaris	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus lugdunensis;Staphylococcus lugdunensis M23590	109
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli 1-182-04_S3_C1	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis CIM40	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Carnobacteriaceae;Trichococcus;Trichococcus palustris	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus intestinalis	109
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Liquorilactobacillus;Liquorilactobacillus sucicola;Liquorilactobacillus sucicola DSM 21376 = JCM 15457	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;Macrococcus canis	108
+cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;rosids;fabids;Fabales;Fabaceae;Papilionoideae;50 kb inversion clade;NPAAA clade;indigoferoid/millettioid clade;Phaseoleae;Spatholobus;Spatholobus suberectus	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Ligilactobacillus;Ligilactobacillus ruminis	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis FS1	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus agnetis	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Geobacillus;Geobacillus thermoleovorans group;Geobacillus thermocatenulatus	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus subtilis;Bacillus subtilis XF-1	108
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus illinoisensis	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Salicibibacter;Salicibibacter cibi	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus kloosii	107
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;unclassified Shigella;Shigella sp.	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus T35615	107
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli;Escherichia coli DORA_A_5_14_21	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis MC28	107
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia cepacia complex;Burkholderia stabilis	107
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria mucosa;Neisseria mucosa ATCC 25996	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis NIH05001	107
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus pasteuri	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae;Streptococcus pneumoniae GA47368	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. EG-SA-26	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria monocytogenes;Listeria monocytogenes serotype 4b;Listeria monocytogenes serotype 4b str. H7858	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus borealis	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus darwinianus	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus 1801-1 2010	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis CIM28	106
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Companilactobacillus;Companilactobacillus farciminis	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis NIH04008	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. DORA_6_22	105
+cellular organisms;Bacteria;environmental samples;uncultured bacterium 5G12	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus W12628	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus VET0363R	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus cereus group;Bacillus mobilis	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis NIH051668	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus danieliae	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus mitis	105
+cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Petrosaviidae;commelinids;Poales;Poaceae;PACMAD clade;Panicoideae;Panicodae;Paniceae;Cenchrinae;Setaria;Setaria italica	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium sporogenes	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. qac-injecting-room-83	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus M0522	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus W92100	105
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;Neisseria dumasiana	105
+cellular organisms;Bacteria;Pseudomonadota;Oligoflexia;unclassified Oligoflexia;Oligoflexia bacterium	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus COL	105
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;unclassified Erysipelotrichaceae;Erysipelotrichaceae bacterium MTC7	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus caprae;Staphylococcus caprae M23864:W1	104
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter jiangjiafuii	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Avibacterium;Avibacterium endocarditidis	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Tetragenococcus;Tetragenococcus halophilus	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria rustica	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus lloydii	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis group;Bacillus subtilis;Bacillus subtilis subsp. natto;Bacillus subtilis subsp. natto BEST195	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea agglomerans group;Pantoea agglomerans	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Lysinibacillus;Lysinibacillus fusiformis;Lysinibacillus fusiformis ZC1	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix piscisicarius	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus CN79	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus 55/2053	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Rodentibacter;Rodentibacter mrazii	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus equorum;Staphylococcus equorum subsp. equorum	104
+cellular organisms;Eukaryota;Opisthokonta;Fungi;Fungi incertae sedis;Mucoromycota;Mucoromycotina;Mucoromycetes;Mucorales;Mucorineae;Rhizopodaceae;Rhizopus;Rhizopus arrhizus	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus MUM270	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;unclassified Pseudomonas;Pseudomonas sp. GW456-E7	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Neobacillus;Neobacillus fumarioli	104
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria;unclassified Neisseria;Neisseria sp. B10:1	104
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;unclassified Gammaproteobacteria;Gammaproteobacteria bacterium	104
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Neisseriales;Neisseriaceae;Uruburuella;Uruburuella testudinis	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. acrmy	104
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Sporolactobacillaceae;Sporolactobacillus;Sporolactobacillus inulinus	104
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;unclassified Mesorhizobium;Mesorhizobium sp. M2D.F.Ca.ET.145.01.1.1	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella/Raoultella group;Klebsiella;Klebsiella variicola	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus MSSA-93	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium;Photobacterium damselae	103
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Coriobacteriia;Coriobacteriales;Atopobiaceae;Caniella;unclassified Caniella;Caniella sp. DSM 105314	103
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Nocardiaceae;Prescottella;Prescottella equi	103
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;Rhodobacterales;Roseobacteraceae;Jannaschia;unclassified Jannaschia;Jannaschia sp. S6380	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;unclassified Bacillus (in: firmicutes);Bacillus sp. RHFS18	103
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;pseudomallei group;Burkholderia mallei	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia;Providencia rustigianii	103
+cellular organisms;Eukaryota;Sar;Stramenopiles;Oomycota;Peronosporales;Peronosporaceae;Plasmopara;Plasmopara halstedii	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus singaporensis	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;unclassified Enterococcus;Enterococcus sp. DIV2402	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas umsongensis	103
+cellular organisms;Bacteria;unclassified Bacteria;bacterium	103
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Taylorella;Taylorella asinigenitalis;Taylorella asinigenitalis 14/45	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus andreraoultii	103
+cellular organisms;Bacteria;PVC group;Verrucomicrobia;Opitutae;Opitutales;unclassified Opitutales;Opitutales bacterium	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Hafniaceae;Edwardsiella;Edwardsiella tarda	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Pseudidiomarina;Pseudidiomarina sediminum	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Psychrobacter;Psychrobacter sanguinis	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus subsp. aureus ST 1413	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia taiwanensis	103
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;Cobetia crustatorum	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus H37776	103
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Planococcaceae;Sporosarcina;unclassified Sporosarcina;Sporosarcina sp. BP05	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Virgibacillus;Virgibacillus indicus	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Negativicutes;Selenomonadales;Sporomusaceae;Sporomusa;environmental samples;uncultured Sporomusa sp.	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Halolactibacillus	102
+cellular organisms;Bacteria;Calditrichaeota;unclassified Calditrichaeota;Calditrichaeota bacterium	102
+cellular organisms;Bacteria;Terrabacteria group;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma vituli	102
+cellular organisms;Bacteria;Pseudomonadota;delta/epsilon subdivisions;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter pylori;Helicobacter pylori HPAG1	102
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Corynebacteriales;Mycobacteriaceae;Mycobacterium;unclassified Mycobacterium;Mycobacterium sp. ITM-2017-0098	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus M77238	102
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC068D07	101
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica;Salmonella enterica subsp. enterica	101
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter koseri	101
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis RP62A	101
+cellular organisms;Bacteria;Terrabacteria group;Actinomycetota;Actinomycetes;Streptosporangiales;unclassified Streptosporangiales;Streptosporangiales bacterium	101
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HMSC078A08	101
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;unclassified Staphylococcus;Staphylococcus sp. HL28	101
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Candidatus Pantoea persica	101
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Mediterraneibacter;[Ruminococcus] torques	101
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis VCU045	100
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus;Staphylococcus aureus MUM475	100
+cellular organisms;Bacteria;Pseudomonadota;Gammaproteobacteria;Nevskiales;Sinobacteraceae;unclassified Sinobacteraceae;Sinobacteraceae bacterium	100
+cellular organisms;Bacteria;Pseudomonadota;delta/epsilon subdivisions;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geopsychrobacter;Geopsychrobacter electrodiphilus	100
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Terribacillus;Terribacillus goriensis	100
+cellular organisms;Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;Curvibacter putative symbiont of Hydra magnipapillata	100
+cellular organisms;Bacteria;Pseudomonadota;Alphaproteobacteria;unclassified Alphaproteobacteria;Alphaproteobacteria bacterium	100
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium botulinum;Clostridium botulinum A;Clostridium botulinum A2 str. Kyoto	100
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus epidermidis;Staphylococcus epidermidis VCU144	100
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Bacilli;Bacillales;Bacillaceae;Cytobacillus;Cytobacillus stercorigallinarum	100
+cellular organisms;Bacteria;Terrabacteria group;Bacillota;Tissierellia;Tissierellales;Tissierellaceae;Tissierella;unclassified Tissierella;Tissierella sp.	100
