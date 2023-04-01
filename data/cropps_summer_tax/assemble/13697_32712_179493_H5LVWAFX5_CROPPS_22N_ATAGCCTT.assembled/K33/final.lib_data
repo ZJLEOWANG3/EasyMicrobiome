@@ -1,0 +1,36 @@
+û---
+max read length: 76
+nomerge max read length: 76
+average read length: 75.9865
+average coverage: 720.028
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R1.fastq.trimmed.fastq'
+    right reads:
+      - '/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R2.fastq.trimmed.fastq'
+    data:
+      unmerged read length: 76
+      merged read length: 0
+      insert size mean: 0
+      insert size deviation: 0
+      insert size left quantile: 0
+      insert size right quantile: 0
+      insert size median: 0
+      insert size mad: 0
+      insert size distribution: {  }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled/.bin_reads/INFO_0'
+        paired read prefix: '/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled/.bin_reads/paired_0'
+        merged read prefix: '/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled/.bin_reads/merged_0'
+        single read prefix: '/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled/.bin_reads/single_0'
+        chunk num:       8
+      single reads mapped: false
+      library index:   0
+      number of reads: 106374262
+      total nucleotides: 8083009659
+...

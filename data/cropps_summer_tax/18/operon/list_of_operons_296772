@@ -1,0 +1,532 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+0
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+1
+	BDCNBPNF_00315	CDS	NA	143	328	-	NA
+	BDCNBPNF_00316	CDS	COG3839	325	495	-	[G] ABC-type sugar transport systems, ATPase components
+2
+	BDCNBPNF_00317	CDS	COG1142	21	206	+	[C] Fe-S-cluster-containing hydrogenase components 2  
+	BDCNBPNF_00318	CDS	COG4121	218	376	+	[S] Uncharacterized conserved protein   
+			NA				NA
+3
+	BDCNBPNF_00129	CDS	COG0726	1066	1977	+	[G] Predicted xylanase/chitin deacetylase   
+	BDCNBPNF_00130	CDS	ROG2757	1995	2660	+	NA
+4
+	BDCNBPNF_00131	CDS	ROG0137	2881	3687	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+5
+	BDCNBPNF_00132	CDS	COG2866	116	1309	+	[E] Predicted carboxypeptidase    
+6
+	BDCNBPNF_00133	CDS	COG4669	1420	2583	+	[U] Type III secretory pathway, lipoprotein EscJ
+7
+	BDCNBPNF_00134	CDS	ROG0517	2631	2837	-	NA
+8
+	BDCNBPNF_00135	CDS	COG0491	3309	3944	+	[R] Zn-dependent hydrolases, including glyoxylases  
+9
+	BDCNBPNF_00136	CDS	NA	4160	5278	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+10
+	BDCNBPNF_00329	CDS	COG1131	137	304	+	[V] ABC-type multidrug transport system, ATPase component
+	BDCNBPNF_00330	CDS	COG3559	304	432	+	[M] Putative exporter of polyketide antibiotics 
+11
+	BDCNBPNF_00137	CDS	ROG0531	31	864	+	NA
+12
+	BDCNBPNF_00138	CDS	COG2327	1072	2217	+	[S] Uncharacterized conserved protein   
+	BDCNBPNF_00139	CDS	COG0438	2214	3314	+	[M] Glycosyltransferase     
+	BDCNBPNF_00140	CDS	COG0728	3311	4792	+	[R] Uncharacterized membrane protein, putative virulence factor
+13
+	BDCNBPNF_00141	CDS	NA	4769	5170	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+14
+	BDCNBPNF_00142	CDS	COG1104	34	801	+	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+	BDCNBPNF_00143	CDS	COG0301	803	1735	+	[H] Thiamine biosynthesis ATP pyrophosphatase  
+15
+	BDCNBPNF_00144	CDS	COG4477	1576	2745	-	[D] Negative regulator of septation ring formation
+16
+	BDCNBPNF_00145	CDS	COG1387	3277	4071	+	[ER] Histidinol phosphatase and related hydrolases of
+17
+	BDCNBPNF_00146	CDS	NA	4131	4763	-	NA
+			NA				NA
+			NA				NA
+18
+	BDCNBPNF_00147	CDS	NA	14	250	+	NA
+19
+	BDCNBPNF_00148	CDS	COG1695	705	1052	+	[K] Predicted transcriptional regulators   
+	BDCNBPNF_00149	CDS	ROG4969	1039	2061	+	NA
+20
+	BDCNBPNF_00150	CDS	COG1292	2102	3619	-	[M] Choline-glycine betaine transporter   
+21
+	BDCNBPNF_00151	CDS	NA	3879	4394	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+22
+	BDCNBPNF_00152	CDS	COG0669	22	186	-	[H] Phosphopantetheine adenylyltransferase    
+23
+	BDCNBPNF_00153	CDS	NA	325	4077	-	NA
+			NA				NA
+			NA				NA
+24
+	BDCNBPNF_00154	CDS	COG2390	47	1075	-	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+25
+	BDCNBPNF_00155	CDS	ROG4471	1270	1518	-	NA
+	BDCNBPNF_00156	CDS	COG1508	1539	2873	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+26
+	BDCNBPNF_00157	CDS	NA	3102	3215	-	NA
+27
+	BDCNBPNF_00158	CDS	COG1655	3306	3497	+	[S] Uncharacterized protein conserved in bacteria 
+28
+	BDCNBPNF_00159	CDS	NA	3616	3945	+	NA
+29
+	BDCNBPNF_00160	CDS	COG0600	635	1633	-	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+	BDCNBPNF_00161	CDS	COG0715	1640	2635	-	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+30
+	BDCNBPNF_00162	CDS	NA	3296	3799	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+31
+	BDCNBPNF_00163	CDS	ROG5867	383	1537	+	NA
+	BDCNBPNF_00164	CDS	COG4399	1553	1855	+	[S] Uncharacterized protein conserved in bacteria 
+	BDCNBPNF_00165	CDS	NA	1842	2210	+	NA
+	BDCNBPNF_00166	CDS	ROG2384	2207	2614	+	NA
+	BDCNBPNF_00167	CDS	ROG5125	2614	2988	+	NA
+	BDCNBPNF_00168	CDS	ROG1947	3001	3600	+	NA
+			NA				NA
+			NA				NA
+32
+	BDCNBPNF_00169	CDS	COG2409	54	2186	-	[R] Predicted drug exporters of the RND
+	BDCNBPNF_00170	CDS	COG1309	2282	2848	-	[K] Transcriptional regulator    
+33
+	BDCNBPNF_00001	CDS	COG2204	128	340	+	[T] Response regulator containing CheY-like receiver, AAA-type
+34
+	BDCNBPNF_00002	CDS	COG0191	676	1533	+	[G] Fructose/tagatose bisphosphate aldolase   
+35
+	BDCNBPNF_00003	CDS	COG0766	2380	3666	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+	BDCNBPNF_00004	CDS	COG1494	4095	5057	+	[G] Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase and related proteins 
+36
+	BDCNBPNF_00005	CDS	COG1158	5471	6034	+	[K] Transcription termination factor   
+37
+	BDCNBPNF_00006	CDS	COG1595	5912	6181	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+38
+	BDCNBPNF_00007	CDS	COG4475	6340	6912	-	[S] Uncharacterized protein conserved in bacteria 
+	BDCNBPNF_00008	CDS	COG0698	7015	7467	-	[G] Ribose 5-phosphate isomerase RpiB  
+39
+	BDCNBPNF_00009	CDS	COG0840	7579	8865	-	[NT] Methyl-accepting chemotaxis protein   
+	BDCNBPNF_00010	CDS	COG0394	8886	9386	-	[T] Protein-tyrosine-phosphatase     
+	BDCNBPNF_00011	CDS	COG1971	9498	10061	-	[S] Predicted membrane protein   
+40
+	BDCNBPNF_00012	CDS	COG0009	10473	11516	-	[J] Putative translation factor (SUA5)  
+41
+	BDCNBPNF_00013	CDS	COG1246	11879	12325	-	[E] N-acetylglutamate synthase and related acetyltransferases 
+42
+	BDCNBPNF_00014	CDS	ROG0078	12402	13070	-	NA
+43
+	BDCNBPNF_00015	CDS	COG1476	13263	13484	+	[K] Predicted transcriptional regulators   
+	BDCNBPNF_00016	CDS	COG1294	13468	13941	+	[C] Cytochrome bd-type quinol oxidase, subunit 2
+44
+	BDCNBPNF_00017	CDS	NA	14114	14311	-	NA
+	BDCNBPNF_00018	CDS	COG2890	14253	15122	-	[J] Methylase of polypeptide chain release factors
+	BDCNBPNF_00019	CDS	COG0216	15122	16189	-	[J] Protein chain release factor A 
+45
+	BDCNBPNF_00020	CDS	COG2452	16442	16957	+	[L] Predicted site-specific integrase-resolvase   
+46
+	BDCNBPNF_00021	CDS	COG1435	17054	17683	-	[F] Thymidine kinase    
+	BDCNBPNF_00022	CDS	COG0254	17856	18065	-	[J] Ribosomal protein L31   
+	BDCNBPNF_00023	CDS	COG1158	18324	19064	-	[K] Transcription termination factor   
+			NA				NA
+			NA				NA
+47
+	BDCNBPNF_00171	CDS	COG2843	1042	2355	-	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+48
+	BDCNBPNF_00172	CDS	NA	2841	3074	-	NA
+			NA				NA
+			NA				NA
+49
+	BDCNBPNF_00173	CDS	COG2896	413	1531	+	[H] Molybdenum cofactor biosynthesis enzyme  
+50
+	BDCNBPNF_00174	CDS	ROG0270	1642	1998	-	NA
+	BDCNBPNF_00175	CDS	COG0795	2059	2403	-	[R] Predicted permeases    
+51
+	BDCNBPNF_00176	CDS	NA	2461	3135	+	NA
+			NA				NA
+52
+	BDCNBPNF_00177	CDS	COG1164	42	911	+	[E] Oligoendopeptidase F    
+53
+	BDCNBPNF_00178	CDS	COG1879	1183	2103	-	[G] ABC-type sugar transport system, periplasmic component
+	BDCNBPNF_00179	CDS	COG1172	2121	3086	-	[G] Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease components
+			NA				NA
+54
+	BDCNBPNF_00180	CDS	COG0365	168	1877	+	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+55
+	BDCNBPNF_00181	CDS	NA	2281	3036	+	NA
+56
+	BDCNBPNF_00182	CDS	COG0069	85	2928	+	[E] Glutamate synthase domain 2  
+	BDCNBPNF_00183	CDS	COG0493	2966	3142	+	[ER] NADPH-dependent glutamate synthase beta chain and
+			NA				NA
+			NA				NA
+57
+	BDCNBPNF_00184	CDS	COG2801	91	435	+	[L] Transposase and inactivated derivatives  
+58
+	BDCNBPNF_00185	CDS	ROG5513	495	962	-	NA
+	BDCNBPNF_00186	CDS	ROG3753	972	1985	-	NA
+59
+	BDCNBPNF_00187	CDS	COG0457	2069	2668	-	[R] FOG: TPR repeat   
+60
+	BDCNBPNF_00188	CDS	COG1459	22	285	+	[NU] Type II secretory pathway, component PulF
+	BDCNBPNF_00189	CDS	COG2165	390	857	+	[NU] Type II secretory pathway, pseudopilin PulG
+	BDCNBPNF_00190	CDS	COG1989	878	1627	+	[NOU] Type II secretory pathway, prepilin signal
+	BDCNBPNF_00191	CDS	COG4972	1639	2628	+	[NU] Tfp pilus assembly protein, ATPase PilM
+			NA				NA
+61
+	BDCNBPNF_00192	CDS	COG2963	202	492	+	[L] Transposase and inactivated derivatives  
+	BDCNBPNF_00193	CDS	COG2801	489	1361	+	[L] Transposase and inactivated derivatives  
+	BDCNBPNF_00194	CDS	ROG0195	1387	2262	+	NA
+62
+	BDCNBPNF_00195	CDS	NA	741	875	+	NA
+63
+	BDCNBPNF_00196	CDS	NA	1448	2509	-	NA
+64
+	BDCNBPNF_00024	CDS	ROG5282	188	403	-	NA
+	BDCNBPNF_00025	CDS	ROG7212	376	585	-	NA
+	BDCNBPNF_00026	CDS	ROG3963	582	749	-	NA
+	BDCNBPNF_00027	CDS	COG0847	796	972	-	[L] DNA polymerase III, epsilon subunit and
+	BDCNBPNF_00028	CDS	NA	972	1151	-	NA
+	BDCNBPNF_00029	CDS	NA	1211	1381	-	NA
+	BDCNBPNF_00030	CDS	COG4896	1378	1491	-	[S] Uncharacterized protein conserved in bacteria 
+65
+	BDCNBPNF_00031	CDS	COG1766	1560	1694	-	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+	BDCNBPNF_00032	CDS	ROG2230	1728	2012	-	NA
+	BDCNBPNF_00033	CDS	ROG4710	1999	2532	-	NA
+	BDCNBPNF_00034	CDS	ROG4143	2529	2696	-	NA
+	BDCNBPNF_00035	CDS	ROG1032	2693	3307	-	NA
+	BDCNBPNF_00036	CDS	ROG7132	3294	3581	-	NA
+66
+	BDCNBPNF_00037	CDS	NA	3741	3941	-	NA
+	BDCNBPNF_00038	CDS	COG0046	3956	4120	-	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+	BDCNBPNF_00039	CDS	NA	4133	4342	-	NA
+	BDCNBPNF_00040	CDS	NA	4346	4606	-	NA
+	BDCNBPNF_00041	CDS	COG1484	4606	5385	-	[L] DNA replication protein   
+	BDCNBPNF_00042	CDS	ROG4455	5333	6157	-	NA
+67
+	BDCNBPNF_00043	CDS	NA	6233	6427	-	NA
+	BDCNBPNF_00044	CDS	COG3646	6424	7083	-	[S] Uncharacterized phage-encoded protein   
+68
+	BDCNBPNF_00045	CDS	COG3980	7289	7534	-	[M] Spore coat polysaccharide biosynthesis protein, predicted
+	BDCNBPNF_00046	CDS	ROG0229	7548	7727	-	NA
+	BDCNBPNF_00047	CDS	COG4749	7733	8020	-	[S] Uncharacterized protein conserved in archaea 
+	BDCNBPNF_00048	CDS	COG1476	7974	8210	-	[K] Predicted transcriptional regulators   
+69
+	BDCNBPNF_00049	CDS	COG2932	8381	8788	+	[K] Predicted transcriptional regulator   
+	BDCNBPNF_00050	CDS	NA	8842	8955	+	NA
+70
+	BDCNBPNF_00051	CDS	ROG7663	9094	9795	-	NA
+71
+	BDCNBPNF_00052	CDS	ROG6406	9953	10456	+	NA
+	BDCNBPNF_00053	CDS	COG0582	10440	11564	+	[L] Integrase     
+72
+	BDCNBPNF_00054	CDS	COG1323	11840	13081	+	[R] Predicted nucleotidyltransferase    
+73
+	BDCNBPNF_00055	CDS	COG3480	13117	13734	-	[T] Predicted secreted protein containing a PDZ
+	BDCNBPNF_00056	CDS	NA	13703	13927	-	NA
+	BDCNBPNF_00057	CDS	NA	13945	14181	-	NA
+74
+	BDCNBPNF_00058	CDS	ROG4408	14260	14556	-	NA
+	BDCNBPNF_00059	CDS	NA	14543	14773	-	NA
+	BDCNBPNF_00060	CDS	NA	14808	14993	-	NA
+	BDCNBPNF_00061	CDS	NA	15051	15494	-	NA
+	BDCNBPNF_00062	CDS	ROG2882	15542	15697	-	NA
+75
+	BDCNBPNF_00063	CDS	COG1965	15838	15933	-	[P] Protein implicated in iron transport, frataxin
+76
+	BDCNBPNF_00064	CDS	COG4463	16011	16238	-	[K] Transcriptional repressor of class III stress
+	BDCNBPNF_00065	CDS	NA	16280	16462	-	NA
+	BDCNBPNF_00066	CDS	ROG6219	16497	16778	-	NA
+77
+	BDCNBPNF_00067	CDS	ROG4978	17184	17726	-	NA
+	BDCNBPNF_00068	CDS	ROG6816	17723	18184	-	NA
+78
+	BDCNBPNF_00197	CDS	COG1684	1	564	+	[NU] Flagellar biosynthesis pathway, component FliR 
+	BDCNBPNF_00198	CDS	COG1377	565	657	+	[NU] Flagellar biosynthesis pathway, component FlhB 
+	BDCNBPNF_00199	CDS	COG1377	754	1644	+	[NU] Flagellar biosynthesis pathway, component FlhB 
+79
+	BDCNBPNF_00200	CDS	NA	1668	2420	-	NA
+			NA				NA
+80
+	BDCNBPNF_00202	CDS	COG2894	164	967	-	[D] Septum formation inhibitor-activating ATPase  
+	BDCNBPNF_00203	CDS	COG0850	969	1694	-	[D] Septum formation inhibitor   
+81
+	BDCNBPNF_00204	CDS	COG0755	176	307	-	[O] ABC-type transport system involved in cytochrome
+82
+	BDCNBPNF_00205	CDS	COG1374	702	977	-	[J] Protein involved in ribosomal biogenesis, contains
+83
+	BDCNBPNF_00206	CDS	NA	1595	1756	-	NA
+84
+	BDCNBPNF_00207	CDS	COG4647	92	595	-	[Q] Acetone carboxylase, gamma subunit  
+	BDCNBPNF_00208	CDS	COG0146	622	2181	-	[EQ] N-methylhydantoinase B/acetone carboxylase, alpha subunit 
+			NA				NA
+85
+	BDCNBPNF_00209	CDS	ROG0194	73	375	+	NA
+86
+	BDCNBPNF_00210	CDS	ROG2448	531	1520	+	NA
+87
+	BDCNBPNF_00211	CDS	NA	1598	2083	-	NA
+88
+	BDCNBPNF_00212	CDS	COG5522	705	1244	-	[S] Predicted integral membrane protein  
+	BDCNBPNF_00213	CDS	ROG6516	1286	1861	-	NA
+89
+	BDCNBPNF_00214	CDS	COG2755	8	427	+	[E] Lysophospholipase L1 and related esterases 
+90
+	BDCNBPNF_00215	CDS	NA	567	1148	+	NA
+91
+	BDCNBPNF_00216	CDS	COG4989	4	792	+	[R] Predicted oxidoreductase    
+92
+	BDCNBPNF_00217	CDS	COG0206	841	1710	-	[D] Cell division GTPase   
+93
+	BDCNBPNF_00218	CDS	NA	1801	1983	+	NA
+			NA				NA
+94
+	BDCNBPNF_00219	CDS	COG1298	632	1180	-	[NU] Flagellar biosynthesis pathway, component FlhA 
+	BDCNBPNF_00220	CDS	COG1298	1282	2049	-	[NU] Flagellar biosynthesis pathway, component FlhA 
+95
+	BDCNBPNF_00069	CDS	ROG3002	150	719	+	NA
+96
+	BDCNBPNF_00070	CDS	COG0642	803	2056	-	[T] Signal transduction histidine kinase  
+97
+	BDCNBPNF_00071	CDS	COG0847	2283	2888	+	[L] DNA polymerase III, epsilon subunit and
+98
+	BDCNBPNF_00072	CDS	NA	2835	3014	-	NA
+	BDCNBPNF_00073	CDS	COG1966	3071	4525	-	[T] Carbon starvation protein, predicted membrane protein
+99
+	BDCNBPNF_00074	CDS	COG3279	4697	5428	-	[KT] Response regulator of the LytR/AlgR family
+	BDCNBPNF_00075	CDS	COG3275	5412	7160	-	[T] Putative regulator of cell autolysis 
+100
+	BDCNBPNF_00076	CDS	COG1278	7401	7601	+	[K] Cold shock proteins   
+101
+	BDCNBPNF_00077	CDS	COG0024	7766	8509	+	[J] Methionine aminopeptidase    
+102
+	BDCNBPNF_00078	CDS	COG0604	8712	9704	+	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+103
+	BDCNBPNF_00079	CDS	NA	10005	10118	-	NA
+	BDCNBPNF_00080	CDS	NA	10118	10348	-	NA
+			NA				NA
+104
+	BDCNBPNF_00221	CDS	ROG2241	296	742	-	NA
+105
+	BDCNBPNF_00222	CDS	COG0456	855	1328	-	[R] Acetyltransferases     
+	BDCNBPNF_00223	CDS	COG0454	1347	1835	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+106
+	BDCNBPNF_00224	CDS	COG1206	16	306	+	[J] NAD(FAD)-utilizing enzyme possibly involved in translation
+	BDCNBPNF_00225	CDS	COG4974	372	1301	+	[L] Site-specific recombinase XerD   
+107
+	BDCNBPNF_00226	CDS	NA	1413	1508	-	NA
+	BDCNBPNF_00227	CDS	COG0758	1541	1822	-	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+108
+	BDCNBPNF_00228	CDS	ROG2043	9	326	-	NA
+109
+	BDCNBPNF_00229	tRNA	NA	692	766	+	NA
+	BDCNBPNF_00230	tRNA	NA	769	841	+	NA
+	BDCNBPNF_00231	tRNA	NA	865	939	+	NA
+	BDCNBPNF_00232	tRNA	NA	974	1049	+	NA
+	BDCNBPNF_00233	tRNA	NA	1066	1141	+	NA
+	BDCNBPNF_00234	tRNA	NA	1158	1242	+	NA
+	BDCNBPNF_00235	tRNA	NA	1399	1473	+	NA
+	BDCNBPNF_00236	tRNA	NA	1645	1717	+	NA
+110
+	BDCNBPNF_00237	CDS	COG1132	161	838	-	[V] ABC-type multidrug transport system, ATPase and
+	BDCNBPNF_00238	CDS	COG2333	875	1684	-	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+			NA				NA
+111
+	BDCNBPNF_00240	CDS	COG4597	81	1049	+	[E] ABC-type amino acid transport system, permease
+	BDCNBPNF_00241	CDS	ROG4168	1058	1657	+	NA
+112
+	BDCNBPNF_00242	CDS	COG0668	4	705	+	[M] Small-conductance mechanosensitive channel   
+113
+	BDCNBPNF_00243	CDS	NA	792	1394	+	NA
+114
+	BDCNBPNF_00244	CDS	NA	164	556	+	NA
+115
+	BDCNBPNF_00245	CDS	NA	441	1184	-	NA
+	BDCNBPNF_00246	CDS	COG1988	1233	1574	-	[R] Predicted membrane-bound metal-dependent hydrolases  
+116
+	BDCNBPNF_00247	CDS	NA	247	648	+	NA
+117
+	BDCNBPNF_00248	CDS	NA	521	781	-	NA
+118
+	BDCNBPNF_00249	CDS	COG0624	928	1155	+	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+	BDCNBPNF_00250	CDS	COG0747	1219	1353	+	[E] ABC-type dipeptide transport system, periplasmic component
+119
+	BDCNBPNF_00081	CDS	COG0449	41	850	+	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+120
+	BDCNBPNF_00082	CDS	NA	1277	1543	-	NA
+121
+	BDCNBPNF_00083	CDS	NA	2037	2462	+	NA
+	BDCNBPNF_00084	CDS	COG4555	2475	3146	+	[CP] ABC-type Na+ transport system, ATPase component
+122
+	BDCNBPNF_00085	CDS	COG1109	3076	3429	-	[G] Phosphomannomutase     
+	BDCNBPNF_00086	CDS	COG4856	3464	4702	-	[S] Uncharacterized protein conserved in bacteria 
+	BDCNBPNF_00087	CDS	COG1624	4695	5516	-	[S] Uncharacterized conserved protein   
+123
+	BDCNBPNF_00088	CDS	COG5662	5658	6290	-	[K] Predicted transmembrane transcriptional regulator (anti-sigma factor)
+	BDCNBPNF_00089	CDS	COG1595	6303	6866	-	[K] DNA-directed RNA polymerase specialized sigma subunit,
+124
+	BDCNBPNF_00090	CDS	COG0010	7044	7946	-	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+125
+	BDCNBPNF_00251	CDS	COG1525	72	779	+	[L] Micrococcal nuclease (thermonuclease) homologs  
+126
+	BDCNBPNF_00252	CDS	NA	1227	1592	+	NA
+127
+	BDCNBPNF_00253	CDS	COG4384	308	670	+	[S] Mu-like prophage protein gp45  
+128
+	BDCNBPNF_00254	CDS	COG1695	680	1027	-	[K] Predicted transcriptional regulators   
+129
+	BDCNBPNF_00255	CDS	NA	1412	1582	-	NA
+130
+	BDCNBPNF_00256	CDS	NA	62	262	+	NA
+131
+	BDCNBPNF_00257	CDS	COG1846	374	838	-	[K] Transcriptional regulators    
+132
+	BDCNBPNF_00258	CDS	NA	978	1427	-	NA
+133
+	BDCNBPNF_00259	CDS	ROG6350	177	542	-	NA
+	BDCNBPNF_00260	CDS	COG2818	564	1175	-	[L] 3-methyladenine DNA glycosylase   
+134
+	BDCNBPNF_00261	CDS	COG3655	372	587	-	[K] Predicted transcriptional regulator   
+	BDCNBPNF_00262	CDS	ROG1205	598	1083	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+135
+	BDCNBPNF_00265	CDS	COG1404	65	451	+	[O] Subtilisin-like serine proteases   
+136
+	BDCNBPNF_00266	CDS	NA	500	1459	-	NA
+			NA				NA
+			NA				NA
+137
+	BDCNBPNF_00091	CDS	NA	131	478	+	NA
+138
+	BDCNBPNF_00092	CDS	COG5412	698	4222	+	[S] Phage-related protein    
+	BDCNBPNF_00093	CDS	ROG8241	4222	5097	+	NA
+	BDCNBPNF_00094	CDS	NA	5111	7039	+	NA
+	BDCNBPNF_00095	CDS	COG3177	7055	7192	+	[S] Uncharacterized conserved protein   
+	BDCNBPNF_00096	CDS	NA	7227	7418	+	NA
+139
+	BDCNBPNF_00097	CDS	NA	7491	7766	+	NA
+			NA				NA
+			NA				NA
+140
+	BDCNBPNF_00271	CDS	NA	67	219	-	NA
+141
+	BDCNBPNF_00272	CDS	COG3213	480	596	+	[P] Uncharacterized protein involved in response to
+	BDCNBPNF_00273	CDS	ROG3471	624	944	+	NA
+			NA				NA
+			NA				NA
+142
+	BDCNBPNF_00275	CDS	COG1225	88	237	+	[O] Peroxiredoxin     
+	BDCNBPNF_00276	CDS	NA	234	977	+	NA
+			NA				NA
+			NA				NA
+143
+	BDCNBPNF_00279	CDS	COG0360	451	570	-	[J] Ribosomal protein S6   
+	BDCNBPNF_00280	CDS	NA	592	741	-	NA
+			NA				NA
+			NA				NA
+144
+	BDCNBPNF_00098	CDS	ROG6919	199	420	+	NA
+145
+	BDCNBPNF_00099	CDS	COG1714	495	1007	-	[S] Predicted membrane protein/domain   
+146
+	BDCNBPNF_00100	CDS	COG3547	1506	2723	-	[L] Transposase and inactivated derivatives  
+147
+	BDCNBPNF_00101	CDS	COG2207	3136	4032	+	[K] AraC-type DNA-binding domain-containing proteins  
+148
+	BDCNBPNF_00102	CDS	NA	4265	6115	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+149
+	BDCNBPNF_00289	CDS	COG3162	153	371	-	[S] Predicted membrane protein   
+	BDCNBPNF_00290	CDS	COG4147	338	814	-	[R] Predicted symporter    
+150
+	BDCNBPNF_00291	CDS	ROG3380	71	499	+	NA
+151
+	BDCNBPNF_00292	CDS	NA	551	778	-	NA
+152
+	BDCNBPNF_00293	CDS	ROG0155	248	580	-	NA
+	BDCNBPNF_00294	CDS	COG5225	580	714	-	[J] Uncharacterized protein involved in ribosome biogenesis
+			NA				NA
+153
+	BDCNBPNF_00103	CDS	NA	15	215	+	NA
+	BDCNBPNF_00104	CDS	NA	206	481	+	NA
+154
+	BDCNBPNF_00105	CDS	COG4521	556	747	-	[P] ABC-type taurine transport system, periplasmic component
+	BDCNBPNF_00106	CDS	COG0703	764	1291	-	[E] Shikimate kinase    
+155
+	BDCNBPNF_00107	CDS	ROG8397	1361	1747	-	NA
+	BDCNBPNF_00108	CDS	COG4940	1744	2217	-	[U] Competence protein ComGF   
+	BDCNBPNF_00109	CDS	NA	2171	2485	-	NA
+	BDCNBPNF_00110	CDS	COG4537	2499	2951	-	[U] Competence protein ComGC   
+	BDCNBPNF_00111	CDS	COG4537	2929	3243	-	[U] Competence protein ComGC   
+	BDCNBPNF_00112	CDS	ROG1751	3258	4301	-	NA
+	BDCNBPNF_00113	CDS	COG2804	4279	5355	-	[NU] Type II secretory pathway, ATPase PulE/Tfp
+156
+	BDCNBPNF_00114	CDS	COG2345	5889	6641	+	[K] Predicted transcriptional regulator   
+157
+	BDCNBPNF_00115	CDS	NA	6729	6962	+	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+158
+	BDCNBPNF_00300	CDS	COG1132	6	395	+	[V] ABC-type multidrug transport system, ATPase and
+	BDCNBPNF_00301	CDS	COG5265	361	552	+	[O] ABC-type transport system involved in Fe-S
+			NA				NA
+159
+	BDCNBPNF_00116	CDS	COG2409	17	1579	+	[R] Predicted drug exporters of the RND
+160
+	BDCNBPNF_00117	CDS	COG0526	1735	2793	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+161
+	BDCNBPNF_00118	CDS	ROG0143	3368	3940	-	NA
+162
+	BDCNBPNF_00119	CDS	COG4666	4148	5533	-	[R] TRAP-type uncharacterized transport system, fused permease
+	BDCNBPNF_00120	CDS	NA	5493	5606	-	NA
+	BDCNBPNF_00121	CDS	COG2358	5634	6641	-	[R] TRAP-type uncharacterized transport system, periplasmic component
+163
+	BDCNBPNF_00303	CDS	COG4653	22	297	+	[R] Predicted phage phi-C31 gp36 major capsid-like
+164
+	BDCNBPNF_00304	CDS	NA	353	556	-	NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+			NA				NA
+165
+	BDCNBPNF_00122	CDS	COG1792	460	1353	-	[M] Cell shape-determining protein   
+	BDCNBPNF_00123	CDS	COG1077	1375	2397	-	[D] Actin-like ATPase involved in cell morphogenesis
+166
+	BDCNBPNF_00124	CDS	COG2003	2582	3265	-	[L] DNA repair proteins   
+	BDCNBPNF_00125	CDS	COG0424	3327	3905	-	[D] Nucleotide-binding protein implicated in inhibition of
+167
+	BDCNBPNF_00126	CDS	ROG2951	4205	5317	-	NA
+168
+	BDCNBPNF_00127	CDS	ROG5430	5416	6165	-	NA
+	BDCNBPNF_00128	CDS	NA	6162	6344	-	NA

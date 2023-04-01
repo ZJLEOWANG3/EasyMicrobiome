@@ -1,0 +1,177 @@
+---
+title: "ARGRisk"
+author: "Zijian Wang"
+date: "3/22/2023"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Risk Index of ARG is defined [here](https://www.nature.com/articles/s41467-022-29283-8#Sec11).
+
+$Risk Factor = \text{Human accessibility} \times \text{mobility} \times \text{Human pathogenicity} \times \text{Clinical availability}$. Human accessibility (HA) represents the ability of ARGs to transfer from the environment to the bacterial groups in humans. Mobility (MO) represents the ability of ARGs to transfer between hosts by HGT. Human pathogenicity (HP) specifically represents the ability of ARGs to transfer from nonpathogenic hosts to pathogenic hosts, leading to the evolution of pathogens resistant to antibiotics and the failure to control clinical infections. Clinical availability (CA) represents the clinical availability of ARGs, so we indicated that their health risk was higher than others if the ARGs conferred resistance to the most commonly used antibiotics.
+
+However, they ignored some significant factors within the definition of risk index, which is the metabolic activity of ARG carriers. Here, in our study, we improved previous framework by integrating the metabolic activity rate under multi-antibiotic pressure at the single-cell level. The relative risk factor (RRI) can be formulated as below. 
+$RRI = HP \times MO \times MA$
+The HP is obtained from 16S amplicon sequencing, the MO is determined by transformation experiments, and the single-cell metabolic activity (MA) rate is measured by Raman-D2O technique. 
+```{r load data}
+setwd("/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk")
+# Load the readxl package
+library(readxl)
+
+# Set the path to the Excel file
+path <- "LHZ_ARG_Risk2.xlsx"
+
+# Read the first tab (assuming the name of the tab is "Sheet1")
+Abund <- read_excel(path, sheet = "Abundance")
+
+# Read the second tab (assuming the name of the tab is "Sheet2")
+HGT <- read_excel(path, sheet = "HGT")
+
+# Read the third tab (assuming the name of the tab is "Sheet3")
+Metabolism <- read_excel(path, sheet = "Metabolism")
+
+```
+
+```{r abundace data}
+# Load the ggplot2 package
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+# Create a histogram with separate colors for each group
+for (strain in (colnames(Abund)[-1:-2])){
+  
+  p<- ggplot(Abund, aes(x = .data[[strain]], fill = State)) +
+    geom_histogram(alpha = 0.5, position = "identity", bins = 20) +
+    scale_fill_manual(values = c("#F8766D", "#00BFC4")) +
+    labs(title = paste("Histogram Abundace of",strain), x = "Value", y = "Frequency")
+  print(p)
+}
+
+Abund.mean = Abund %>% 
+  group_by(State) %>% 
+  summarise(across(colnames(Abund)[-1:-2],mean))
+
+Abund.mean =  gather(Abund.mean,key=Strain,value=Abundance,-State)
+```
+
+```{r metabolism data}
+cdr_cols <- grep("CDRatio", colnames(Metabolism))
+
+# Calculate row means for the selected columns
+cdr_means <- rowMeans(Metabolism[, cdr_cols],na.rm = TRUE)
+cdr_std <- apply(Metabolism[, cdr_cols],1,sd,na.rm=TRUE)
+# Add row means as a new column to the data frame
+Metabolism$CDRatio_mean <- cdr_means
+Metabolism$CDRatio_std <- cdr_std
+
+Metabolism2 <- subset(Metabolism,select=c(colnames(Metabolism)[1:5],"CDRatio_mean","CDRatio_std"))
+
+df.all <- merge(Abund.mean,Metabolism2,by=c("State","Strain"))
+df.all$risk1 <- df.all$Abundance * df.all$CDRatio_mean
+# renorm
+temp <- df.all$risk1
+df.all$risk1.renorm <-  (temp - min(temp,na.rm=TRUE))/(max(temp,na.rm=TRUE)-min(temp,na.rm=TRUE))
+```
+
+```{r barplot for Abundance x Metabolism}
+viz.risk <- function(expression,df.all2,name,arg){
+grouped <- aggregate(expression, df.all2,mean)
+grouped.std <- aggregate(expression, df.all2,sd)
+vars = all.vars(expression)[-1]
+args = ""
+for (i in seq_along(vars)){
+  args = paste(args,grouped[,vars[i]],sep="-")
+}
+png(arg$save.path,width=arg$pngwidth,height=arg$pngheight)
+par(mar = c(5, 4, 4, 2) + 5)
+bp<- barplot(grouped[,name], names.arg=args,
+        cex.names=arg$cex.names,las=3,ylim=c(0,1),
+        width=arg$width,col=arg$col,legend.text=arg$legend.text,ylab=arg$ylabel,space=0.2)
+title(arg$title,cex.main=arg$cex.main)
+dev.off()
+return(bp)}
+
+bp <- viz.risk(risk1.renorm ~ State + Strain + Treatment + Concentration,df.all,"risk1.renorm",
+               list(width=0.1,                            col=c("#C44462","#669999"),legend.text=c("Biofilm","Free State"),ylabel="RRI",title="Human Pathogenicity HP x Metabolic Activity MA",cex.main=2,save.path="/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk/RRI1.png",pngheight=600,pngwidth=1000,cex.names=1)
+               )
+
+```
+
+```{r HGT rate}
+df.all2 <- merge(df.all,HGT,by=c("State","Strain","Treatment","Concentration"),all=TRUE)
+df.all2$risk2 <- df.all2$risk1 * df.all2$Transformation_rate # some entries are missing
+# renorm
+temp <- df.all2$risk2
+df.all2$risk2.renorm <-  (temp - min(temp,na.rm=TRUE))/(max(temp,na.rm=TRUE)-min(temp,na.rm=TRUE))
+
+write.csv(df.all2,"/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk/df.all2.csv",row.names=FALSE)
+```
+
+
+```{r viz risk2.renorm by groups}
+
+bp <- viz.risk(risk2.renorm ~ State + Strain + Treatment + Concentration,df.all2,"risk2.renorm",
+               list(width=0.1,                            col=c("#C44462","#669999"),legend.text=c("Biofilm","Free State"),ylabel="RRI",title="Human Pathogenicity HP x Metabolic Activity MA x Mobility MO",cex.main=1,save.path="/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk/RRI2.png",pngheight=600,pngwidth=600,cex.names=1))
+```
+
+I need to test Bayesian Network Analysis on this data
+```{r prep data}
+df.bn <- merge(Metabolism,HGT,by=c("State","Strain","Treatment","Concentration"),all=TRUE)
+df.bn <- merge(df.bn,Abund.mean,by=c("State","Strain"),all=TRUE)
+df.bn <- merge(df.bn,df.all2,by=c("State","Strain","Treatment","Concentration","Sample name","Abundance","Transformation_rate"),all = TRUE)
+df.bn.num <- df.bn[,6:ncol(df.bn)]
+```
+
+```{r impute na}
+# https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
+# library(imputeTS) # for time series data imputation
+library(missForest)
+# seed 10% missing value
+df.bn.mis <- prodNA(df.bn.num,noNA=0.1)
+summary(df.bn.mis)
+# impute missing values
+df.bn.imp <- missForest(df.bn.mis)
+# check imputed values
+df.bn.imputed <- df.bn.imp$ximp
+# check imputation error
+print(df.bn.imp$OOBerror)
+# compare with actual data
+df.bn.err <- mixError(df.bn.imp$ximp,df.bn.mis,df.bn.num)
+df.bn.err
+```
+
+```{r bn network}
+write.csv(df.bn.imputed,"/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk/df.bn.imputed.csv",row.names=FALSE)
+# bnlearn for bayesian network
+# https://www.bnlearn.com/
+library(bnlearn)
+net = bnlearn::hc(df.bn.imputed)
+fit<- bn.fit(net,df.bn.imputed)
+```
+
+```{r viz net}
+# BiocManager::install("Rgraphviz")
+png("/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk/BNnet.png",
+    ,width=1680,height=1680)
+bnlearn::graphviz.plot(fit,layout="fdp")
+title("Bayesian Networks")
+dev.off()
+```
+
+
+```{r inference}
+pred <- predict(fit,node="risk2.renorm",data=df.bn.imputed,method="bayes-lw")
+df.bn$bn.pred <- pred
+```
+Predicting with Monte Carlo posterior inference
+A better approach to prediction is to use some form of inference and predict from more nodes than just the parents of the target node. Likelihood weighting is better suited for this task than logic sampling because it guarantees that none of the particles it generates are discarded, no matter how unlikely the values taken by the predictors are. (However, they must be observable.) This is what method = "bayes-lw" does for each observation being predicted:
+
+generate a sufficiently large number of particles and the associated likelihood weights using the predictors as the evidence;
+compute the value with the largest weight mass (the posterior mode, for a discrete target node) or the weighted average of the particles (the posterior expectation, for a continuous target node).
+
+```{r viz}
+bp <- viz.risk(bn.pred ~ State + Strain + Treatment + Concentration,df.bn,"bn.pred",list(width=0.1,                            col=c("#C44462","#669999"),legend.text=c("Biofilm","Free State"),ylabel="RRI",title="Bayesian Network Predicted Human Pathogenicity HP x Metabolic Activity MA x Mobility MO",cex.main=1.5,save.path="/Users/zijianleowang/Desktop/Projects_in_Cornell/HongzheLi/ARG risk/PredictedBN.png",pngheight=600,pngwidth=1000,cex.names=1))
+```

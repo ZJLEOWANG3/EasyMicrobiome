@@ -1,0 +1,10 @@
+
+=== Error correction and assembling warnings:
+ * 0:08:05.117  2605M / 5038M WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:08:26.235  2665M / 5038M WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 18
+ * 0:08:26.239  2665M / 5038M WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 18
+ * 0:08:42.718  1975M / 5402M WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 5
+ * 0:08:42.721  1975M / 5402M WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 5
+ * 0:06:59.638  3700M / 5348M WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 2
+ * 0:06:59.641  3700M / 5348M WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 2
+======= Warnings saved to /scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled/warnings.log

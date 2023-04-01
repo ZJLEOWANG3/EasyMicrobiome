@@ -1,0 +1,6 @@
+c_000000000039_1	RXX47014.1	100	114	0	3.92e-77	236	polysaccharide export protein Wza, partial [Klebsiella pneumoniae]	Klebsiella pneumoniae	573	K01991
+c_000000000041_2	WP_000124850.1	100	118	0	1.45e-70	217	MULTISPECIES: 50S ribosomal protein L20 [Bacteria]	Bacteria	2	K02887
+c_000000000042_1	EFI3189940.1	98.2	224	4	2.44e-153	437	bile acid:sodium symporter [Escherichia coli]	Escherichia coli	562	K14347
+c_000000000043_2	MCC7887341.1	100	115	0	7.66e-70	216	inner membrane protein YhjD [Escherichia coli]	Escherichia coli	562	K07058
+c_000000000080_1	MBO9149634.1	100	118	0	5.45e-75	228	FtsX-like permease family protein [Escherichia coli]	Escherichia coli	562	K09811
+c_000000000090_1	RVS66491.1	99.1	117	1	4.23e-84	252	xylose isomerase, partial [Escherichia coli]	Escherichia coli	562	K01805

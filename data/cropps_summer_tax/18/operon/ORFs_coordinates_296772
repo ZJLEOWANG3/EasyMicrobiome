@@ -1,0 +1,362 @@
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	128	340	.	+	0	ID=BDCNBPNF_00001;product=Sporulation_initiation_phosphotransferase_F
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	676	1533	.	+	0	ID=BDCNBPNF_00002;product=Probable_fructose-bisphosphate_aldolase
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	2380	3666	.	+	0	ID=BDCNBPNF_00003;product=UDP-N-acetylglucosamine_1-carboxyvinyltransferase_2
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	4095	5057	.	+	0	ID=BDCNBPNF_00004;product=Fructose-16-bisphosphatase_class_2
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	5471	6034	.	+	0	ID=BDCNBPNF_00005;product=Transcription_termination_factor_Rho
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	5912	6181	.	-	0	ID=BDCNBPNF_00006;product='hypothetical protein'
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	6340	6912	.	-	0	ID=BDCNBPNF_00007;product=UPF0340_protein_BT9727_4999
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	7015	7467	.	-	0	ID=BDCNBPNF_00008;product=Putative_sugar_phosphate_isomerase_YwlF
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	7579	8865	.	-	0	ID=BDCNBPNF_00009;product=Methyl-accepting_chemotaxis_protein_McpA
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	8886	9386	.	-	0	ID=BDCNBPNF_00010;product=Protein-arginine-phosphatase
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	9498	10061	.	-	0	ID=BDCNBPNF_00011;product=Putative_manganese_efflux_pump_MntP
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	10473	11516	.	-	0	ID=BDCNBPNF_00012;product=Threonylcarbamoyl-AMP_synthase
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	11879	12325	.	-	0	ID=BDCNBPNF_00013;product=Uncharacterized_protein_YwlB
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	12402	13070	.	-	0	ID=BDCNBPNF_00014;product=Stage_II_sporulation_protein_R
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	13263	13484	.	+	0	ID=BDCNBPNF_00015;product=Uncharacterized_HTH-type_transcriptional_regulator_YgzD
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	13468	13941	.	+	0	ID=BDCNBPNF_00016;product=Uncharacterized_lipoprotein_YgaO
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	14114	14311	.	-	0	ID=BDCNBPNF_00017;product='hypothetical protein'
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	14253	15122	.	-	0	ID=BDCNBPNF_00018;product=Release_factor_glutamine_methyltransferase
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	15122	16189	.	-	0	ID=BDCNBPNF_00019;product=Peptide_chain_release_factor_1
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	16442	16957	.	+	0	ID=BDCNBPNF_00020;product=Chromosome-anchoring_protein_RacA
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	17054	17683	.	-	0	ID=BDCNBPNF_00021;product=Thymidine_kinase
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	17856	18065	.	-	0	ID=BDCNBPNF_00022;product=50S_ribosomal_protein_L31
+NODE_1_length_19108_cov_18.760353	Prodigal:002006	CDS	18324	19064	.	-	0	ID=BDCNBPNF_00023;product=Transcription_termination_factor_Rho
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	188	403	.	-	0	ID=BDCNBPNF_00024;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	376	585	.	-	0	ID=BDCNBPNF_00025;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	582	749	.	-	0	ID=BDCNBPNF_00026;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	796	972	.	-	0	ID=BDCNBPNF_00027;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	972	1151	.	-	0	ID=BDCNBPNF_00028;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	1211	1381	.	-	0	ID=BDCNBPNF_00029;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	1378	1491	.	-	0	ID=BDCNBPNF_00030;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	1560	1694	.	-	0	ID=BDCNBPNF_00031;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	1728	2012	.	-	0	ID=BDCNBPNF_00032;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	1999	2532	.	-	0	ID=BDCNBPNF_00033;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	2529	2696	.	-	0	ID=BDCNBPNF_00034;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	2693	3307	.	-	0	ID=BDCNBPNF_00035;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	3294	3581	.	-	0	ID=BDCNBPNF_00036;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	3741	3941	.	-	0	ID=BDCNBPNF_00037;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	3956	4120	.	-	0	ID=BDCNBPNF_00038;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	4133	4342	.	-	0	ID=BDCNBPNF_00039;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	4346	4606	.	-	0	ID=BDCNBPNF_00040;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	4606	5385	.	-	0	ID=BDCNBPNF_00041;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	5333	6157	.	-	0	ID=BDCNBPNF_00042;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	6233	6427	.	-	0	ID=BDCNBPNF_00043;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	6424	7083	.	-	0	ID=BDCNBPNF_00044;product=Uncharacterized_protein_HI_1412
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	7289	7534	.	-	0	ID=BDCNBPNF_00045;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	7548	7727	.	-	0	ID=BDCNBPNF_00046;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	7733	8020	.	-	0	ID=BDCNBPNF_00047;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	7974	8210	.	-	0	ID=BDCNBPNF_00048;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	8381	8788	.	+	0	ID=BDCNBPNF_00049;product=HTH-type_transcriptional_regulator_ImmR
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	8842	8955	.	+	0	ID=BDCNBPNF_00050;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	9094	9795	.	-	0	ID=BDCNBPNF_00051;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	9953	10456	.	+	0	ID=BDCNBPNF_00052;product=Phage-like_element_PBSX_protein_XkdA
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	10440	11564	.	+	0	ID=BDCNBPNF_00053;product=Integrase
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	11840	13081	.	+	0	ID=BDCNBPNF_00054;product=UPF0348_protein_GWCH70_1004
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	13117	13734	.	-	0	ID=BDCNBPNF_00055;product=Uncharacterized_protein_YlbL
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	13703	13927	.	-	0	ID=BDCNBPNF_00056;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	13945	14181	.	-	0	ID=BDCNBPNF_00057;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	14260	14556	.	-	0	ID=BDCNBPNF_00058;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	14543	14773	.	-	0	ID=BDCNBPNF_00059;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	14808	14993	.	-	0	ID=BDCNBPNF_00060;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	15051	15494	.	-	0	ID=BDCNBPNF_00061;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	15542	15697	.	-	0	ID=BDCNBPNF_00062;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	15838	15933	.	-	0	ID=BDCNBPNF_00063;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	16011	16238	.	-	0	ID=BDCNBPNF_00064;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	16280	16462	.	-	0	ID=BDCNBPNF_00065;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	16497	16778	.	-	0	ID=BDCNBPNF_00066;product='hypothetical protein'
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	17184	17726	.	-	0	ID=BDCNBPNF_00067;product=Probable_integrase/recombinase_YoeC
+NODE_2_length_18199_cov_21.611111	Prodigal:002006	CDS	17723	18184	.	-	0	ID=BDCNBPNF_00068;product=Uncharacterized_phage-related_protein_Lin1259/Lin1739
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	150	719	.	+	0	ID=BDCNBPNF_00069;product='hypothetical protein'
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	803	2056	.	-	0	ID=BDCNBPNF_00070;product=Sporulation_kinase_B
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	2283	2888	.	+	0	ID=BDCNBPNF_00071;product=DNA_polymerase_III_PolC-type
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	2835	3014	.	-	0	ID=BDCNBPNF_00072;product='hypothetical protein'
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	3071	4525	.	-	0	ID=BDCNBPNF_00073;product=Uncharacterized_membrane_protein_HI_1126.1
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	4697	5428	.	-	0	ID=BDCNBPNF_00074;product=Sensory_transduction_protein_LytT
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	5412	7160	.	-	0	ID=BDCNBPNF_00075;product=Sensor_protein_LytS
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	7401	7601	.	+	0	ID=BDCNBPNF_00076;product=Major_cold_shock_protein
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	7766	8509	.	+	0	ID=BDCNBPNF_00077;product=Methionine_aminopeptidase
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	8712	9704	.	+	0	ID=BDCNBPNF_00078;product=Uncharacterized_zinc-type_alcohol_dehydrogenase-like_protein_YogA
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	10005	10118	.	-	0	ID=BDCNBPNF_00079;product='hypothetical protein'
+NODE_3_length_10954_cov_8.967703	Prodigal:002006	CDS	10118	10348	.	-	0	ID=BDCNBPNF_00080;product='hypothetical protein'
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	41	850	.	+	0	ID=BDCNBPNF_00081;product=Glutamine--fructose-6-phosphate_aminotransferase_[isomerizing]
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	1277	1543	.	-	0	ID=BDCNBPNF_00082;product='hypothetical protein'
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	2037	2462	.	+	0	ID=BDCNBPNF_00083;product='hypothetical protein'
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	2475	3146	.	+	0	ID=BDCNBPNF_00084;product=Copper_transport_ATP-binding_protein_NosF
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	3076	3429	.	-	0	ID=BDCNBPNF_00085;product=Phosphoglucosamine_mutase
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	3464	4702	.	-	0	ID=BDCNBPNF_00086;product=CdaA_regulatory_protein_CdaR
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	4695	5516	.	-	0	ID=BDCNBPNF_00087;product=Cyclic_di-AMP_synthase_CdaA
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	5658	6290	.	-	0	ID=BDCNBPNF_00088;product=Anti-sigma-W_factor_RsiW
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	6303	6866	.	-	0	ID=BDCNBPNF_00089;product=ECF_RNA_polymerase_sigma_factor_SigW
+NODE_4_length_8236_cov_7.291529	Prodigal:002006	CDS	7044	7946	.	-	0	ID=BDCNBPNF_00090;product=Arginase
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	131	478	.	+	0	ID=BDCNBPNF_00091;product='hypothetical protein'
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	698	4222	.	+	0	ID=BDCNBPNF_00092;product=Uncharacterized_protein_YqbO
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	4222	5097	.	+	0	ID=BDCNBPNF_00093;product='hypothetical protein'
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	5111	7039	.	+	0	ID=BDCNBPNF_00094;product='hypothetical protein'
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	7055	7192	.	+	0	ID=BDCNBPNF_00095;product='hypothetical protein'
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	7227	7418	.	+	0	ID=BDCNBPNF_00096;product='hypothetical protein'
+NODE_5_length_8141_cov_63.711600	Prodigal:002006	CDS	7491	7766	.	+	0	ID=BDCNBPNF_00097;product='hypothetical protein'
+NODE_6_length_7846_cov_5.131819	Prodigal:002006	CDS	199	420	.	+	0	ID=BDCNBPNF_00098;product='hypothetical protein'
+NODE_6_length_7846_cov_5.131819	Prodigal:002006	CDS	495	1007	.	-	0	ID=BDCNBPNF_00099;product='hypothetical protein'
+NODE_6_length_7846_cov_5.131819	Prodigal:002006	CDS	1506	2723	.	-	0	ID=BDCNBPNF_00100;product='hypothetical protein'
+NODE_6_length_7846_cov_5.131819	Prodigal:002006	CDS	3136	4032	.	+	0	ID=BDCNBPNF_00101;product=HTH-type_transcriptional_activator_Btr
+NODE_6_length_7846_cov_5.131819	Prodigal:002006	CDS	4265	6115	.	+	0	ID=BDCNBPNF_00102;product=Asparagine_synthetase_[glutamine-hydrolyzing]_3
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	15	215	.	+	0	ID=BDCNBPNF_00103;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	206	481	.	+	0	ID=BDCNBPNF_00104;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	556	747	.	-	0	ID=BDCNBPNF_00105;product=Uncharacterized_protein_YqzE
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	764	1291	.	-	0	ID=BDCNBPNF_00106;product=Shikimate_kinase
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	1361	1747	.	-	0	ID=BDCNBPNF_00107;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	1744	2217	.	-	0	ID=BDCNBPNF_00108;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	2171	2485	.	-	0	ID=BDCNBPNF_00109;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	2499	2951	.	-	0	ID=BDCNBPNF_00110;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	2929	3243	.	-	0	ID=BDCNBPNF_00111;product=ComG_operon_protein_3
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	3258	4301	.	-	0	ID=BDCNBPNF_00112;product=ComG_operon_protein_2_homolog
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	4279	5355	.	-	0	ID=BDCNBPNF_00113;product=ComG_operon_protein_1
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	5889	6641	.	+	0	ID=BDCNBPNF_00114;product='hypothetical protein'
+NODE_7_length_7233_cov_40.824046	Prodigal:002006	CDS	6729	6962	.	+	0	ID=BDCNBPNF_00115;product=Uncharacterized_protein_YqgY
+NODE_8_length_6678_cov_2.618602	Prodigal:002006	CDS	17	1579	.	+	0	ID=BDCNBPNF_00116;product=Putative_membrane_protein_YdgH
+NODE_8_length_6678_cov_2.618602	Prodigal:002006	CDS	1735	2793	.	+	0	ID=BDCNBPNF_00117;product=Sporulation_thiol-disulfide_oxidoreductase_A
+NODE_8_length_6678_cov_2.618602	Prodigal:002006	CDS	3368	3940	.	-	0	ID=BDCNBPNF_00118;product='hypothetical protein'
+NODE_8_length_6678_cov_2.618602	Prodigal:002006	CDS	4148	5533	.	-	0	ID=BDCNBPNF_00119;product='hypothetical protein'
+NODE_8_length_6678_cov_2.618602	Prodigal:002006	CDS	5493	5606	.	-	0	ID=BDCNBPNF_00120;product='hypothetical protein'
+NODE_8_length_6678_cov_2.618602	Prodigal:002006	CDS	5634	6641	.	-	0	ID=BDCNBPNF_00121;product=31_kDa_immunogenic_protein
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	460	1353	.	-	0	ID=BDCNBPNF_00122;product=Cell_shape-determining_protein_MreC
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	1375	2397	.	-	0	ID=BDCNBPNF_00123;product=Rod_shape-determining_protein_MreB
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	2582	3265	.	-	0	ID=BDCNBPNF_00124;product=UPF0758_protein_GWCH70_2550
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	3327	3905	.	-	0	ID=BDCNBPNF_00125;product=Septum_formation_protein_Maf
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	4205	5317	.	-	0	ID=BDCNBPNF_00126;product='hypothetical protein'
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	5416	6165	.	-	0	ID=BDCNBPNF_00127;product='hypothetical protein'
+NODE_9_length_6381_cov_1250.186690	Prodigal:002006	CDS	6162	6344	.	-	0	ID=BDCNBPNF_00128;product='hypothetical protein'
+NODE_10_length_5998_cov_7.814307	Prodigal:002006	CDS	1066	1977	.	+	0	ID=BDCNBPNF_00129;product=Putative_polysaccharide_deacetylase_YheN
+NODE_10_length_5998_cov_7.814307	Prodigal:002006	CDS	1995	2660	.	+	0	ID=BDCNBPNF_00130;product='hypothetical protein'
+NODE_10_length_5998_cov_7.814307	Prodigal:002006	CDS	2881	3687	.	+	0	ID=BDCNBPNF_00131;product='hypothetical protein'
+NODE_11_length_5310_cov_21.096480	Prodigal:002006	CDS	116	1309	.	+	0	ID=BDCNBPNF_00132;product=Gamma-D-glutamyl-L-diamino_acid_endopeptidase_1
+NODE_11_length_5310_cov_21.096480	Prodigal:002006	CDS	1420	2583	.	+	0	ID=BDCNBPNF_00133;product='hypothetical protein'
+NODE_11_length_5310_cov_21.096480	Prodigal:002006	CDS	2631	2837	.	-	0	ID=BDCNBPNF_00134;product=Uncharacterized_protein_YqgW
+NODE_11_length_5310_cov_21.096480	Prodigal:002006	CDS	3309	3944	.	+	0	ID=BDCNBPNF_00135;product=Probable_metallo-hydrolase_YqgX
+NODE_11_length_5310_cov_21.096480	Prodigal:002006	CDS	4160	5278	.	+	0	ID=BDCNBPNF_00136;product=Protein_arginine_methyltransferase_NDUFAF7_mitochondrial
+NODE_12_length_5253_cov_5.421701	Prodigal:002006	CDS	31	864	.	+	0	ID=BDCNBPNF_00137;product=Cell_surface_glycoprotein_1
+NODE_12_length_5253_cov_5.421701	Prodigal:002006	CDS	1072	2217	.	+	0	ID=BDCNBPNF_00138;product=Amylovoran_biosynthesis_protein_AmsJ
+NODE_12_length_5253_cov_5.421701	Prodigal:002006	CDS	2214	3314	.	+	0	ID=BDCNBPNF_00139;product=D-inositol_3-phosphate_glycosyltransferase
+NODE_12_length_5253_cov_5.421701	Prodigal:002006	CDS	3311	4792	.	+	0	ID=BDCNBPNF_00140;product=Putative_lipid_II_flippase_MurJ
+NODE_12_length_5253_cov_5.421701	Prodigal:002006	CDS	4769	5170	.	-	0	ID=BDCNBPNF_00141;product=Uncharacterized_HTH-type_transcriptional_regulator_YdgC
+NODE_13_length_4938_cov_1.776162	Prodigal:002006	CDS	34	801	.	+	0	ID=BDCNBPNF_00142;product=Putative_cysteine_desulfurase_IscS_2
+NODE_13_length_4938_cov_1.776162	Prodigal:002006	CDS	803	1735	.	+	0	ID=BDCNBPNF_00143;product=Probable_tRNA_sulfurtransferase
+NODE_13_length_4938_cov_1.776162	Prodigal:002006	CDS	1576	2745	.	-	0	ID=BDCNBPNF_00144;product=Septation_ring_formation_regulator_EzrA
+NODE_13_length_4938_cov_1.776162	Prodigal:002006	CDS	3277	4071	.	+	0	ID=BDCNBPNF_00145;product=Histidinol-phosphatase
+NODE_13_length_4938_cov_1.776162	Prodigal:002006	CDS	4131	4763	.	-	0	ID=BDCNBPNF_00146;product=Probable_HTH-type_transcriptional_regulator_YttP
+NODE_14_length_4438_cov_29.761629	Prodigal:002006	CDS	14	250	.	+	0	ID=BDCNBPNF_00147;product='hypothetical protein'
+NODE_14_length_4438_cov_29.761629	Prodigal:002006	CDS	705	1052	.	+	0	ID=BDCNBPNF_00148;product='hypothetical protein'
+NODE_14_length_4438_cov_29.761629	Prodigal:002006	CDS	1039	2061	.	+	0	ID=BDCNBPNF_00149;product='hypothetical protein'
+NODE_14_length_4438_cov_29.761629	Prodigal:002006	CDS	2102	3619	.	-	0	ID=BDCNBPNF_00150;product=Glycine_betaine_transporter_OpuD
+NODE_14_length_4438_cov_29.761629	Prodigal:002006	CDS	3879	4394	.	-	0	ID=BDCNBPNF_00151;product='hypothetical protein'
+NODE_15_length_4416_cov_125.808759	Prodigal:002006	CDS	22	186	.	-	0	ID=BDCNBPNF_00152;product='hypothetical protein'
+NODE_15_length_4416_cov_125.808759	Prodigal:002006	CDS	325	4077	.	-	0	ID=BDCNBPNF_00153;product=Uncharacterized_ATP-dependent_helicase_MG140_homolog
+NODE_16_length_4358_cov_5.166327	Prodigal:002006	CDS	47	1075	.	-	0	ID=BDCNBPNF_00154;product=Central_glycolytic_genes_regulator
+NODE_16_length_4358_cov_5.166327	Prodigal:002006	CDS	1270	1518	.	-	0	ID=BDCNBPNF_00155;product='hypothetical protein'
+NODE_16_length_4358_cov_5.166327	Prodigal:002006	CDS	1539	2873	.	-	0	ID=BDCNBPNF_00156;product=RNA_polymerase_sigma-54_factor
+NODE_16_length_4358_cov_5.166327	Prodigal:002006	CDS	3102	3215	.	-	0	ID=BDCNBPNF_00157;product='hypothetical protein'
+NODE_16_length_4358_cov_5.166327	Prodigal:002006	CDS	3306	3497	.	+	0	ID=BDCNBPNF_00158;product='hypothetical protein'
+NODE_16_length_4358_cov_5.166327	Prodigal:002006	CDS	3616	3945	.	+	0	ID=BDCNBPNF_00159;product='hypothetical protein'
+NODE_17_length_3826_cov_10.201273	Prodigal:002006	CDS	635	1633	.	-	0	ID=BDCNBPNF_00160;product=Putative_aliphatic_sulfonates_transport_permease_protein_SsuC
+NODE_17_length_3826_cov_10.201273	Prodigal:002006	CDS	1640	2635	.	-	0	ID=BDCNBPNF_00161;product=Putative_aliphatic_sulfonates-binding_protein
+NODE_17_length_3826_cov_10.201273	Prodigal:002006	CDS	3296	3799	.	+	0	ID=BDCNBPNF_00162;product='hypothetical protein'
+NODE_18_length_3768_cov_9.441153	Prodigal:002006	CDS	383	1537	.	+	0	ID=BDCNBPNF_00163;product='hypothetical protein'
+NODE_18_length_3768_cov_9.441153	Prodigal:002006	CDS	1553	1855	.	+	0	ID=BDCNBPNF_00164;product='hypothetical protein'
+NODE_18_length_3768_cov_9.441153	Prodigal:002006	CDS	1842	2210	.	+	0	ID=BDCNBPNF_00165;product='hypothetical protein'
+NODE_18_length_3768_cov_9.441153	Prodigal:002006	CDS	2207	2614	.	+	0	ID=BDCNBPNF_00166;product='hypothetical protein'
+NODE_18_length_3768_cov_9.441153	Prodigal:002006	CDS	2614	2988	.	+	0	ID=BDCNBPNF_00167;product='hypothetical protein'
+NODE_18_length_3768_cov_9.441153	Prodigal:002006	CDS	3001	3600	.	+	0	ID=BDCNBPNF_00168;product='hypothetical protein'
+NODE_19_length_3383_cov_40.420673	Prodigal:002006	CDS	54	2186	.	-	0	ID=BDCNBPNF_00169;product=Putative_membrane_protein_SCO5905
+NODE_19_length_3383_cov_40.420673	Prodigal:002006	CDS	2282	2848	.	-	0	ID=BDCNBPNF_00170;product=HTH-type_transcriptional_repressor_FatR
+NODE_20_length_3239_cov_104.939384	Prodigal:002006	CDS	1042	2355	.	-	0	ID=BDCNBPNF_00171;product=Uncharacterized_protein_y4sH
+NODE_20_length_3239_cov_104.939384	Prodigal:002006	CDS	2841	3074	.	-	0	ID=BDCNBPNF_00172;product='hypothetical protein'
+NODE_21_length_3218_cov_20.670639	Prodigal:002006	CDS	413	1531	.	+	0	ID=BDCNBPNF_00173;product=Cyclic_pyranopterin_monophosphate_synthase
+NODE_21_length_3218_cov_20.670639	Prodigal:002006	CDS	1642	1998	.	-	0	ID=BDCNBPNF_00174;product='hypothetical protein'
+NODE_21_length_3218_cov_20.670639	Prodigal:002006	CDS	2059	2403	.	-	0	ID=BDCNBPNF_00175;product=Uncharacterized_protein_YqzG
+NODE_21_length_3218_cov_20.670639	Prodigal:002006	CDS	2461	3135	.	+	0	ID=BDCNBPNF_00176;product='hypothetical protein'
+NODE_22_length_3174_cov_13.950305	Prodigal:002006	CDS	42	911	.	+	0	ID=BDCNBPNF_00177;product='hypothetical protein'
+NODE_22_length_3174_cov_13.950305	Prodigal:002006	CDS	1183	2103	.	-	0	ID=BDCNBPNF_00178;product=Ribose_import_binding_protein_RbsB
+NODE_22_length_3174_cov_13.950305	Prodigal:002006	CDS	2121	3086	.	-	0	ID=BDCNBPNF_00179;product=Ribose_import_permease_protein_RbsC
+NODE_23_length_3166_cov_41.468981	Prodigal:002006	CDS	168	1877	.	+	0	ID=BDCNBPNF_00180;product=Acetyl-coenzyme_A_synthetase
+NODE_23_length_3166_cov_41.468981	Prodigal:002006	CDS	2281	3036	.	+	0	ID=BDCNBPNF_00181;product=Transport_and_Golgi_organization_protein_2_homolog
+NODE_24_length_3145_cov_2.444984	Prodigal:002006	CDS	85	2928	.	+	0	ID=BDCNBPNF_00182;product=Glutamate_synthase_[NADPH]_large_chain
+NODE_24_length_3145_cov_2.444984	Prodigal:002006	CDS	2966	3142	.	+	0	ID=BDCNBPNF_00183;product=Glutamate_synthase_[NADPH]_small_chain
+NODE_26_length_2714_cov_12.142911	Prodigal:002006	CDS	91	435	.	+	0	ID=BDCNBPNF_00184;product=Putative_transposase_InsK_for_insertion_sequence_element_IS150
+NODE_26_length_2714_cov_12.142911	Prodigal:002006	CDS	495	962	.	-	0	ID=BDCNBPNF_00185;product='hypothetical protein'
+NODE_26_length_2714_cov_12.142911	Prodigal:002006	CDS	972	1985	.	-	0	ID=BDCNBPNF_00186;product='hypothetical protein'
+NODE_26_length_2714_cov_12.142911	Prodigal:002006	CDS	2069	2668	.	-	0	ID=BDCNBPNF_00187;product='hypothetical protein'
+NODE_27_length_2672_cov_154.403515	Prodigal:002006	CDS	22	285	.	+	0	ID=BDCNBPNF_00188;product=Type_4_fimbrial_assembly_protein_PilC
+NODE_27_length_2672_cov_154.403515	Prodigal:002006	CDS	390	857	.	+	0	ID=BDCNBPNF_00189;product='hypothetical protein'
+NODE_27_length_2672_cov_154.403515	Prodigal:002006	CDS	878	1627	.	+	0	ID=BDCNBPNF_00190;product=Type_4_prepilin-like_proteins_leader_peptide-processing_enzyme
+NODE_27_length_2672_cov_154.403515	Prodigal:002006	CDS	1639	2628	.	+	0	ID=BDCNBPNF_00191;product='hypothetical protein'
+NODE_28_length_2592_cov_2.274734	Prodigal:002006	CDS	202	492	.	+	0	ID=BDCNBPNF_00192;product='hypothetical protein'
+NODE_28_length_2592_cov_2.274734	Prodigal:002006	CDS	489	1361	.	+	0	ID=BDCNBPNF_00193;product=Putative_transposase_InsK_for_insertion_sequence_element_IS150
+NODE_28_length_2592_cov_2.274734	Prodigal:002006	CDS	1387	2262	.	+	0	ID=BDCNBPNF_00194;product='hypothetical protein'
+NODE_29_length_2516_cov_7.227956	Prodigal:002006	CDS	741	875	.	+	0	ID=BDCNBPNF_00195;product='hypothetical protein'
+NODE_29_length_2516_cov_7.227956	Prodigal:002006	CDS	1448	2509	.	-	0	ID=BDCNBPNF_00196;product=Phosphoglucosamine_mutase
+NODE_30_length_2437_cov_1.348027	Prodigal:002006	CDS	1	564	.	+	0	ID=BDCNBPNF_00197;product=Flagellar_biosynthetic_protein_FliR
+NODE_30_length_2437_cov_1.348027	Prodigal:002006	CDS	565	657	.	+	0	ID=BDCNBPNF_00198;product='hypothetical protein'
+NODE_30_length_2437_cov_1.348027	Prodigal:002006	CDS	754	1644	.	+	0	ID=BDCNBPNF_00199;product=Flagellar_biosynthetic_protein_FlhB
+NODE_30_length_2437_cov_1.348027	Prodigal:002006	CDS	1668	2420	.	-	0	ID=BDCNBPNF_00200;product=Chemotaxis_response_regulator_protein-glutamate_methylesterase
+NODE_31_length_2375_cov_31.327984	Prodigal:002006	CDS	961	2133	.	-	0	ID=BDCNBPNF_00201;product='hypothetical protein'
+NODE_32_length_2364_cov-0000000002	Prodigal:002006	CDS	164	967	.	-	0	ID=BDCNBPNF_00202;product=Septum_site-determining_protein_MinD
+NODE_32_length_2364_cov-0000000002	Prodigal:002006	CDS	969	1694	.	-	0	ID=BDCNBPNF_00203;product=Probable_septum_site-determining_protein_MinC
+NODE_33_length_2342_cov_1.537822	Prodigal:002006	CDS	176	307	.	-	0	ID=BDCNBPNF_00204;product='hypothetical protein'
+NODE_33_length_2342_cov_1.537822	Prodigal:002006	CDS	702	977	.	-	0	ID=BDCNBPNF_00205;product='hypothetical protein'
+NODE_33_length_2342_cov_1.537822	Prodigal:002006	CDS	1595	1756	.	-	0	ID=BDCNBPNF_00206;product='hypothetical protein'
+NODE_34_length_2255_cov-0000000003	Prodigal:002006	CDS	92	595	.	-	0	ID=BDCNBPNF_00207;product=Acetone_carboxylase_gamma_subunit
+NODE_34_length_2255_cov-0000000003	Prodigal:002006	CDS	622	2181	.	-	0	ID=BDCNBPNF_00208;product=Acetone_carboxylase_alpha_subunit
+NODE_35_length_2116_cov_1.511402	Prodigal:002006	CDS	73	375	.	+	0	ID=BDCNBPNF_00209;product='hypothetical protein'
+NODE_35_length_2116_cov_1.511402	Prodigal:002006	CDS	531	1520	.	+	0	ID=BDCNBPNF_00210;product=Xylosidase/arabinosidase
+NODE_35_length_2116_cov_1.511402	Prodigal:002006	CDS	1598	2083	.	-	0	ID=BDCNBPNF_00211;product=Xylose_repressor
+NODE_36_length_2113_cov_745.676871	Prodigal:002006	CDS	705	1244	.	-	0	ID=BDCNBPNF_00212;product='hypothetical protein'
+NODE_36_length_2113_cov_745.676871	Prodigal:002006	CDS	1286	1861	.	-	0	ID=BDCNBPNF_00213;product=Uncharacterized_HTH-type_transcriptional_regulator_YobS
+NODE_37_length_2103_cov_1.605469	Prodigal:002006	CDS	8	427	.	+	0	ID=BDCNBPNF_00214;product='hypothetical protein'
+NODE_37_length_2103_cov_1.605469	Prodigal:002006	CDS	567	1148	.	+	0	ID=BDCNBPNF_00215;product=Peptide_deformylase_2
+NODE_38_length_2099_cov_2.151663	Prodigal:002006	CDS	4	792	.	+	0	ID=BDCNBPNF_00216;product=Uncharacterized_oxidoreductase_YccK
+NODE_38_length_2099_cov_2.151663	Prodigal:002006	CDS	841	1710	.	-	0	ID=BDCNBPNF_00217;product=Cell_division_protein_FtsZ
+NODE_38_length_2099_cov_2.151663	Prodigal:002006	CDS	1801	1983	.	+	0	ID=BDCNBPNF_00218;product='hypothetical protein'
+NODE_39_length_2050_cov_1.722807	Prodigal:002006	CDS	632	1180	.	-	0	ID=BDCNBPNF_00219;product=Flagellar_biosynthesis_protein_FlhA
+NODE_39_length_2050_cov_1.722807	Prodigal:002006	CDS	1282	2049	.	-	0	ID=BDCNBPNF_00220;product=Flagellar_biosynthesis_protein_FlhA
+NODE_40_length_2030_cov-0000000004	Prodigal:002006	CDS	296	742	.	-	0	ID=BDCNBPNF_00221;product='hypothetical protein'
+NODE_40_length_2030_cov-0000000004	Prodigal:002006	CDS	855	1328	.	-	0	ID=BDCNBPNF_00222;product=Uncharacterized_N-acetyltransferase_YbbJ
+NODE_40_length_2030_cov-0000000004	Prodigal:002006	CDS	1347	1835	.	-	0	ID=BDCNBPNF_00223;product=Uncharacterized_protein_YxbD
+NODE_42_length_1828_cov_1.392555	Prodigal:002006	CDS	16	306	.	+	0	ID=BDCNBPNF_00224;product=Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase_TrmFO
+NODE_42_length_1828_cov_1.392555	Prodigal:002006	CDS	372	1301	.	+	0	ID=BDCNBPNF_00225;product=Tyrosine_recombinase_XerC
+NODE_42_length_1828_cov_1.392555	Prodigal:002006	CDS	1413	1508	.	-	0	ID=BDCNBPNF_00226;product='hypothetical protein'
+NODE_42_length_1828_cov_1.392555	Prodigal:002006	CDS	1541	1822	.	-	0	ID=BDCNBPNF_00227;product=DNA_processing_protein_DprA
+NODE_43_length_1769_cov_1.667445	Prodigal:002006	CDS	9	326	.	-	0	ID=BDCNBPNF_00228;product='hypothetical protein'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	692	766	.	+	.	ID=BDCNBPNF_00229;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	769	841	.	+	.	ID=BDCNBPNF_00230;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	865	939	.	+	.	ID=BDCNBPNF_00231;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	974	1049	.	+	.	ID=BDCNBPNF_00232;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	1066	1141	.	+	.	ID=BDCNBPNF_00233;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	1158	1242	.	+	.	ID=BDCNBPNF_00234;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	1399	1473	.	+	.	ID=BDCNBPNF_00235;product='tRNA'
+NODE_43_length_1769_cov_1.667445	Aragorn:001002	tRNA	1645	1717	.	+	.	ID=BDCNBPNF_00236;product='tRNA'
+NODE_44_length_1716_cov_434.044551	Prodigal:002006	CDS	161	838	.	-	0	ID=BDCNBPNF_00237;product=Lipid_A_export_ATP-binding/permease_protein_MsbA
+NODE_44_length_1716_cov_434.044551	Prodigal:002006	CDS	875	1684	.	-	0	ID=BDCNBPNF_00238;product=Uncharacterized_protein_YcaI
+NODE_45_length_1674_cov_8.869055	Prodigal:002006	CDS	30	1598	.	+	0	ID=BDCNBPNF_00239;product='hypothetical protein'
+NODE_46_length_1663_cov_9.086443	Prodigal:002006	CDS	81	1049	.	+	0	ID=BDCNBPNF_00240;product=General_L-amino_acid_transport_system_permease_protein_AapQ
+NODE_46_length_1663_cov_9.086443	Prodigal:002006	CDS	1058	1657	.	+	0	ID=BDCNBPNF_00241;product='hypothetical protein'
+NODE_47_length_1655_cov_50.170625	Prodigal:002006	CDS	4	705	.	+	0	ID=BDCNBPNF_00242;product=Uncharacterized_MscS_family_protein_YhdY
+NODE_47_length_1655_cov_50.170625	Prodigal:002006	CDS	792	1394	.	+	0	ID=BDCNBPNF_00243;product=Pyrrolidone-carboxylate_peptidase
+NODE_48_length_1642_cov-0000000005	Prodigal:002006	CDS	164	556	.	+	0	ID=BDCNBPNF_00244;product='hypothetical protein'
+NODE_48_length_1642_cov-0000000005	Prodigal:002006	CDS	441	1184	.	-	0	ID=BDCNBPNF_00245;product='hypothetical protein'
+NODE_48_length_1642_cov-0000000005	Prodigal:002006	CDS	1233	1574	.	-	0	ID=BDCNBPNF_00246;product='hypothetical protein'
+NODE_49_length_1608_cov_334.559562	Prodigal:002006	CDS	247	648	.	+	0	ID=BDCNBPNF_00247;product=Beta-Ala-His_dipeptidase
+NODE_49_length_1608_cov_334.559562	Prodigal:002006	CDS	521	781	.	-	0	ID=BDCNBPNF_00248;product='hypothetical protein'
+NODE_49_length_1608_cov_334.559562	Prodigal:002006	CDS	928	1155	.	+	0	ID=BDCNBPNF_00249;product='hypothetical protein'
+NODE_49_length_1608_cov_334.559562	Prodigal:002006	CDS	1219	1353	.	+	0	ID=BDCNBPNF_00250;product='hypothetical protein'
+NODE_50_length_1599_cov_2.246114	Prodigal:002006	CDS	72	779	.	+	0	ID=BDCNBPNF_00251;product=SPBc2_prophage-derived_endonuclease_YokF
+NODE_50_length_1599_cov_2.246114	Prodigal:002006	CDS	1227	1592	.	+	0	ID=BDCNBPNF_00252;product='hypothetical protein'
+NODE_51_length_1598_cov_830.398574	Prodigal:002006	CDS	308	670	.	+	0	ID=BDCNBPNF_00253;product='hypothetical protein'
+NODE_51_length_1598_cov_830.398574	Prodigal:002006	CDS	680	1027	.	-	0	ID=BDCNBPNF_00254;product='hypothetical protein'
+NODE_51_length_1598_cov_830.398574	Prodigal:002006	CDS	1412	1582	.	-	0	ID=BDCNBPNF_00255;product='hypothetical protein'
+NODE_52_length_1581_cov_1.516383	Prodigal:002006	CDS	62	262	.	+	0	ID=BDCNBPNF_00256;product='hypothetical protein'
+NODE_52_length_1581_cov_1.516383	Prodigal:002006	CDS	374	838	.	-	0	ID=BDCNBPNF_00257;product='hypothetical protein'
+NODE_52_length_1581_cov_1.516383	Prodigal:002006	CDS	978	1427	.	-	0	ID=BDCNBPNF_00258;product='hypothetical protein'
+NODE_53_length_1521_cov_369.282401	Prodigal:002006	CDS	177	542	.	-	0	ID=BDCNBPNF_00259;product='hypothetical protein'
+NODE_53_length_1521_cov_369.282401	Prodigal:002006	CDS	564	1175	.	-	0	ID=BDCNBPNF_00260;product=Probable_GMP_synthase_[glutamine-hydrolyzing]
+NODE_54_length_1498_cov_464.503812	Prodigal:002006	CDS	372	587	.	-	0	ID=BDCNBPNF_00261;product=Uncharacterized_HTH-type_transcriptional_regulator_YozG
+NODE_54_length_1498_cov_464.503812	Prodigal:002006	CDS	598	1083	.	-	0	ID=BDCNBPNF_00262;product=Uncharacterized_membrane_protein_YoaS
+NODE_55_length_1495_cov_3.843750	Prodigal:002006	CDS	1083	1322	.	-	0	ID=BDCNBPNF_00263;product='hypothetical protein'
+NODE_56_length_1494_cov_2.934151	Prodigal:002006	CDS	941	1492	.	-	0	ID=BDCNBPNF_00264;product='hypothetical protein'
+NODE_57_length_1479_cov_8.020209	Prodigal:002006	CDS	65	451	.	+	0	ID=BDCNBPNF_00265;product=Subtilisin
+NODE_57_length_1479_cov_8.020209	Prodigal:002006	CDS	500	1459	.	-	0	ID=BDCNBPNF_00266;product=Uncharacterized_MFS-type_transporter_YuxJ
+NODE_58_length_1363_cov_31.643731	Prodigal:002006	CDS	283	1356	.	-	0	ID=BDCNBPNF_00267;product=General_L-amino_acid-binding_periplasmic_protein_AapJ
+NODE_59_length_1333_cov_1.758998	Prodigal:002006	CDS	796	1302	.	-	0	ID=BDCNBPNF_00268;product=Flagellar_biosynthesis_protein_FlhF
+NODE_60_length_1169_cov_963.275583	Prodigal:002006	CDS	938	1159	.	-	0	ID=BDCNBPNF_00269;product='hypothetical protein'
+NODE_61_length_1103_cov-0000000006	Prodigal:002006	CDS	343	819	.	-	0	ID=BDCNBPNF_00270;product='hypothetical protein'
+NODE_62_length_1098_cov-0000000007	Prodigal:002006	CDS	67	219	.	-	0	ID=BDCNBPNF_00271;product='hypothetical protein'
+NODE_62_length_1098_cov-0000000007	Prodigal:002006	CDS	480	596	.	+	0	ID=BDCNBPNF_00272;product='hypothetical protein'
+NODE_62_length_1098_cov-0000000007	Prodigal:002006	CDS	624	944	.	+	0	ID=BDCNBPNF_00273;product='hypothetical protein'
+NODE_63_length_1088_cov-0000000008	Prodigal:002006	CDS	496	855	.	+	0	ID=BDCNBPNF_00274;product='hypothetical protein'
+NODE_64_length_1052_cov_3.364092	Prodigal:002006	CDS	88	237	.	+	0	ID=BDCNBPNF_00275;product='hypothetical protein'
+NODE_64_length_1052_cov_3.364092	Prodigal:002006	CDS	234	977	.	+	0	ID=BDCNBPNF_00276;product='hypothetical protein'
+NODE_65_length_1032_cov-0000000009	Prodigal:002006	CDS	81	716	.	+	0	ID=BDCNBPNF_00277;product=Acetoacetate_metabolism_regulatory_protein_AtoC
+NODE_66_length_1030_cov-0000000010	Prodigal:002006	CDS	638	1018	.	-	0	ID=BDCNBPNF_00278;product='hypothetical protein'
+NODE_67_length_1000_cov_1.637037	Prodigal:002006	CDS	451	570	.	-	0	ID=BDCNBPNF_00279;product='hypothetical protein'
+NODE_67_length_1000_cov_1.637037	Prodigal:002006	CDS	592	741	.	-	0	ID=BDCNBPNF_00280;product='hypothetical protein'
+NODE_68_length_976_cov_1.524430	Prodigal:002006	CDS	41	883	.	-	0	ID=BDCNBPNF_00281;product=Lipoteichoic_acid_synthase-like_YqgS
+NODE_69_length_959_cov_2617.994469	Prodigal:002006	CDS	481	876	.	+	0	ID=BDCNBPNF_00282;product='hypothetical protein'
+NODE_70_length_939_cov_2212.463801	Prodigal:002006	CDS	215	364	.	-	0	ID=BDCNBPNF_00283;product='hypothetical protein'
+NODE_71_length_900_cov_2110.004734	Prodigal:002006	CDS	499	714	.	-	0	ID=BDCNBPNF_00284;product='hypothetical protein'
+NODE_72_length_895_cov_1.339286	Prodigal:002006	CDS	71	604	.	+	0	ID=BDCNBPNF_00285;product=Septation_ring_formation_regulator_EzrA
+NODE_73_length_894_cov_1.624553	Prodigal:002006	CDS	193	546	.	-	0	ID=BDCNBPNF_00286;product=Oxygen-independent_coproporphyrinogen_III_oxidase
+NODE_74_length_844_cov_44.822560	Prodigal:002006	CDS	424	726	.	-	0	ID=BDCNBPNF_00287;product='hypothetical protein'
+NODE_75_length_828_cov_1060.384217	Prodigal:002006	CDS	152	304	.	+	0	ID=BDCNBPNF_00288;product='hypothetical protein'
+NODE_76_length_824_cov_4.360208	Prodigal:002006	CDS	153	371	.	-	0	ID=BDCNBPNF_00289;product=Inner_membrane_protein_YjcH
+NODE_76_length_824_cov_4.360208	Prodigal:002006	CDS	338	814	.	-	0	ID=BDCNBPNF_00290;product=Cation/acetate_symporter_ActP
+NODE_77_length_779_cov_1.660221	Prodigal:002006	CDS	71	499	.	+	0	ID=BDCNBPNF_00291;product='hypothetical protein'
+NODE_77_length_779_cov_1.660221	Prodigal:002006	CDS	551	778	.	-	0	ID=BDCNBPNF_00292;product=Cystathionine_beta-lyase_PatB
+NODE_78_length_769_cov_1.065826	Prodigal:002006	CDS	248	580	.	-	0	ID=BDCNBPNF_00293;product='hypothetical protein'
+NODE_78_length_769_cov_1.065826	Prodigal:002006	CDS	580	714	.	-	0	ID=BDCNBPNF_00294;product='hypothetical protein'
+NODE_79_length_767_cov_1094.299157	Prodigal:002006	CDS	195	539	.	-	0	ID=BDCNBPNF_00295;product='hypothetical protein'
+NODE_80_length_757_cov_0.896011	Prodigal:002006	CDS	364	735	.	-	0	ID=BDCNBPNF_00296;product=30S_ribosomal_protein_S4
+NODE_81_length_744_cov_7.204644	Prodigal:002006	CDS	276	716	.	-	0	ID=BDCNBPNF_00297;product=ABC_transporter_ATP-binding/permease_protein_YojI
+NODE_83_length_726_cov_2.488823	Prodigal:002006	CDS	21	338	.	+	0	ID=BDCNBPNF_00298;product='hypothetical protein'
+NODE_85_length_722_cov_0.983508	Prodigal:002006	CDS	364	534	.	+	0	ID=BDCNBPNF_00299;product='hypothetical protein'
+NODE_88_length_682_cov_1.921850	Prodigal:002006	CDS	6	395	.	+	0	ID=BDCNBPNF_00300;product=Multidrug_resistance-like_ATP-binding_protein_MdlB
+NODE_88_length_682_cov_1.921850	Prodigal:002006	CDS	361	552	.	+	0	ID=BDCNBPNF_00301;product=Multidrug_resistance-like_ATP-binding_protein_MdlA
+NODE_89_length_681_cov_1086.869010	Prodigal:002006	CDS	428	628	.	+	0	ID=BDCNBPNF_00302;product='hypothetical protein'
+NODE_91_length_664_cov_1.707718	Prodigal:002006	CDS	22	297	.	+	0	ID=BDCNBPNF_00303;product='hypothetical protein'
+NODE_91_length_664_cov_1.707718	Prodigal:002006	CDS	353	556	.	-	0	ID=BDCNBPNF_00304;product='hypothetical protein'
+NODE_92_length_654_cov_1.096828	Prodigal:002006	CDS	77	178	.	+	0	ID=BDCNBPNF_00305;product=Succinate--CoA_ligase_[ADP-forming]_subunit_beta
+NODE_93_length_645_cov_1.130508	Prodigal:002006	CDS	95	631	.	-	0	ID=BDCNBPNF_00306;product=Putative_acyl-CoA_dehydrogenase_YdbM
+NODE_94_length_639_cov_414.500000	Prodigal:002006	CDS	186	434	.	-	0	ID=BDCNBPNF_00307;product='hypothetical protein'
+NODE_96_length_610_cov_1228.657658	Prodigal:002006	CDS	39	566	.	+	0	ID=BDCNBPNF_00308;product='hypothetical protein'
+NODE_99_length_599_cov_1.468750	Prodigal:002006	CDS	8	544	.	+	0	ID=BDCNBPNF_00309;product=Succinate--CoA_ligase_[ADP-forming]_subunit_alpha
+NODE_100_length_597_cov-0000000011	Prodigal:002006	CDS	41	250	.	+	0	ID=BDCNBPNF_00310;product='hypothetical protein'
+NODE_101_length_575_cov-0000000012	Prodigal:002006	CDS	22	147	.	+	0	ID=BDCNBPNF_00311;product='hypothetical protein'
+NODE_102_length_564_cov_1.196464	Prodigal:002006	CDS	16	279	.	+	0	ID=BDCNBPNF_00312;product=Xylulose_kinase
+NODE_103_length_555_cov_271.196000	Prodigal:002006	CDS	90	542	.	-	0	ID=BDCNBPNF_00313;product='hypothetical protein'
+NODE_104_length_550_cov_0.967677	Prodigal:002006	CDS	187	324	.	-	0	ID=BDCNBPNF_00314;product='hypothetical protein'
+NODE_106_length_536_cov_0.742204	Prodigal:002006	CDS	143	328	.	-	0	ID=BDCNBPNF_00315;product='hypothetical protein'
+NODE_106_length_536_cov_0.742204	Prodigal:002006	CDS	325	495	.	-	0	ID=BDCNBPNF_00316;product='hypothetical protein'
+NODE_107_length_535_cov_8.227083	Prodigal:002006	CDS	21	206	.	+	0	ID=BDCNBPNF_00317;product=Formate_hydrogenlyase_subunit_2
+NODE_107_length_535_cov_8.227083	Prodigal:002006	CDS	218	376	.	+	0	ID=BDCNBPNF_00318;product=Formate_hydrogenlyase_regulatory_protein_HycA
+NODE_109_length_530_cov-0000000014	Prodigal:002006	CDS	61	402	.	-	0	ID=BDCNBPNF_00319;product='hypothetical protein'
+NODE_112_length_510_cov_0.901099	Prodigal:002006	CDS	16	327	.	-	0	ID=BDCNBPNF_00320;product='hypothetical protein'
+NODE_114_length_500_cov-0000000016	Prodigal:002006	CDS	208	366	.	-	0	ID=BDCNBPNF_00321;product='hypothetical protein'
+NODE_117_length_488_cov-0000000017	Prodigal:002006	CDS	77	472	.	-	0	ID=BDCNBPNF_00322;product='hypothetical protein'
+NODE_118_length_484_cov_0.927739	Prodigal:002006	CDS	30	362	.	+	0	ID=BDCNBPNF_00323;product=Gamma-aminobutyraldehyde_dehydrogenase
+NODE_119_length_483_cov_9.780374	Prodigal:002006	CDS	20	163	.	+	0	ID=BDCNBPNF_00324;product='hypothetical protein'
+NODE_121_length_472_cov_1.107914	Prodigal:002006	CDS	123	230	.	+	0	ID=BDCNBPNF_00325;product=Outer_membrane_usher_protein_SfmD
+NODE_123_length_460_cov_1.286420	Prodigal:002006	CDS	70	447	.	-	0	ID=BDCNBPNF_00326;product='hypothetical protein'
+NODE_125_length_456_cov-0000000019	Prodigal:002006	CDS	24	455	.	-	0	ID=BDCNBPNF_00327;product='hypothetical protein'
+NODE_126_length_455_cov_1.840000	Prodigal:002006	CDS	264	410	.	-	0	ID=BDCNBPNF_00328;product='hypothetical protein'
+NODE_128_length_452_cov_2.279597	Prodigal:002006	CDS	137	304	.	+	0	ID=BDCNBPNF_00329;product='hypothetical protein'
+NODE_128_length_452_cov_2.279597	Prodigal:002006	CDS	304	432	.	+	0	ID=BDCNBPNF_00330;product='hypothetical protein'
+NODE_132_length_439_cov_0.895833	Prodigal:002006	CDS	111	404	.	+	0	ID=BDCNBPNF_00331;product='hypothetical protein'
+NODE_134_length_434_cov_0.986807	Prodigal:002006	CDS	124	417	.	-	0	ID=BDCNBPNF_00332;product='hypothetical protein'
+NODE_138_length_422_cov-0000000021	Prodigal:002006	CDS	136	327	.	+	0	ID=BDCNBPNF_00333;product=Regulatory_protein_rop
+NODE_140_length_417_cov_1.748619	Prodigal:002006	CDS	68	367	.	-	0	ID=BDCNBPNF_00334;product='hypothetical protein'
+NODE_147_length_375_cov_18.203125	Prodigal:002006	CDS	17	259	.	+	0	ID=BDCNBPNF_00335;product='hypothetical protein'
+NODE_151_length_360_cov_993.645902	Prodigal:002006	CDS	116	331	.	-	0	ID=BDCNBPNF_00336;product='hypothetical protein'
+NODE_154_length_359_cov_0.690789	Prodigal:002006	CDS	137	328	.	-	0	ID=BDCNBPNF_00337;product='hypothetical protein'
+NODE_155_length_355_cov-0000000022	Prodigal:002006	CDS	36	293	.	-	0	ID=BDCNBPNF_00338;product=Uncharacterized_15.3_kDa_protein
+NODE_159_length_348_cov-0000000024	Prodigal:002006	CDS	77	346	.	-	0	ID=BDCNBPNF_00339;product='hypothetical protein'
+NODE_160_length_347_cov_1.489726	Prodigal:002006	CDS	55	276	.	-	0	ID=BDCNBPNF_00340;product=Putative_amidohydrolase_YhaA
+NODE_162_length_343_cov_1.604167	Prodigal:002006	CDS	88	303	.	-	0	ID=BDCNBPNF_00341;product='hypothetical protein'
+NODE_181_length_306_cov_1.119522	Prodigal:002006	CDS	16	153	.	-	0	ID=BDCNBPNF_00342;product=Uncharacterized_protein_YtfP
+NODE_186_length_299_cov-0000000030	Prodigal:002006	CDS	106	273	.	+	0	ID=BDCNBPNF_00343;product='hypothetical protein'
+NODE_188_length_298_cov_0.888889	Prodigal:002006	CDS	22	162	.	-	0	ID=BDCNBPNF_00344;product='hypothetical protein'
+NODE_190_length_292_cov_0.962025	Prodigal:002006	CDS	22	240	.	-	0	ID=BDCNBPNF_00345;product=DNA_polymerase
+NODE_194_length_285_cov_0.708696	Prodigal:002006	CDS	29	241	.	+	0	ID=BDCNBPNF_00346;product=Uncharacterized_oxidoreductase_YgbJ
+NODE_203_length_274_cov_0.780822	Prodigal:002006	CDS	46	216	.	+	0	ID=BDCNBPNF_00347;product='hypothetical protein'
+NODE_205_length_270_cov_0.497674	Prodigal:002006	CDS	93	236	.	-	0	ID=BDCNBPNF_00348;product='hypothetical protein'
+NODE_213_length_260_cov_0.682927	Prodigal:002006	CDS	47	151	.	+	0	ID=BDCNBPNF_00349;product='hypothetical protein'
+NODE_219_length_255_cov_1.155000	Prodigal:002006	CDS	86	235	.	-	0	ID=BDCNBPNF_00350;product=ATP-dependent_protease_ATPase_subunit_ClpY
+NODE_221_length_251_cov_0.750000	Prodigal:002006	CDS	47	205	.	-	0	ID=BDCNBPNF_00351;product='hypothetical protein'
+NODE_237_length_234_cov_1.055866	Prodigal:002006	CDS	36	200	.	+	0	ID=BDCNBPNF_00352;product='hypothetical protein'
+NODE_260_length_210_cov_1.141935	Prodigal:002006	CDS	10	174	.	+	0	ID=BDCNBPNF_00353;product='hypothetical protein'
+NODE_269_length_189_cov_20.410448	Prodigal:002006	CDS	18	185	.	-	0	ID=BDCNBPNF_00354;product='hypothetical protein'
+NODE_280_length_161_cov_15.075472	Aragorn:001002	tRNA	15	89	.	+	.	ID=BDCNBPNF_00355;product='tRNA'
+NODE_3528_length_110_cov_29.181818	Prodigal:002006	CDS	10	102	.	-	0	ID=BDCNBPNF_00356;product='hypothetical protein'
+NODE_3929_length_110_cov_25.581818	Prodigal:002006	CDS	18	110	.	+	0	ID=BDCNBPNF_00357;product='hypothetical protein'
+NODE_4045_length_110_cov_24.436364	Prodigal:002006	CDS	3	95	.	-	0	ID=BDCNBPNF_00358;product='hypothetical protein'
+NODE_5786_length_110_cov_11.800000	Prodigal:002006	CDS	4	96	.	-	0	ID=BDCNBPNF_00359;product='hypothetical protein'
+NODE_6461_length_110_cov_7.781818	Prodigal:002006	CDS	15	107	.	+	0	ID=BDCNBPNF_00360;product='hypothetical protein'
+NODE_11662_length_107_c-0000001871	Prodigal:002006	CDS	14	106	.	+	0	ID=BDCNBPNF_00361;product='hypothetical protein'
+NODE_11676_length_107_c-0000001885	Prodigal:002006	CDS	8	100	.	+	0	ID=BDCNBPNF_00362;product='hypothetical protein'

@@ -1,0 +1,140 @@
+c_000000000001_1	WP_077619935.1	96.4	112	4	4.46e-69	213	response regulator [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K02490
+c_000000000001_2	WP_116351981.1	95.1	285	14	1.97e-193	541	fructose-bisphosphate aldolase [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K01624
+c_000000000001_3	WP_099360886.1	97.0	428	13	2.59e-293	806	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K00790
+c_000000000001_4	WP_136381205.1	96.9	320	10	1.80e-218	607	class II fructose-bisphosphatase [Bacillus timonensis]	Bacillus timonensis	1033734	K02446
+c_000000000001_7	WP_099360898.1	98.0	150	3	1.53e-103	303	ribose 5-phosphate isomerase B [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K01808
+c_000000000001_8	WP_099360897.1	88.4	405	47	4.94e-178	513	methyl-accepting chemotaxis protein [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K03406
+c_000000000001_9	WP_077619919.1	83.8	142	23	1.25e-82	250	low molecular weight protein arginine phosphatase [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K20201
+c_000000000001_9	WP_077619919.1	83.8	142	23	1.25e-82	250	low molecular weight protein arginine phosphatase [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K25307
+c_000000000001_10	WP_010677209.1	93.6	172	11	3.09e-108	317	manganese efflux pump MntP family protein [Bacillus timonensis]	Bacillus timonensis	1033734	K23242
+c_000000000001_11	WP_116351995.1	85.6	347	50	1.64e-207	582	L-threonylcarbamoyladenylate synthase [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K07566
+c_000000000001_13	WP_010677212.1	87.4	222	27	1.48e-113	334	stage II sporulation protein R [Bacillus timonensis]	Bacillus timonensis	1033734	K06387
+c_000000000001_14	WP_229139218.1	95.6	68	3	1.03e-35	125	helix-turn-helix transcriptional regulator [Bacillus sp. REN16]	Bacillus sp. REN16	2887296	K07729
+c_000000000001_16	WP_057998193.1	81.3	289	54	7.15e-166	472	peptide chain release factor N(5)-glutamine methyltransferase [Fredinandcohnia humi]	Fredinandcohnia humi	263474	K02493
+c_000000000001_17	RFB17265.1	97.8	358	8	1.57e-238	661	peptide chain release factor 1 [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K02835
+c_000000000001_18	WP_159439982.1	87.1	171	22	7.06e-95	283	MerR family transcriptional regulator [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K11686
+c_000000000001_19	WP_099354604.1	90.5	190	18	1.05e-118	345	thymidine kinase [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K00857
+c_000000000001_20	AFQ59558.1	79.1	86	18	4.50e-44	148	Ribosomal protein L31 [Bacillus subtilis QB928]	Bacillus subtilis QB928	1220533	K02909
+c_000000000001_21	WP_099354606.1	99.2	255	2	2.49e-166	477	transcription termination factor Rho [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K03628
+c_000000000002_18	WP_206838647.1	59.0	249	100	1.07e-99	302	ATP-binding protein [Bacillus sp. NTK034]	Bacillus sp. NTK034	2802176	K02315
+c_000000000002_31	WP_057768136.1	77.3	374	85	4.29e-208	586	site-specific integrase [Cytobacillus praedii]	Cytobacillus praedii	1742358	K14059
+c_000000000002_33	WP_229140521.1	85.0	200	30	1.76e-114	340	SepM family pheromone-processing serine protease [Bacillus sp. REN16]	Bacillus sp. REN16	2887296	K07177
+c_000000000003_3	WP_224935323.1	98.3	417	7	2.96e-282	777	HAMP domain-containing sensor histidine kinase [Cytobacillus kochii]	Cytobacillus kochii	859143	K07697
+c_000000000003_6	WP_095370125.1	99.6	243	1	1.56e-169	477	LytTR family DNA-binding domain-containing protein [Cytobacillus kochii]	Cytobacillus kochii	859143	K07705
+c_000000000003_6	WP_095370125.1	99.6	243	1	1.56e-169	477	LytTR family DNA-binding domain-containing protein [Cytobacillus kochii]	Cytobacillus kochii	859143	K02477
+c_000000000003_7	WP_095370124.1	100	582	0	0.0	1103	sensor histidine kinase [Cytobacillus kochii]	Cytobacillus kochii	859143	K07704
+c_000000000003_7	WP_095370124.1	100	582	0	0.0	1103	sensor histidine kinase [Cytobacillus kochii]	Cytobacillus kochii	859143	K02478
+c_000000000003_8	WP_095370123.1	100	66	0	5.35e-40	135	MULTISPECIES: cold-shock protein [Cytobacillus]	Cytobacillus	2675230	K03704
+c_000000000003_9	WP_095370122.1	99.6	247	1	5.05e-177	496	type I methionyl aminopeptidase [Cytobacillus kochii]	Cytobacillus kochii	859143	K01265
+c_000000000003_10	WP_095370121.1	100	330	0	9.09e-233	644	zinc-binding dehydrogenase [Cytobacillus kochii]	Cytobacillus kochii	859143	K13955
+c_000000000004_1	WP_010284907.1	92.9	282	20	1.00e-177	513	glutamine--fructose-6-phosphate transaminase (isomerizing) [Bacillus timonensis]	Bacillus timonensis	1033734	K00820
+c_000000000004_3	WP_093131744.1	91.8	219	18	3.31e-139	402	ABC transporter ATP-binding protein [Salinibacillus kushneri]	Salinibacillus kushneri	237682	K25150
+c_000000000004_3	WP_093131744.1	91.8	219	18	3.31e-139	402	ABC transporter ATP-binding protein [Salinibacillus kushneri]	Salinibacillus kushneri	237682	K01990
+c_000000000004_6	WP_116354751.1	95.2	273	13	7.25e-182	512	diadenylate cyclase CdaA [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K18672
+c_000000000004_8	WP_077620262.1	96.3	187	7	2.80e-122	353	RNA polymerase sigma factor SigW [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K03088
+c_000000000004_9	WP_010284929.1	93.7	300	19	6.12e-200	559	arginase [Bacillus timonensis]	Bacillus timonensis	1033734	K01476
+c_000000000006_4	WP_134209225.1	77.4	402	91	5.85e-216	608	IS110 family transposase [Paenisporosarcina antarctica]	Paenisporosarcina antarctica	417367	K07486
+c_000000000006_6	WP_077620573.1	88.6	616	70	0.0	1131	asparagine synthase (glutamine-hydrolyzing) [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K01953
+c_000000000007_3	WP_099361902.1	82.0	172	31	3.94e-102	301	shikimate kinase [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K00891
+c_000000000007_4	WP_099352283.1	69.0	126	39	1.45e-54	177	competence type IV pilus minor pilin ComGG [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K02249
+c_000000000007_5	WP_159439939.1	80.9	141	27	7.54e-74	228	competence type IV pilus minor pilin ComGF [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K02248
+c_000000000007_6	WP_010678103.1	69.9	103	31	2.74e-43	147	competence type IV pilus minor pilin ComGE [Bacillus timonensis]	Bacillus timonensis	1033734	K02247
+c_000000000007_7	WP_077618793.1	71.0	107	31	2.20e-46	157	competence type IV pilus minor pilin ComGD [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K02246
+c_000000000007_8	WP_229139682.1	72.0	107	26	2.95e-39	137	competence type IV pilus major pilin ComGC [Bacillus sp. REN16]	Bacillus sp. REN16	2887296	K02245
+c_000000000007_9	WP_099352279.1	87.3	347	44	8.11e-208	583	competence type IV pilus assembly protein ComGB [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K02244
+c_000000000007_10	WP_099352322.1	95.3	358	17	6.53e-247	682	competence type IV pilus ATPase ComGA [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K02243
+c_000000000008_2	WP_189655249.1	72.7	352	96	7.78e-183	520	redoxin domain-containing protein [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K02199
+c_000000000008_6	WP_099361669.1	87.5	335	42	6.75e-204	572	TAXI family TRAP transporter solute-binding subunit [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K07080
+c_000000000009_1	SLL32497.1	100	154	0	4.29e-95	282	rod shape-determining protein MreD [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03571
+c_000000000009_2	SLL32496.1	98.7	297	4	4.85e-200	559	rod shape-determining protein MreC [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03570
+c_000000000009_3	SLL32495.1	99.7	340	1	1.77e-235	652	Chaperone protein DnaK (Hsp 70) [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03569
+c_000000000009_4	SLL32494.1	100	227	0	3.04e-159	450	DNA repair protein RadC [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03630
+c_000000000009_5	SLL32493.1	99.0	191	2	3.11e-130	374	MAF protein [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K06287
+c_000000000009_6	SLL32492.1	99.2	370	3	2.68e-236	657	Stage II sporulation protein B [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K06380
+c_000000000010_2	WP_010677736.1	72.8	302	82	1.62e-155	447	polysaccharide deacetylase family protein [Bacillus timonensis]	Bacillus timonensis	1033734	K22278
+c_000000000011_1	WP_099361913.1	73.6	397	105	3.98e-217	610	M14 family zinc carboxypeptidase [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K01308
+c_000000000011_4	WP_116354510.1	85.8	211	30	1.89e-136	391	MBL fold metallo-hydrolase [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K01069
+c_000000000012_2	WP_016837957.1	99.7	381	1	3.53e-274	753	polysaccharide pyruvyl transferase family protein [Ureibacillus thermosphaericus]	Ureibacillus thermosphaericus	51173	K16710
+c_000000000012_4	WP_016837959.1	99.2	490	4	0.0	912	murein biosynthesis integral membrane protein MurJ [Ureibacillus thermosphaericus]	Ureibacillus thermosphaericus	51173	K03980
+c_000000000013_1	WP_184526037.1	82.8	262	45	5.88e-143	416	cysteine desulfurase family protein [Bacillus benzoevorans]	Bacillus benzoevorans	1456	K04487
+c_000000000013_2	WP_184526035.1	92.7	274	20	3.68e-177	506	tRNA 4-thiouridine(8) synthase ThiI [Bacillus benzoevorans]	Bacillus benzoevorans	1456	K03151
+c_000000000013_3	WP_184526039.1	86.4	375	51	2.94e-216	614	septation ring formation regulator EzrA [Bacillus benzoevorans]	Bacillus benzoevorans	1456	K06286
+c_000000000013_4	WP_184526041.1	82.4	262	46	4.66e-163	462	histidinol-phosphatase HisJ [Bacillus benzoevorans]	Bacillus benzoevorans	1456	K04486
+c_000000000014_2	WP_095371966.1	100	115	0	4.20e-73	223	helix-turn-helix transcriptional regulator [Cytobacillus kochii]	Cytobacillus kochii	859143	K10947
+c_000000000014_4	WP_095373605.1	99.8	505	1	0.0	967	BCCT family transporter [Cytobacillus kochii]	Cytobacillus kochii	859143	K05020
+c_000000000016_1	WP_095371905.1	98.8	338	4	3.12e-229	636	sugar-binding domain-containing protein [Cytobacillus kochii]	Cytobacillus kochii	859143	K05311
+c_000000000016_3	WP_224937088.1	96.8	444	14	6.21e-300	824	RNA polymerase factor sigma-54 [Cytobacillus kochii]	Cytobacillus kochii	859143	K03092
+c_000000000016_4	WP_251161713.1	100	109	0	2.56e-72	221	transposase [Cytobacillus kochii]	Cytobacillus kochii	859143	K07483
+c_000000000016_5	WP_224939362.1	99.3	139	1	3.30e-93	278	IS3 family transposase, partial [Cytobacillus kochii]	Cytobacillus kochii	859143	K07497
+c_000000000017_2	WP_077620027.1	93.5	278	18	6.36e-180	507	ABC transporter permease [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K15554
+c_000000000017_2	WP_077620027.1	93.5	278	18	6.36e-180	507	ABC transporter permease [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K02050
+c_000000000017_3	WP_077620028.1	90.3	331	32	1.60e-206	578	aliphatic sulfonate ABC transporter substrate-binding protein [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K15553
+c_000000000017_3	WP_077620028.1	90.3	331	32	1.60e-206	578	aliphatic sulfonate ABC transporter substrate-binding protein [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K02051
+c_000000000017_4	WP_099351450.1	85.0	167	25	3.98e-96	285	DoxX family membrane protein [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K16937
+c_000000000019_1	WP_095371969.1	100	710	0	0.0	1299	MMPL family transporter [Cytobacillus kochii]	Cytobacillus kochii	859143	K06994
+c_000000000020_1	WP_019152653.1	86.7	286	38	3.02e-173	496	M20/M25/M40 family metallo-hydrolase [Robertmurraya massiliosenegalensis]	Robertmurraya massiliosenegalensis	1287657	K01258
+c_000000000021_1	WP_077618786.1	90.9	339	31	4.07e-223	621	GTP 3',8-cyclase MoaA [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K03639
+c_000000000022_1	WP_258570696.1	90.7	302	28	3.66e-209	585	M3 family metallopeptidase [Bacillus sp. IITD106]	Bacillus sp. IITD106	2864214	K08602
+c_000000000022_2	WP_071393995.1	89.5	285	30	1.13e-177	502	ribose ABC transporter substrate-binding protein RbsB [Bacillus tuaregi]	Bacillus tuaregi	1816695	K10439
+c_000000000022_3	WP_063253588.1	90.9	318	28	8.94e-191	537	ribose ABC transporter permease RbsC [Neobacillus niacini]	Neobacillus niacini	86668	K10440
+c_000000000022_3	WP_063253588.1	90.9	318	28	8.94e-191	537	ribose ABC transporter permease RbsC [Neobacillus niacini]	Neobacillus niacini	86668	K02057
+c_000000000025_1	WP_163243171.1	92.4	397	30	8.70e-273	752	group II intron reverse transcriptase/maturase [Bacillus aquiflavi]	Bacillus aquiflavi	2672567	K00986
+c_000000000026_1	WP_251161712.1	98.6	144	2	1.39e-95	287	IS3 family transposase [Cytobacillus kochii]	Cytobacillus kochii	859143	K07497
+c_000000000027_3	SLL32488.1	99.2	249	2	2.27e-165	467	Pectic enzymes secretion protein outO [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02236
+c_000000000027_3	SLL32488.1	99.2	249	2	2.27e-165	467	Pectic enzymes secretion protein outO [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02654
+c_000000000027_4	SLL32489.1	98.8	329	4	3.09e-219	610	type IV pilus assembly protein PilM [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02662
+c_000000000028_2	MBS4171888.1	73.4	286	76	1.36e-152	438	IS3 family transposase [Bacillus sp. FJAT-49736]	Bacillus sp. FJAT-49736	2833582	K07497
+c_000000000029_1	WP_077620267.1	88.7	336	38	2.80e-209	596	glutamine--fructose-6-phosphate transaminase (isomerizing) [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K00820
+c_000000000029_2	WP_010284909.1	93.5	355	23	3.20e-236	659	phosphoglucosamine mutase [Bacillus timonensis]	Bacillus timonensis	1033734	K03431
+c_000000000030_1	SLL36335.1	100	187	0	5.46e-118	345	Flagellar biosynthetic protein fliR [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02421
+c_000000000030_2	SLL36334.1	98.6	296	4	2.67e-191	539	Flagellar biosynthetic protein flhB [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02401
+c_000000000030_3	SLL36330.1	99.2	245	2	7.20e-162	463	chemotaxis response regulator containing a CheY-like receiver domain and a methylesterase domain [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03412
+c_000000000031_2	WP_010677328.1	96.4	387	14	1.07e-284	781	carboxylate--amine ligase [Bacillus timonensis]	Bacillus timonensis	1033734	K17810
+c_000000000032_1	SLL32499.1	100	267	0	2.30e-183	514	chromosome segregation ATPase [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03609
+c_000000000032_2	SLL32498.1	100	241	0	5.84e-164	463	Septum site-determining protein MinC [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03610
+c_000000000033_2	WP_116352186.1	82.8	587	98	0.0	965	penicillin-binding transpeptidase domain-containing protein [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K21467
+c_000000000034_1	WP_150439255.1	91.6	166	14	9.63e-115	332	acetone carboxylase subunit gamma [Niallia endozanthoxylica]	Niallia endozanthoxylica	2036016	K10856
+c_000000000034_2	WP_221874155.1	94.1	528	31	0.0	1043	hydantoinase B/oxoprolinase family protein [Mesobacillus maritimus]	Mesobacillus maritimus	1643336	K10854
+c_000000000035_2	WP_087947078.1	92.9	326	23	6.44e-237	655	glycoside hydrolase family 43 protein [Bacillus timonensis]	Bacillus timonensis	1033734	K15921
+c_000000000037_2	WP_099352611.1	85.5	193	28	3.30e-119	346	peptide deformylase [Fredinandcohnia onubensis]	Fredinandcohnia onubensis	1571209	K01462
+c_000000000037_3	WP_077619306.1	83.3	311	52	3.50e-198	558	pyridoxal phosphate-dependent aminotransferase [Bacillus sinesaloumensis]	Bacillus sinesaloumensis	1926280	K14155
+c_000000000038_2	RFB12568.1	96.9	289	9	8.70e-190	533	cell division protein FtsZ [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K03531
+c_000000000042_3	WP_224938591.1	100	95	0	2.94e-58	191	DNA-processing protein DprA [Cytobacillus kochii]	Cytobacillus kochii	859143	K04096
+c_000000000044_2	KDU15375.1	100	269	0	2.46e-213	590	DNA internalization-related competence protein ComEC/Rec2 [Escherichia coli 3-105-05_S3_C3]	Escherichia coli 3-105-05_S3_C3	1444193	K02238
+c_000000000046_1	WP_095371972.1	100	348	0	1.91e-236	657	ABC transporter permease subunit [Cytobacillus kochii]	Cytobacillus kochii	859143	K09970
+c_000000000047_1	WP_095371967.1	100	234	0	8.88e-158	452	mechanosensitive ion channel family protein [Cytobacillus kochii]	Cytobacillus kochii	859143	K16052
+c_000000000047_2	WP_095371968.1	100	200	0	5.56e-144	409	pyroglutamyl-peptidase I [Cytobacillus kochii]	Cytobacillus kochii	859143	K01304
+c_000000000048_3	WP_221875857.1	84.4	135	21	6.14e-73	227	metal-dependent hydrolase [Mesobacillus maritimus]	Mesobacillus maritimus	1643336	K07038
+c_000000000050_1	WP_071394886.1	80.8	245	41	8.41e-136	394	thermonuclease family protein [Bacillus tuaregi]	Bacillus tuaregi	1816695	K01174
+c_000000000051_2	WP_121610747.1	88.7	115	13	7.01e-64	200	PadR family transcriptional regulator [Mesobacillus foraminis]	Mesobacillus foraminis	279826	K10947
+c_000000000053_2	WP_224428285.1	90.8	196	18	1.59e-130	375	MULTISPECIES: DNA-3-methyladenine glycosylase I [Bacillaceae]	Bacillaceae	186817	K01246
+c_000000000054_2	WP_215099241.1	95.7	70	3	4.49e-37	129	helix-turn-helix transcriptional regulator [Planococcus sp. ISL-110]	Planococcus sp. ISL-110	2819167	K07727
+c_000000000057_2	WP_233435346.1	100	325	0	5.56e-216	605	MFS transporter [Cytobacillus kochii]	Cytobacillus kochii	859143	K08161
+c_000000000058_2	WP_095371971.1	100	357	0	1.57e-254	702	amino acid ABC transporter substrate-binding protein [Cytobacillus kochii]	Cytobacillus kochii	859143	K09969
+c_000000000058_2	WP_095371971.1	100	357	0	1.57e-254	702	amino acid ABC transporter substrate-binding protein [Cytobacillus kochii]	Cytobacillus kochii	859143	K02030
+c_000000000059_1	SLL36331.1	99.6	264	1	1.34e-180	508	ATPase involved in chromosome partitioning [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K04562
+c_000000000059_2	SLL36332.1	99.4	178	1	2.78e-114	340	signal recognition particle-docking protein FtsY [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02404
+c_000000000066_1	WP_258759826.1	73.4	184	49	1.00e-82	254	lysoplasmalogenase [Cytobacillus firmus]	Cytobacillus firmus	1399	K18575
+c_000000000070_1	SPT83683.1	92.5	201	15	1.30e-130	382	cyclopropane-fatty-acyl-phospholipid synthase [Niallia circulans]	Niallia circulans	1397	K00574
+c_000000000071_1	SLL32500.1	100	214	0	3.59e-145	416	Stage IV sporulation protein FA [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K06401
+c_000000000072_1	WP_184526039.1	86.0	200	28	1.30e-105	325	septation ring formation regulator EzrA [Bacillus benzoevorans]	Bacillus benzoevorans	1456	K06286
+c_000000000079_1	WP_170843796.1	54.3	254	115	6.92e-84	271	Na/Pi cotransporter family protein [Mesobacillus persicus]	Mesobacillus persicus	930146	K03324
+c_000000000080_2	WP_184526048.1	94.6	130	7	9.43e-81	246	30S ribosomal protein S4 [Bacillus benzoevorans]	Bacillus benzoevorans	1456	K02986
+c_000000000082_2	SLL35508.1	94.7	151	8	7.58e-90	278	GTP-binding protein HflX [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03665
+c_000000000091_2	WP_051428168.1	96.7	123	4	5.06e-79	243	Clp protease ClpP [Bacillus sp. J33]	Bacillus sp. J33	935836	K01358
+c_000000000098_1	WP_031535145.1	98.0	198	4	5.25e-123	359	MULTISPECIES: permease [unclassified Bacillus (in: firmicutes)]	unclassified Bacillus (in: firmicutes)	185979	K07089
+c_000000000099_1	WP_095369542.1	99.4	172	1	2.00e-118	347	succinate--CoA ligase subunit alpha [Cytobacillus kochii]	Cytobacillus kochii	859143	K02907
+c_000000000108_1	WP_031535154.1	94.4	177	10	4.81e-116	344	MULTISPECIES: cyclopropane-fatty-acyl-phospholipid synthase family protein [unclassified Bacillus (in: firmicutes)]	unclassified Bacillus (in: firmicutes)	185979	K00574
+c_000000000110_1	MCJ8650351.1	100	116	0	9.25e-74	228	EamA family transporter RarD [Escherichia coli]	Escherichia coli	562	K05786
+c_000000000112_1	WP_191813562.1	98.8	164	2	4.64e-118	342	pyridoxamine 5'-phosphate oxidase family protein [Cytobacillus stercorigallinarum]	Cytobacillus stercorigallinarum	2762240	K07006
+c_000000000135_1	WP_031534510.1	98.4	62	1	1.53e-32	117	MULTISPECIES: flagellar biosynthesis protein FliQ [Bacillaceae]	Bacillaceae	186817	K02420
+c_000000000142_1	SLL35508.1	98.5	136	2	8.62e-79	249	GTP-binding protein HflX [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K03665
+c_000000000157_1	WP_145581333.1	87.0	108	14	3.19e-63	198	HNH endonuclease [Virgibacillus sp. 6R]	Virgibacillus sp. 6R	1911587	K07451
+c_000000000165_1	WP_250610354.1	86.2	109	15	9.66e-59	187	ATP-binding protein, partial [Frankia sp. AgKG'84/4]	Frankia sp. AgKG'84/4	573490	K07484
+c_000000000175_1	SLK33831.1	98.5	67	1	5.81e-35	128	Protein of uncharacterised function (DUF554) [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K07150
+c_000000000179_1	WP_066386083.1	100	62	0	1.20e-35	129	30S ribosomal protein S4 [Neobacillus mesonae]	Neobacillus mesonae	1193713	K02986
+c_000000000180_1	WP_116352709.1	100	102	0	4.35e-66	215	xylose isomerase [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K01805
+c_000000000182_1	RFB17456.1	93.1	102	7	3.56e-65	207	N-acetylmuramoyl-L-alanine amidase [Bacillus sp. HNG]	Bacillus sp. HNG	2293325	K01447
+c_000000000193_1	WP_221875857.1	91.1	90	8	5.21e-53	174	metal-dependent hydrolase [Mesobacillus maritimus]	Mesobacillus maritimus	1643336	K07038
+c_000000000201_1	WP_016201411.1	100	91	0	2.66e-60	192	sigma-70 family RNA polymerase sigma factor [Niallia nealsonii]	Niallia nealsonii	115979	K03088
+c_000000000217_1	STE82768.1	100	85	0	1.13e-50	166	tRNA-processing ribonuclease [Escherichia coli]	Escherichia coli	562	K07058

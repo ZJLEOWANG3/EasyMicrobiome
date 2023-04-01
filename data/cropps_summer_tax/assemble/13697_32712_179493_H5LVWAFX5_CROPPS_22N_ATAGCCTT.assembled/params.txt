@@ -1,0 +1,32 @@
+Command line: /home/li.gua/opt/spades/3.15.5/bin/spades.py	--isolate	-m	196	-k	21,33,55	-1	/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R1.fastq.trimmed.fastq	-2	/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R2.fastq.trimmed.fastq	-o	/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled	
+
+System information:
+  SPAdes version: 3.15.5
+  Python version: 3.10.4
+  OS: Linux-3.10.0-1160.25.1.el7.x86_64-x86_64-with-glibc2.17
+
+Output dir: /scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Isolate mode
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R1.fastq.trimmed.fastq']
+      right reads: ['/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R2.fastq.trimmed.fastq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Assembly parameters:
+  k: [21, 33, 55]
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/assemble/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT.assembled/tmp
+  Threads: 16
+  Memory limit (in Gb): 196
+

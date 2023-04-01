@@ -1,0 +1,7 @@
+- "left reads":
+  - "/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R1.fastq.trimmed.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/scratch/li.gua/ZIJIAN/CROPPS_2022_Summer/trimmed/13697_32712_179493_H5LVWAFX5_CROPPS_22N_ATAGCCTT_R2.fastq.trimmed.fastq"
+  "type": "paired-end"

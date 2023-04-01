@@ -1,0 +1,1167 @@
+c_000000000001_3	KZC76090.1	98.0	252	5	2.24e-187	523	leucyl/phenylalanyl-tRNA--protein transferase [Neisseria flavescens]	Neisseria flavescens	484	K00684
+c_000000000001_4	WP_003684218.1	100	144	0	4.45e-100	293	ferric iron uptake transcriptional regulator [Neisseria meningitidis]	Neisseria meningitidis	487	K03711
+c_000000000001_5	EFC51237.1	100	145	0	9.31e-98	288	SmpA / OmlA family protein [Neisseria subflava NJ9703]	Neisseria subflava NJ9703	546268	K06186
+c_000000000001_6	UTG75955.1	100	269	0	3.04e-189	529	4-hydroxy-tetrahydrodipicolinate reductase [Neisseria subflava]	Neisseria subflava	28449	K00215
+c_000000000001_7	MBS4944677.1	100	295	0	7.29e-210	583	50S ribosomal protein L11 methyltransferase [Neisseria mucosa]	Neisseria mucosa	488	K02687
+c_000000000001_8	UTG75957.1	100	796	0	0.0	1557	DNA topoisomerase (ATP-hydrolyzing) subunit B [Neisseria subflava]	Neisseria subflava	28449	K02470
+c_000000000002_1	OHR12167.1	99.5	605	3	0.0	1213	conjugal transfer protein [Neisseria sp. HMSC078C12]	Neisseria sp. HMSC078C12	1715075	K03199
+c_000000000002_2	MBD0767391.1	93.7	222	14	6.62e-131	378	hypothetical protein [Neisseria sp. KH1003-02]	Neisseria sp. KH1003-02	1871107	K03200
+c_000000000002_3	WP_049323728.1	100	304	0	9.89e-208	579	type IV secretion system protein [Neisseria perflava]	Neisseria perflava	33053	K03201
+c_000000000002_6	MBD0767387.1	100	233	0	1.29e-163	461	type VI secretion protein [Neisseria sp. KH1003-02]	Neisseria sp. KH1003-02	1871107	K03203
+c_000000000002_7	OFM23036.1	100	281	0	9.49e-199	554	conjugal transfer protein [Neisseria sp. HMSC070A01]	Neisseria sp. HMSC070A01	1715190	K03204
+c_000000000002_8	MBD0767385.1	99.5	440	2	6.18e-252	702	hypothetical protein [Neisseria sp. KH1003-02]	Neisseria sp. KH1003-02	1871107	K03195
+c_000000000002_9	MBF1301160.1	100	375	0	2.69e-275	756	Flp pilus assembly complex ATPase component TadA [Neisseria sp.]	Neisseria sp.	192066	K03196
+c_000000000002_10	WP_049323733.1	100	122	0	5.36e-86	256	MULTISPECIES: single-stranded DNA-binding protein [Neisseria]	Neisseria	482	K03111
+c_000000000002_11	MBS4944311.1	99.6	670	3	0.0	1337	type IV secretory system conjugative DNA transfer family protein [Neisseria mucosa]	Neisseria mucosa	488	K03205
+c_000000000003_3	WP_004521040.1	100	164	0	3.11e-112	326	MULTISPECIES: MarR family transcriptional regulator [Neisseria]	Neisseria	482	K15974
+c_000000000003_4	OFO23928.1	99.0	293	3	1.87e-211	587	oxidoreductase [Neisseria sp. HMSC056A03]	Neisseria sp. HMSC056A03	1739544	K04517
+c_000000000003_5	OFM32120.1	99.8	430	1	1.31e-303	832	histidinol dehydrogenase [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K00013
+c_000000000003_7	WP_036473098.1	100	217	0	4.48e-147	418	MULTISPECIES: ATP phosphoribosyltransferase [Neisseria]	Neisseria	482	K00765
+c_000000000003_8	MBD0769537.1	100	220	0	1.55e-144	412	ahpC/TSA family protein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K07152
+c_000000000003_10	EER55851.1	99.0	575	6	0.0	1137	acetolactate synthase, large subunit, biosynthetic type [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K01652
+c_000000000003_11	WP_003685820.1	100	163	0	2.98e-105	308	MULTISPECIES: acetolactate synthase small subunit [Neisseria]	Neisseria	482	K01653
+c_000000000003_13	WP_003680040.1	100	337	0	1.12e-241	667	MULTISPECIES: ketol-acid reductoisomerase [Neisseria]	Neisseria	482	K00053
+c_000000000003_14	UTG75861.1	100	382	0	5.42e-274	753	porin [Neisseria subflava]	Neisseria subflava	28449	K18133
+c_000000000003_15	OFV34683.1	98.6	873	12	0.0	1717	aminopeptidase N [Neisseria sp. HMSC15G01]	Neisseria sp. HMSC15G01	1581107	K01256
+c_000000000003_16	MBF1271621.1	100	45	0	2.70e-24	97.1	YadA-like family protein [Neisseria sp.]	Neisseria sp.	192066	K21449
+c_000000000004_1	UTG75880.1	100	452	0	0.0	898	deoxyguanosinetriphosphate triphosphohydrolase [Neisseria subflava]	Neisseria subflava	28449	K01129
+c_000000000004_2	WP_003680905.1	100	419	0	1.78e-300	823	MULTISPECIES: transcription termination factor Rho [Neisseria]	Neisseria	482	K03628
+c_000000000004_5	UTG75882.1	100	562	0	0.0	1170	glutamine--tRNA ligase/YqeY domain fusion protein [Neisseria subflava]	Neisseria subflava	28449	K01886
+c_000000000004_6	OFK82402.1	100	259	0	3.27e-179	503	DeoR family transcriptional regulator [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K02444
+c_000000000004_8	SPY04163.1	100	129	0	2.13e-84	253	putative OsmC-like protein [Neisseria meningitidis]	Neisseria meningitidis	487	K07397
+c_000000000004_9	WP_049332169.1	99.6	269	1	1.91e-192	537	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase [Neisseria subflava]	Neisseria subflava	28449	K00941
+c_000000000004_10	OFM31474.1	99.1	950	9	0.0	1869	glycine dehydrogenase (aminomethyl-transferring) [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K00281
+c_000000000004_11	EFV80186.1	94.4	197	11	9.22e-137	390	DNA-3-methyladenine glycosylase I [Neisseria mucosa C102]	Neisseria mucosa C102	435832	K01246
+c_000000000004_12	WP_063068454.1	99.2	127	1	6.22e-84	251	MULTISPECIES: glycine cleavage system protein GcvH [Neisseria]	Neisseria	482	K02437
+c_000000000004_13	WP_063068453.1	100	283	0	8.93e-202	565	glycine cleavage system aminomethyltransferase GcvT [Neisseria sicca]	Neisseria sicca	490	K00605
+c_000000000005_4	WP_017176391.1	100	398	0	2.66e-289	793	MULTISPECIES: DNA repair exonuclease [Staphylococcus]	Staphylococcus	1279	K03547
+c_000000000005_6	WP_017176389.1	99.7	313	1	1.01e-225	625	MULTISPECIES: 3'-5' exoribonuclease YhaM [Terrabacteria group]	Terrabacteria group	1783272	K03698
+c_000000000005_7	WP_017176388.1	99.7	319	1	3.67e-206	576	MULTISPECIES: peptidylprolyl isomerase [Staphylococcus]	Staphylococcus	1279	K07533
+c_000000000005_10	WP_017176386.1	100	141	0	2.40e-98	289	MULTISPECIES: HIT family protein [Staphylococcus]	Staphylococcus	1279	K02503
+c_000000000005_11	WP_048761762.1	100	245	0	4.65e-172	484	MULTISPECIES: ABC transporter ATP-binding protein [Staphylococcus]	Staphylococcus	1279	K25158
+c_000000000005_12	WP_017176384.1	99.8	407	1	5.77e-268	740	MULTISPECIES: ABC transporter permease [Staphylococcus]	Staphylococcus	1279	K25157
+c_000000000005_14	WP_242279753.1	99.7	345	1	2.40e-256	705	uroporphyrinogen decarboxylase [Staphylococcus hominis]	Staphylococcus hominis	1290	K01599
+c_000000000006_1	MBD0768920.1	100	471	0	0.0	875	anion:sodium symporter [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K14445
+c_000000000006_4	UTG75285.1	99.3	279	1	4.51e-198	552	neutral zinc metallopeptidase [Neisseria subflava]	Neisseria subflava	28449	K07054
+c_000000000006_5	UTG75284.1	99.3	460	3	0.0	911	phosphomannomutase/phosphoglucomutase [Neisseria subflava]	Neisseria subflava	28449	K15778
+c_000000000006_6	UTG75283.1	100	226	0	1.34e-157	446	ribulose-phosphate 3-epimerase [Neisseria subflava]	Neisseria subflava	28449	K01783
+c_000000000006_7	WP_003683375.1	100	142	0	1.19e-94	280	Spy/CpxP family protein refolding chaperone [Neisseria subflava]	Neisseria subflava	28449	K06006
+c_000000000006_8	UTG75281.1	100	288	0	6.26e-212	588	ATP-binding protein [Neisseria subflava]	Neisseria subflava	28449	K06923
+c_000000000006_9	UTG75280.1	100	204	0	1.07e-143	409	riboflavin synthase subunit alpha [Neisseria subflava]	Neisseria subflava	28449	K00793
+c_000000000006_10	UTG75279.1	100	281	0	3.31e-199	555	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ [Neisseria subflava]	Neisseria subflava	28449	K07115
+c_000000000006_12	WP_049344695.1	99.4	324	2	1.83e-229	635	MULTISPECIES: class 1 fructose-bisphosphatase [Neisseria]	Neisseria	482	K03841
+c_000000000006_13	MCL9764263.1	99.1	338	3	6.11e-256	704	lipopolysaccharide heptosyltransferase II [Neisseria subflava]	Neisseria subflava	28449	K02843
+c_000000000006_14	WP_003678893.1	99.8	487	1	0.0	933	MULTISPECIES: IMP dehydrogenase [Neisseria]	Neisseria	482	K00088
+c_000000000007_2	MCL9787846.1	100	436	0	3.40e-293	806	NCS2 family permease [Neisseria subflava]	Neisseria subflava	28449	K06901
+c_000000000007_3	WP_003684389.1	100	440	0	0.0	880	MULTISPECIES: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB [Neisseria]	Neisseria	482	K06168
+c_000000000007_5	EER56712.1	100	427	0	1.68e-309	847	glutamate-1-semialdehyde-2,1-aminomutase [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K01845
+c_000000000007_7	WP_003748819.1	99.2	258	2	8.67e-179	502	MULTISPECIES: tRNA threonylcarbamoyladenosine dehydratase [Neisseria]	Neisseria	482	K22132
+c_000000000007_9	UTG75873.1	100	298	0	1.34e-202	565	segregation/condensation protein A [Neisseria subflava]	Neisseria subflava	28449	K05896
+c_000000000007_10	MCL9787838.1	98.6	442	6	1.66e-303	833	branched-chain amino acid transport system II carrier protein [Neisseria subflava]	Neisseria subflava	28449	K03311
+c_000000000007_11	WP_002216391.1	100	77	0	1.10e-46	153	MULTISPECIES: 50S ribosomal protein L28 [Pseudomonadota]	Pseudomonadota	1224	K02902
+c_000000000007_12	WP_003684373.1	100	51	0	9.05e-28	103	MULTISPECIES: 50S ribosomal protein L33 [Neisseriaceae]	Neisseriaceae	481	K02913
+c_000000000007_13	WP_003680888.1	100	73	0	3.27e-44	147	MULTISPECIES: (Na+)-NQR maturation NqrM [Neisseria]	Neisseria	482	K05952
+c_000000000007_14	KZC81945.1	98.9	175	2	5.49e-118	344	thiamine biosynthesis lipoprotein ApbE [Neisseria flavescens]	Neisseria flavescens	484	K03734
+c_000000000009_1	EER55977.1	100	502	0	0.0	977	exopolyphosphatase [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K01524
+c_000000000009_2	WP_003685554.1	100	123	0	1.21e-78	238	MULTISPECIES: 30S ribosome-binding factor RbfA [Neisseriaceae]	Neisseriaceae	481	K02834
+c_000000000009_3	OFM96232.1	99.3	304	2	1.59e-213	593	pseudouridine synthase [Neisseria sp. HMSC072C05]	Neisseria sp. HMSC072C05	1715112	K03177
+c_000000000009_5	UTG69013.1	99.1	229	2	4.90e-175	490	suppressor of fused domain protein [Neisseria subflava]	Neisseria subflava	28449	K06229
+c_000000000009_6	UTG75231.1	100	119	0	6.34e-79	238	CrcB family protein [Neisseria subflava]	Neisseria subflava	28449	K06199
+c_000000000009_8	UTG72358.1	95.6	1017	45	0.0	1786	cell division protein FtsK [Neisseria subflava]	Neisseria subflava	28449	K03466
+c_000000000009_9	WP_039862497.1	99.6	231	1	1.18e-158	449	MULTISPECIES: aquaporin Z [Neisseria]	Neisseria	482	K06188
+c_000000000009_12	WP_039863560.1	98.9	176	2	1.11e-115	337	DNA repair protein RadC [Neisseria flavescens]	Neisseria flavescens	484	K03630
+c_000000000010_1	OFK85415.1	97.9	1212	19	0.0	2428	TonB-dependent receptor [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K16087
+c_000000000010_1	OFK85415.1	97.9	1212	19	0.0	2428	TonB-dependent receptor [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K02014
+c_000000000010_3	OFK85417.1	98.8	497	6	0.0	1003	hypothetical protein HMPREF2797_04775 [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K07280
+c_000000000010_4	MBS5742833.1	97.7	257	6	2.80e-178	512	glycogen/starch/alpha-glucan phosphorylase [Neisseria sp.]	Neisseria sp.	192066	K00688
+c_000000000010_5	WP_004519502.1	99.1	566	5	0.0	1141	glycogen/starch/alpha-glucan phosphorylase [Neisseria sp. HMSC072B12]	Neisseria sp. HMSC072B12	1715080	K00688
+c_000000000011_1	UTG74997.1	100	602	0	0.0	1202	aspartate--tRNA ligase [Neisseria subflava]	Neisseria subflava	28449	K01876
+c_000000000011_3	WP_188208701.1	98.9	380	4	8.72e-279	765	phospholipase A [Neisseria sicca]	Neisseria sicca	490	K01058
+c_000000000011_4	WP_002212556.1	100	87	0	1.40e-31	116	MULTISPECIES: 30S ribosomal protein S20 [Neisseriaceae]	Neisseriaceae	481	K02968
+c_000000000011_5	MBD0767814.1	100	380	0	9.36e-274	752	polyamine ABC transporter substrate-binding protein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K11073
+c_000000000011_6	WP_003680126.1	100	143	0	1.49e-93	277	MULTISPECIES: EamA family transporter [Betaproteobacteria]	Betaproteobacteria	28216	K08978
+c_000000000011_7	MBY6285795.1	99.6	558	2	0.0	1098	formate--tetrahydrofolate ligase [Neisseria subflava]	Neisseria subflava	28449	K01938
+c_000000000011_9	WP_003686828.1	100	354	0	1.89e-253	699	MULTISPECIES: fructose-bisphosphate aldolase class II [Neisseria]	Neisseria	482	K01624
+c_000000000011_10	UTG73122.1	97.8	137	3	7.63e-92	272	thioesterase family protein [Neisseria subflava]	Neisseria subflava	28449	K07107
+c_000000000012_1	OFM31932.1	96.2	420	16	7.96e-289	796	patatin [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K07001
+c_000000000012_2	MBF1296603.1	98.8	246	3	2.06e-176	495	DNA repair protein RecO [Neisseria meningitidis]	Neisseria meningitidis	487	K03584
+c_000000000012_3	UTG75467.1	100	242	0	9.35e-166	468	pyridoxine 5'-phosphate synthase [Neisseria subflava]	Neisseria subflava	28449	K03474
+c_000000000012_4	WP_003686416.1	100	125	0	1.25e-81	245	MULTISPECIES: holo-ACP synthase [Neisseria]	Neisseria	482	K00997
+c_000000000012_5	UTG75465.1	100	268	0	2.51e-192	537	NUDIX domain-containing protein [Neisseria subflava]	Neisseria subflava	28449	K03574
+c_000000000012_7	WP_002233567.1	100	291	0	1.51e-200	560	MULTISPECIES: methylisocitrate lyase [Neisseria]	Neisseria	482	K03417
+c_000000000012_8	UTG75463.1	100	384	0	1.30e-282	775	2-methylcitrate synthase [Neisseria subflava]	Neisseria subflava	28449	K01659
+c_000000000012_9	MBD0767761.1	99.6	854	3	0.0	1701	Fe/S-dependent 2-methylisocitrate dehydratase AcnD [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K20455
+c_000000000013_1	WP_004519087.1	92.9	468	33	4.91e-235	662	MULTISPECIES: tetratricopeptide repeat protein [Neisseria]	Neisseria	482	K07126
+c_000000000013_2	MCL4979235.1	98.8	419	5	0.0	867	capsule biosynthesis protein [Neisseria meningitidis]	Neisseria meningitidis	487	K07265
+c_000000000013_3	WP_124201300.1	97.5	674	17	0.0	1327	capsular polysaccharide biosynthesis protein [Neisseria meningitidis]	Neisseria meningitidis	487	K07266
+c_000000000013_5	WP_036493968.1	99.4	180	1	6.64e-133	379	dTDP-4-dehydrorhamnose 3,5-epimerase [Neisseria mucosa]	Neisseria mucosa	488	K01790
+c_000000000013_6	WP_196973762.1	99.7	288	1	5.53e-206	573	glucose-1-phosphate thymidylyltransferase RfbA [Neisseria meningitidis]	Neisseria meningitidis	487	K00973
+c_000000000013_7	OHQ05887.1	99.7	355	1	1.59e-266	732	dTDP-glucose 4,6-dehydratase [Neisseria sp. HMSC064D07]	Neisseria sp. HMSC064D07	1715087	K01710
+c_000000000013_8	MBD0768090.1	99.7	338	1	4.28e-251	691	UDP-glucose 4-epimerase GalE [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K01784
+c_000000000014_1	WP_049416184.1	100	768	0	0.0	1496	MULTISPECIES: phenylalanine--tRNA ligase subunit beta [Staphylococcus]	Staphylococcus	1279	K01890
+c_000000000014_2	WP_017175722.1	100	352	0	3.41e-255	703	MULTISPECIES: phenylalanine--tRNA ligase subunit alpha [Staphylococcus]	Staphylococcus	1279	K01889
+c_000000000014_3	WP_017175723.1	100	246	0	1.33e-167	473	MULTISPECIES: RNA methyltransferase [Staphylococcus]	Staphylococcus	1279	K03437
+c_000000000014_4	WP_001830121.1	100	57	0	1.09e-35	124	MULTISPECIES: 50S ribosomal protein L32 [Staphylococcus]	Staphylococcus	1279	K02911
+c_000000000014_6	WP_145433473.1	100	129	0	8.22e-85	256	YceD family protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K07040
+c_000000000014_7	WP_001830121.1	100	57	0	1.09e-35	124	MULTISPECIES: 50S ribosomal protein L32 [Staphylococcus]	Staphylococcus	1279	K02911
+c_000000000014_8	WP_017175723.1	100	246	0	1.33e-167	473	MULTISPECIES: RNA methyltransferase [Staphylococcus]	Staphylococcus	1279	K03437
+c_000000000014_9	WP_017175722.1	100	352	0	3.41e-255	703	MULTISPECIES: phenylalanine--tRNA ligase subunit alpha [Staphylococcus]	Staphylococcus	1279	K01889
+c_000000000014_10	WP_049416184.1	100	768	0	0.0	1496	MULTISPECIES: phenylalanine--tRNA ligase subunit beta [Staphylococcus]	Staphylococcus	1279	K01890
+c_000000000015_1	MBF1277021.1	98.2	451	3	2.97e-314	860	3,4-dihydroxy-2-butanone-4-phosphate synthase [Neisseria sp.]	Neisseria sp.	192066	K14652
+c_000000000015_4	UTG72201.1	99.5	415	2	1.56e-292	803	N-acetylmuramoyl-L-alanine amidase [Neisseria subflava]	Neisseria subflava	28449	K01448
+c_000000000015_5	MBF1277024.1	100	156	0	6.91e-112	324	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE [Neisseria sp.]	Neisseria sp.	192066	K06925
+c_000000000015_6	UTG72203.1	100	362	0	1.10e-256	707	prephenate dehydratase [Neisseria subflava]	Neisseria subflava	28449	K14170
+c_000000000015_6	UTG72203.1	100	362	0	1.10e-256	707	prephenate dehydratase [Neisseria subflava]	Neisseria subflava	28449	K04518
+c_000000000015_7	UTG76328.1	99.2	376	3	2.92e-278	763	RNA ligase RtcB family protein [Neisseria subflava]	Neisseria subflava	28449	K18148
+c_000000000015_8	WP_053088467.1	97.2	212	6	1.70e-144	411	peptide chain release factor H [Neisseria sp. HMSC071A01]	Neisseria sp. HMSC071A01	1739332	K02839
+c_000000000015_9	UTG75174.1	100	409	0	8.40e-278	765	HlyD family type I secretion periplasmic adaptor subunit [Neisseria subflava]	Neisseria subflava	28449	K12542
+c_000000000016_2	WP_003682480.1	100	399	0	1.18e-272	751	cell division protein FtsZ [Neisseria flavescens]	Neisseria flavescens	484	K03531
+c_000000000016_3	WP_003682483.1	100	417	0	1.15e-295	811	MULTISPECIES: cell division protein FtsA [Neisseria]	Neisseria	482	K03590
+c_000000000016_4	MBD0767919.1	100	239	0	6.62e-169	475	cell division protein FtsQ [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K03589
+c_000000000016_5	OFO28291.1	99.7	304	1	8.59e-218	604	D-alanine--D-alanine ligase [Neisseria sp. HMSC056A03]	Neisseria sp. HMSC056A03	1739544	K01921
+c_000000000016_6	OFO65497.1	100	469	0	0.0	910	UDP-N-acetylmuramate--L-alanine ligase [Neisseria sp. HMSC065C04]	Neisseria sp. HMSC065C04	1739524	K01924
+c_000000000016_7	WP_063076124.1	100	355	0	1.02e-253	699	MULTISPECIES: undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase [Neisseria]	Neisseria	482	K02563
+c_000000000016_8	MBF1277092.1	97.6	420	10	1.33e-291	801	cell division protein FtsW [Neisseria sp.]	Neisseria sp.	192066	K03588
+c_000000000017_1	WP_252931583.1	99.5	201	1	1.03e-136	392	16S rRNA (uracil(1498)-N(3))-methyltransferase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K09761
+c_000000000017_2	WP_017176212.1	100	448	0	0.0	889	MULTISPECIES: tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB [Staphylococcus]	Staphylococcus	1279	K18707
+c_000000000017_3	WP_002449867.1	100	58	0	4.87e-26	100	MULTISPECIES: 30S ribosomal protein S21 [Staphylococcus]	Staphylococcus	1279	K02970
+c_000000000017_7	WP_002449734.1	100	315	0	6.30e-221	613	MULTISPECIES: PhoH family protein [Staphylococcus]	Staphylococcus	1279	K06217
+c_000000000017_8	WP_017176216.1	100	153	0	1.71e-106	310	MULTISPECIES: rRNA maturation RNase YbeY [Staphylococcus]	Staphylococcus	1279	K07042
+c_000000000017_9	WP_002455278.1	99.3	134	1	2.55e-92	273	MULTISPECIES: cytidine deaminase [Staphylococcus]	Staphylococcus	1279	K01489
+c_000000000017_10	WP_002449851.1	100	299	0	7.61e-214	594	MULTISPECIES: GTPase Era [Staphylococcus]	Staphylococcus	1279	K03595
+c_000000000017_11	WP_017176218.1	100	249	0	2.40e-176	495	MULTISPECIES: DNA repair protein RecO [Staphylococcus]	Staphylococcus	1279	K03584
+c_000000000018_2	UTG76106.1	100	304	0	1.09e-220	612	UDP-3-O-acyl-N-acetylglucosamine deacetylase [Neisseria subflava]	Neisseria subflava	28449	K02535
+c_000000000018_4	WP_049335677.1	99.7	334	1	1.58e-235	652	MULTISPECIES: type I glyceraldehyde-3-phosphate dehydrogenase [Neisseria]	Neisseria	482	K00134
+c_000000000018_5	OHQ05785.1	100	224	0	8.41e-160	451	tRNA-Thr(GGU) m(6)t(6)A37 methyltransferase TsaA [Neisseria sp. HMSC064D07]	Neisseria sp. HMSC064D07	1715087	K22900
+c_000000000018_6	OHQ05786.1	99.1	211	2	2.74e-154	436	nicotinamidase [Neisseria sp. HMSC064D07]	Neisseria sp. HMSC064D07	1715087	K08281
+c_000000000018_7	MCL9791812.1	97.8	322	7	1.63e-231	640	lipopolysaccharide heptosyltransferase I [Neisseria subflava]	Neisseria subflava	28449	K02841
+c_000000000018_8	WP_003686610.1	99.6	249	1	3.46e-160	454	MULTISPECIES: electron transfer flavoprotein subunit beta/FixA family protein [Neisseria]	Neisseria	482	K03521
+c_000000000018_9	MBF1298469.1	98.7	310	4	6.85e-202	565	electron transfer flavoprotein subunit alpha/FixB family protein [Neisseria sp.]	Neisseria sp.	192066	K03522
+c_000000000019_1	SPY11435.1	100	181	0	2.42e-119	354	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Neisseria meningitidis]	Neisseria meningitidis	487	K00790
+c_000000000019_2	MBY6285486.1	99.7	305	1	1.30e-208	581	permease-like cell division protein FtsX [Neisseria subflava]	Neisseria subflava	28449	K09811
+c_000000000019_3	WP_003681151.1	100	216	0	3.17e-151	429	MULTISPECIES: cell division ATP-binding protein FtsE [Neisseria]	Neisseria	482	K09812
+c_000000000019_5	UTG76121.1	100	119	0	5.22e-78	236	arsenate reductase (glutaredoxin) [Neisseria subflava]	Neisseria subflava	28449	K00537
+c_000000000019_8	MCL9779674.1	99.7	364	1	5.11e-263	724	ABC transporter substrate-binding protein [Neisseria subflava]	Neisseria subflava	28449	K02016
+c_000000000019_9	UTG76124.1	99.6	464	2	0.0	938	glutamate--tRNA ligase [Neisseria subflava]	Neisseria subflava	28449	K01885
+c_000000000020_1	WP_101804337.1	100	412	0	6.85e-290	809	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00549
+c_000000000020_2	WP_048679222.1	100	612	0	0.0	1204	MULTISPECIES: bifunctional homocysteine S-methyltransferase/methylenetetrahydrofolate reductase [Staphylococcus]	Staphylococcus	1279	K24042
+c_000000000020_3	WP_049415065.1	100	391	0	5.07e-279	766	MULTISPECIES: PLP-dependent aspartate aminotransferase family protein [Staphylococcus]	Staphylococcus	1279	K01760
+c_000000000020_5	WP_048762502.1	100	274	0	4.28e-184	518	MULTISPECIES: ParB/RepB/Spo0J family partition protein [Staphylococcus]	Staphylococcus	1279	K03497
+c_000000000020_6	WP_048762501.1	100	292	0	2.04e-141	410	MULTISPECIES: mechanosensitive ion channel family protein [Staphylococcus]	Staphylococcus	1279	K22044
+c_000000000021_2	UTG73276.1	99.1	326	3	4.02e-234	647	glucokinase [Neisseria subflava]	Neisseria subflava	28449	K00845
+c_000000000021_3	WP_049352085.1	100	282	0	4.60e-186	522	DNA-binding transcriptional regulator HexR [Neisseria subflava]	Neisseria subflava	28449	K19337
+c_000000000021_4	MBF1277987.1	99.5	547	3	0.0	1104	glucose-6-phosphate isomerase [Neisseria sp.]	Neisseria sp.	192066	K01810
+c_000000000021_5	MBD0768500.1	95.2	357	17	1.80e-234	651	hypothetical protein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K07234
+c_000000000021_7	UTG72083.1	99.2	265	2	1.94e-174	491	ABC transporter permease subunit [Neisseria subflava]	Neisseria subflava	28449	K02050
+c_000000000022_5	SII16473.1	100	235	0	1.73e-153	436	Inner membrane protein yhhQ [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K09125
+c_000000000022_7	WP_048762443.1	100	294	0	8.92e-215	596	MULTISPECIES: 5'-3' exonuclease [Staphylococcus]	Staphylococcus	1279	K23786
+c_000000000023_2	UTG71323.1	100	213	0	4.01e-148	421	YihA family ribosome biogenesis GTP-binding protein [Neisseria subflava]	Neisseria subflava	28449	K03978
+c_000000000023_4	UTG75941.1	100	77	0	3.17e-46	152	RNA-binding S4 domain-containing protein [Neisseria subflava]	Neisseria subflava	28449	K14761
+c_000000000023_5	OFM99409.1	98.9	1144	13	0.0	2256	DNA polymerase III subunit alpha [Neisseria sp. HMSC072C05]	Neisseria sp. HMSC072C05	1715112	K02337
+c_000000000024_1	WP_049382002.1	100	622	0	0.0	1226	MULTISPECIES: single-stranded-DNA-specific exonuclease RecJ [Staphylococcus]	Staphylococcus	1279	K07462
+c_000000000024_2	WP_070436595.1	100	172	0	3.19e-118	342	MULTISPECIES: adenine phosphoribosyltransferase [Staphylococcus]	Staphylococcus	1279	K00759
+c_000000000024_3	WP_049379568.1	100	729	0	0.0	1420	MULTISPECIES: bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [Staphylococcus]	Staphylococcus	1279	K01139
+c_000000000024_4	WP_019835426.1	100	150	0	1.41e-99	293	MULTISPECIES: D-aminoacyl-tRNA deacylase [Staphylococcus]	Staphylococcus	1279	K07560
+c_000000000024_5	WP_017176168.1	100	291	0	2.68e-194	544	MULTISPECIES: N-acetylmuramoyl-L-alanine amidase [Staphylococcus]	Staphylococcus	1279	K01448
+c_000000000024_6	WP_145428799.1	100	387	0	2.82e-283	778	histidine--tRNA ligase [Staphylococcus hominis]	Staphylococcus hominis	1290	K01892
+c_000000000025_2	WP_232132859.1	100	625	0	0.0	1254	site-specific DNA-methyltransferase [Staphylococcus hominis]	Staphylococcus hominis	1290	K07316
+c_000000000025_3	WP_232132860.1	99.5	850	4	0.0	1658	DEAD/DEAH box helicase family protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K01156
+c_000000000026_3	WP_003686005.1	100	113	0	6.75e-78	235	MULTISPECIES: ISC system 2Fe-2S type ferredoxin [Neisseria]	Neisseria	482	K04755
+c_000000000026_5	OFM30814.1	99.2	619	5	0.0	1154	Fe-S protein assembly chaperone HscA [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K04044
+c_000000000026_6	WP_003686150.1	100	123	0	7.59e-82	246	MULTISPECIES: 30S ribosomal protein S6 [Neisseria]	Neisseria	482	K02990
+c_000000000026_7	KZC75490.1	100	98	0	4.93e-64	199	primosomal replicatioN protein n [Neisseria flavescens]	Neisseria flavescens	484	K02686
+c_000000000026_8	WP_003678863.1	100	76	0	2.43e-45	150	MULTISPECIES: 30S ribosomal protein S18 [Neisseriaceae]	Neisseriaceae	481	K02963
+c_000000000026_9	WP_003678862.1	100	150	0	3.70e-86	259	MULTISPECIES: 50S ribosomal protein L9 [Neisseria]	Neisseria	482	K02939
+c_000000000026_10	WP_070461317.1	100	359	0	1.51e-257	709	lytic murein transglycosylase B [Neisseria sicca]	Neisseria sicca	490	K08305
+c_000000000027_2	WP_019835521.1	100	414	0	5.47e-297	814	MULTISPECIES: ammonium transporter [Staphylococcus]	Staphylococcus	1279	K03320
+c_000000000027_3	WP_019835520.1	100	495	0	0.0	1023	MULTISPECIES: sucrose-6-phosphate hydrolase [Staphylococcus]	Staphylococcus	1279	K01193
+c_000000000027_4	WP_019835519.1	100	319	0	1.14e-225	625	MULTISPECIES: carbohydrate kinase [Staphylococcus]	Staphylococcus	1279	K00847
+c_000000000027_5	WP_002455088.1	100	238	0	1.06e-169	477	MULTISPECIES: LytTR family DNA-binding domain-containing protein [Staphylococcus]	Staphylococcus	1279	K07707
+c_000000000027_6	WP_019835518.1	100	429	0	1.77e-280	773	MULTISPECIES: GHKL domain-containing protein [Staphylococcus]	Staphylococcus	1279	K07706
+c_000000000027_7	WP_019835517.1	100	46	0	1.75e-23	92.8	MULTISPECIES: cyclic lactone autoinducer peptide [Staphylococcus]	Staphylococcus	1279	K07800
+c_000000000027_8	WP_019835516.1	99.5	188	1	1.50e-120	349	MULTISPECIES: accessory gene regulator AgrB [Staphylococcus]	Staphylococcus	1279	K07813
+c_000000000028_3	WP_017176334.1	100	263	0	6.59e-181	508	MULTISPECIES: MoxR family ATPase [Staphylococcus]	Staphylococcus	1279	K04748
+c_000000000028_5	WP_017176336.1	100	447	0	9.76e-294	808	MULTISPECIES: branched-chain amino acid transport system II carrier protein [Staphylococcus]	Staphylococcus	1279	K03311
+c_000000000029_10	RPJ25795.1	56.9	325	111	3.69e-125	375	nitrite reductase [Nitrosopumilales archaeon]	Nitrosopumilales archaeon	2026768	K00368
+c_000000000030_1	UTG75833.1	100	219	0	9.49e-159	448	7-cyano-7-deazaguanine synthase QueC [Neisseria subflava]	Neisseria subflava	28449	K06920
+c_000000000031_1	WP_070436517.1	100	321	0	7.04e-229	637	MULTISPECIES: serine hydroxymethyltransferase [Staphylococcus]	Staphylococcus	1279	K00600
+c_000000000031_3	WP_017175125.1	100	138	0	4.35e-95	280	MULTISPECIES: low molecular weight protein arginine phosphatase [Staphylococcus]	Staphylococcus	1279	K20201
+c_000000000031_4	CVY62258.1	100	368	0	8.26e-271	744	putative translation factor [Staphylococcus hominis]	Staphylococcus hominis	1290	K07566
+c_000000000031_5	WP_017175123.1	100	278	0	3.19e-200	558	MULTISPECIES: peptide chain release factor N(5)-glutamine methyltransferase [Staphylococcus]	Staphylococcus	1279	K02493
+c_000000000031_6	WP_017175122.1	100	358	0	1.57e-238	661	MULTISPECIES: peptide chain release factor 1 [Staphylococcus]	Staphylococcus	1279	K02835
+c_000000000031_7	WP_017175121.1	100	199	0	4.75e-140	399	MULTISPECIES: thymidine kinase [Staphylococcus]	Staphylococcus	1279	K00857
+c_000000000031_8	WP_002448672.1	100	85	0	1.65e-56	179	MULTISPECIES: type B 50S ribosomal protein L31 [Staphylococcus]	Staphylococcus	1279	K02909
+c_000000000031_9	WP_252931646.1	100	289	0	1.73e-195	552	transcription termination factor Rho, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03628
+c_000000000032_2	OFK87653.1	99.7	1071	3	0.0	2101	carbamoyl phosphate synthase large subunit [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K01955
+c_000000000032_3	MCL9777932.1	98.4	252	4	6.64e-180	504	nucleotidyltransferase domain-containing protein [Neisseria subflava]	Neisseria subflava	28449	K07074
+c_000000000032_4	OHR14117.1	96.6	353	12	2.39e-251	693	nucleotidyltransferase [Neisseria sp. HMSC078C12]	Neisseria sp. HMSC078C12	1715075	K07074
+c_000000000033_2	UTG75496.1	100	542	0	0.0	1072	OmpA family protein [Neisseria subflava]	Neisseria subflava	28449	K03286
+c_000000000033_3	MBF1280982.1	100	162	0	1.74e-117	339	Hcp family type VI secretion system effector [Neisseria sp.]	Neisseria sp.	192066	K11903
+c_000000000033_4	MBD0767844.1	98.2	939	15	0.0	1726	ClpV1 family T6SS ATPase [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K11907
+c_000000000033_5	UTG75987.1	100	361	0	2.53e-260	717	phage late control D family protein [Neisseria subflava]	Neisseria subflava	28449	K11904
+c_000000000034_2	KZC76962.1	100	138	0	8.12e-91	270	RNA polymerase-binding protein DksA [Neisseria flavescens]	Neisseria flavescens	484	K06204
+c_000000000034_4	OFR84136.1	99.6	265	1	5.19e-179	503	pyrroline-5-carboxylate reductase [Neisseria sp. HMSC073G10]	Neisseria sp. HMSC073G10	1739369	K00286
+c_000000000034_5	KZC76966.1	98.3	239	4	8.98e-165	465	pyridoxal phosphate enzyme, YggS family [Neisseria flavescens]	Neisseria flavescens	484	K06997
+c_000000000034_6	WP_004519239.1	100	348	0	2.17e-240	665	MULTISPECIES: type IV pilus twitching motility protein PilT [Neisseria]	Neisseria	482	K02669
+c_000000000034_7	OFK87275.1	99.5	409	2	3.40e-293	804	type IV pili twitching motility protein PilT [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K02670
+c_000000000035_1	KMU59962.1	100	547	0	0.0	1058	Two-component sensor kinase SA14-24 [Staphylococcus hominis]	Staphylococcus hominis	1290	K07652
+c_000000000035_1	KMU59962.1	100	547	0	0.0	1058	Two-component sensor kinase SA14-24 [Staphylococcus hominis]	Staphylococcus hominis	1290	K07636
+c_000000000035_5	WP_049334930.1	100	159	0	1.74e-102	301	MULTISPECIES: 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH [Staphylococcus]	Staphylococcus	1279	K00783
+c_000000000036_1	WP_017174890.1	99.9	983	1	0.0	2026	MULTISPECIES: formate dehydrogenase subunit alpha [Staphylococcus]	Staphylococcus	1279	K00123
+c_000000000037_2	UTG75462.1	100	398	0	1.54e-288	791	acetate kinase [Neisseria subflava]	Neisseria subflava	28449	K00925
+c_000000000037_3	WP_003686290.1	99.4	344	2	2.67e-248	685	MULTISPECIES: phosphoribosylformylglycinamidine cyclo-ligase [unclassified Neisseria]	unclassified Neisseria	2623750	K01933
+c_000000000037_5	WP_003686342.1	99.2	238	2	3.30e-173	486	S-methyl-5'-thioinosine phosphorylase [Neisseria subflava]	Neisseria subflava	28449	K19696
+c_000000000038_2	MCL9778484.1	99.7	291	1	2.34e-204	569	4-hydroxy-tetrahydrodipicolinate synthase [Neisseria subflava]	Neisseria subflava	28449	K01714
+c_000000000038_3	EER57279.1	99.7	376	1	6.56e-272	747	hypothetical protein NEIFL0001_0904 [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K07287
+c_000000000038_5	UTG75338.1	100	197	0	1.00e-140	400	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase [Neisseria subflava]	Neisseria subflava	28449	K01519
+c_000000000038_8	MBF1297049.1	100	308	0	3.31e-230	639	oxygen-independent coproporphyrinogen III oxidase-like protein [Neisseria meningitidis]	Neisseria meningitidis	487	K02495
+c_000000000039_2	WP_017175293.1	100	347	0	3.52e-250	690	MULTISPECIES: 3-isopropylmalate dehydrogenase [Staphylococcus]	Staphylococcus	1279	K00052
+c_000000000039_3	WP_017175292.1	100	510	0	0.0	983	MULTISPECIES: 2-isopropylmalate synthase [Staphylococcus]	Staphylococcus	1279	K01649
+c_000000000039_4	WP_002455079.1	100	334	0	1.03e-240	665	MULTISPECIES: ketol-acid reductoisomerase [Staphylococcus]	Staphylococcus	1279	K00053
+c_000000000039_5	WP_017175291.1	100	79	0	1.27e-46	153	MULTISPECIES: ACT domain-containing protein [Staphylococcus]	Staphylococcus	1279	K01653
+c_000000000040_1	WP_089035651.1	100	88	0	8.38e-56	180	ATP/GTP-binding protein [Neisseria chenwenguii]	Neisseria chenwenguii	1853278	K06945
+c_000000000040_4	KZC86591.1	96.8	465	15	0.0	915	23S rRNA-methyltransferase [Neisseria flavescens]	Neisseria flavescens	484	K03215
+c_000000000040_5	OHQ12385.1	94.6	353	18	1.15e-219	613	L,D-transpeptidase catalytic domain protein [Neisseria sp. HMSC064F03]	Neisseria sp. HMSC064F03	1715037	K19234
+c_000000000041_1	MBF1280812.1	99.4	675	4	0.0	1293	excinuclease ABC subunit B [Neisseria lactamica]	Neisseria lactamica	486	K03702
+c_000000000041_4	UTG75990.1	100	451	0	0.0	902	type VI secretion system contractile sheath large subunit [Neisseria subflava]	Neisseria subflava	28449	K11900
+c_000000000042_2	UTG76336.1	100	160	0	1.33e-111	324	GNAT family N-acetyltransferase [Neisseria subflava]	Neisseria subflava	28449	K03830
+c_000000000042_3	MBD0768932.1	99.1	658	6	0.0	1259	DNA mismatch repair protein MutL [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K03572
+c_000000000042_4	EER57234.1	99.7	297	1	3.62e-211	587	3-deoxy-8-phosphooctulonate synthase [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K01627
+c_000000000042_5	WP_003678944.1	100	127	0	7.48e-84	251	MULTISPECIES: aspartate 1-decarboxylase [Neisseria]	Neisseria	482	K01579
+c_000000000043_1	UTG75295.1	98.5	206	3	7.85e-145	413	restriction endonuclease subunit S [Neisseria subflava]	Neisseria subflava	28449	K01154
+c_000000000043_3	WP_111315121.1	98.7	537	7	0.0	1058	type I restriction-modification system subunit M [Haemophilus parainfluenzae]	Haemophilus parainfluenzae	729	K03427
+c_000000000043_4	WP_219088658.1	98.1	533	10	0.0	1006	heavy metal translocating P-type ATPase [Neisseria sicca]	Neisseria sicca	490	K08363
+c_000000000044_1	WP_269058431.1	100	185	0	1.90e-126	367	His/Gly/Thr/Pro-type tRNA ligase C-terminal domain-containing protein, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K01881
+c_000000000044_2	KAF1677492.1	100	1436	0	0.0	2845	PolC-type DNA polymerase III [Staphylococcus hominis]	Staphylococcus hominis	1290	K03763
+c_000000000044_2	KAF1677492.1	100	1436	0	0.0	2845	PolC-type DNA polymerase III [Staphylococcus hominis]	Staphylococcus hominis	1290	K02342
+c_000000000045_1	MBS6065144.1	99.7	593	2	0.0	1190	anaerobic ribonucleoside-triphosphate reductase [Neisseria mucosa]	Neisseria mucosa	488	K21636
+c_000000000045_3	UTG75340.1	100	380	0	1.91e-282	774	class I SAM-dependent RNA methyltransferase [Neisseria subflava]	Neisseria subflava	28449	K25137
+c_000000000045_4	MBS4944427.1	98.9	364	4	3.27e-244	677	purine/pyrimidine permease [Neisseria mucosa]	Neisseria mucosa	488	K16346
+c_000000000046_1	WP_017174669.1	99.2	118	1	3.04e-72	221	MULTISPECIES: large conductance mechanosensitive channel protein MscL [Staphylococcus]	Staphylococcus	1279	K03282
+c_000000000046_2	SII14033.1	99.8	555	1	0.0	1050	choline/carnitine/betaine transporter [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K05020
+c_000000000046_3	WP_049382345.1	100	831	0	0.0	1661	MULTISPECIES: aconitate hydratase AcnA [Staphylococcus]	Staphylococcus	1279	K01681
+c_000000000047_1	MBD0768189.1	99.6	456	2	0.0	900	adenylosuccinate lyase [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K01756
+c_000000000047_3	KZC84395.1	98.4	190	3	1.22e-129	373	translation factor SUA5 [Neisseria flavescens]	Neisseria flavescens	484	K07566
+c_000000000047_4	UTG76112.1	100	423	0	2.37e-307	841	phosphoribosylamine--glycine ligase [Neisseria subflava]	Neisseria subflava	28449	K01945
+c_000000000048_1	WP_048787780.1	99.8	465	1	0.0	884	MULTISPECIES: DEAD/DEAH box helicase [Staphylococcus]	Staphylococcus	1279	K05592
+c_000000000048_2	WP_017174791.1	100	451	0	0.0	891	MULTISPECIES: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Staphylococcus]	Staphylococcus	1279	K01929
+c_000000000048_3	WP_017174790.1	100	356	0	7.20e-259	712	MULTISPECIES: D-alanine--D-alanine ligase [Staphylococcus]	Staphylococcus	1279	K01921
+c_000000000049_2	WP_103268302.1	100	432	0	3.13e-313	857	restriction endonuclease subunit S [Staphylococcus hominis]	Staphylococcus hominis	1290	K01154
+c_000000000049_3	WP_100442611.1	100	947	0	0.0	1845	type I restriction endonuclease [Staphylococcus hominis]	Staphylococcus hominis	1290	K01153
+c_000000000050_2	UTG75210.1	100	334	0	4.09e-247	681	ADP-glyceromanno-heptose 6-epimerase [Neisseria subflava]	Neisseria subflava	28449	K03274
+c_000000000050_4	UTG72248.1	99.1	212	2	8.76e-147	417	lytic transglycosylase domain-containing protein [Neisseria subflava]	Neisseria subflava	28449	K08309
+c_000000000051_1	WP_003748766.1	100	335	0	2.86e-243	671	MULTISPECIES: peptidase U32 family protein [Neisseria]	Neisseria	482	K24844
+c_000000000051_2	MBD0770717.1	100	305	0	1.50e-223	619	U32 family peptidase [Neisseria sp. RH3002v2g]	Neisseria sp. RH3002v2g	1871109	K24845
+c_000000000051_3	OHP62342.1	100	148	0	6.26e-102	298	Sterol-binding domain protein [Neisseria sp. HMSC061H08]	Neisseria sp. HMSC061H08	1715154	K24843
+c_000000000051_4	WP_219088874.1	98.2	448	2	1.53e-305	838	cytochrome-c oxidase, cbb3-type subunit III [Neisseria sicca]	Neisseria sicca	490	K00406
+c_000000000051_5	WP_003748776.1	100	65	0	3.97e-37	128	MULTISPECIES: CcoQ/FixQ family Cbb3-type cytochrome c oxidase assembly chaperone [Neisseria]	Neisseria	482	K00407
+c_000000000051_6	WP_063075589.1	100	203	0	3.47e-144	410	cytochrome-c oxidase, cbb3-type subunit II [Neisseria sicca]	Neisseria sicca	490	K00405
+c_000000000052_2	WP_002448740.1	100	116	0	6.43e-73	223	MULTISPECIES: 30S ribosome-binding factor RbfA [Staphylococcus]	Staphylococcus	1279	K02834
+c_000000000052_3	WP_048762395.1	100	305	0	7.32e-215	597	MULTISPECIES: tRNA pseudouridine(55) synthase TruB [Staphylococcus]	Staphylococcus	1279	K03177
+c_000000000052_4	WP_002448787.1	100	323	0	5.50e-235	649	MULTISPECIES: riboflavin biosynthesis protein RibF [Staphylococcus]	Staphylococcus	1279	K11753
+c_000000000052_5	WP_070517475.1	99.4	332	2	1.01e-225	642	polyribonucleotide nucleotidyltransferase, partial [Staphylococcus sp. HMSC074B09]	Staphylococcus sp. HMSC074B09	1715141	K00962
+c_000000000052_6	WP_192868372.1	100	28	0	9.35e-10	57.0	30S ribosomal protein S15, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02956
+c_000000000053_1	WP_003681131.1	98.7	75	1	1.73e-40	137	MULTISPECIES: exodeoxyribonuclease VII small subunit [Betaproteobacteria]	Betaproteobacteria	28216	K03602
+c_000000000053_2	OFO29228.1	99.7	298	1	1.15e-203	568	geranyl transferase [Neisseria sp. HMSC056A03]	Neisseria sp. HMSC056A03	1739544	K00795
+c_000000000053_3	UTG76114.1	100	510	0	1.46e-212	608	signal recognition particle-docking protein FtsY [Neisseria subflava]	Neisseria subflava	28449	K03110
+c_000000000053_4	MBY6285475.1	97.9	522	11	0.0	1050	bifunctional peptide-methionine (S)-S-oxide reductase MsrA/peptide-methionine (R)-S-oxide reductase MsrB [Neisseria subflava]	Neisseria subflava	28449	K12267
+c_000000000053_4	MBY6285475.1	97.9	522	11	0.0	1050	bifunctional peptide-methionine (S)-S-oxide reductase MsrA/peptide-methionine (R)-S-oxide reductase MsrB [Neisseria subflava]	Neisseria subflava	28449	K07304
+c_000000000053_4	MBY6285475.1	97.9	522	11	0.0	1050	bifunctional peptide-methionine (S)-S-oxide reductase MsrA/peptide-methionine (R)-S-oxide reductase MsrB [Neisseria subflava]	Neisseria subflava	28449	K07305
+c_000000000054_2	WP_003680742.1	100	111	0	2.57e-63	198	MULTISPECIES: carboxymuconolactone decarboxylase family protein [Neisseria]	Neisseria	482	K01607
+c_000000000054_3	WP_003686323.1	100	122	0	1.13e-78	238	MULTISPECIES: rhodanese-like domain-containing protein [Neisseria]	Neisseria	482	K03972
+c_000000000054_5	EER55554.1	99.6	251	1	2.23e-182	510	5'/3'-nucleotidase SurE [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K03787
+c_000000000054_6	VTX70105.1	91.6	320	26	8.92e-189	532	Murein hydrolase activator NlpD [Neisseria subflava]	Neisseria subflava	28449	K06194
+c_000000000054_7	MCL9778737.1	98.5	344	5	2.92e-243	679	phospholipase D family protein [Neisseria subflava]	Neisseria subflava	28449	K06132
+c_000000000056_2	WP_003681045.1	100	157	0	1.45e-109	318	hemerythrin domain-containing protein [Neisseria flavescens]	Neisseria flavescens	484	K07322
+c_000000000056_4	OFL27928.1	98.8	328	4	1.71e-236	654	tRNA-dihydrouridine synthase C [Neisseria sp. HMSC075C12]	Neisseria sp. HMSC075C12	1739282	K05541
+c_000000000057_1	KZC86206.1	97.5	121	3	2.88e-85	254	iron-sulfur binding protein [Neisseria flavescens]	Neisseria flavescens	484	K11107
+c_000000000057_2	VTY03455.1	100	384	0	1.45e-279	767	Ribonucleoside-diphosphate reductase 1 subunit beta [Neisseria subflava]	Neisseria subflava	28449	K00526
+c_000000000057_4	OFM31935.1	100	759	0	0.0	1520	ribonucleotide-diphosphate reductase subunit alpha [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K00525
+c_000000000058_2	UTG75476.1	100	356	0	3.02e-251	693	3-isopropylmalate dehydrogenase [Neisseria subflava]	Neisseria subflava	28449	K00052
+c_000000000058_4	OFR81623.1	94.8	153	8	1.03e-107	313	YhcH/YjgK/YiaL family protein [Neisseria sp. HMSC073G10]	Neisseria sp. HMSC073G10	1739369	K19334
+c_000000000058_6	WP_049331002.1	99.2	121	1	3.63e-88	261	VOC family protein [Neisseria cinerea]	Neisseria cinerea	483	K06996
+c_000000000058_7	WP_003677355.1	100	199	0	2.44e-145	413	MULTISPECIES: 3-isopropylmalate dehydratase small subunit [Neisseria]	Neisseria	482	K01704
+c_000000000059_2	WP_017175129.1	99.7	381	1	1.72e-274	755	MULTISPECIES: UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing) [Staphylococcus]	Staphylococcus	1279	K01791
+c_000000000059_4	WP_002448665.1	100	241	0	1.14e-170	480	MULTISPECIES: F0F1 ATP synthase subunit A [Staphylococcus]	Staphylococcus	1279	K02108
+c_000000000059_5	WP_002448651.1	100	70	0	7.70e-35	123	MULTISPECIES: F0F1 ATP synthase subunit C [Staphylococcus]	Staphylococcus	1279	K02110
+c_000000000059_6	WP_049382313.1	100	176	0	2.04e-91	274	MULTISPECIES: F0F1 ATP synthase subunit B [Staphylococcus]	Staphylococcus	1279	K02109
+c_000000000059_7	WP_049382314.1	100	179	0	4.14e-122	352	MULTISPECIES: F0F1 ATP synthase subunit delta [Staphylococcus]	Staphylococcus	1279	K02113
+c_000000000060_1	WP_070508203.1	100	205	0	5.55e-136	397	MULTISPECIES: molybdopterin molybdotransferase MoeA [Staphylococcus]	Staphylococcus	1279	K03750
+c_000000000060_2	RLY73810.1	100	207	0	2.99e-140	405	molybdopterin molybdenumtransferase MoeA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03750
+c_000000000060_3	WP_017174864.1	100	163	0	2.77e-110	321	MULTISPECIES: molybdopterin-guanine dinucleotide biosynthesis protein B [Staphylococcus]	Staphylococcus	1279	K03753
+c_000000000060_4	WP_017174863.1	100	149	0	1.47e-105	308	MULTISPECIES: molybdenum cofactor biosynthesis protein MoaE [Staphylococcus]	Staphylococcus	1279	K03635
+c_000000000060_5	WP_017174862.1	100	77	0	5.27e-45	149	MULTISPECIES: molybdopterin converting factor subunit 1 [Staphylococcus]	Staphylococcus	1279	K03636
+c_000000000060_6	WP_017174861.1	100	201	0	3.47e-143	407	MULTISPECIES: molybdenum cofactor guanylyltransferase MobA [Staphylococcus]	Staphylococcus	1279	K03752
+c_000000000060_7	WP_017174860.1	100	340	0	4.60e-247	681	MULTISPECIES: GTP 3',8-cyclase MoaA [Staphylococcus]	Staphylococcus	1279	K03639
+c_000000000061_4	UTG73644.1	99.7	302	1	6.63e-230	635	oxygen-dependent coproporphyrinogen oxidase [Neisseria subflava]	Neisseria subflava	28449	K00228
+c_000000000061_5	OFO25730.1	99.6	279	1	1.49e-185	521	zinc metalloprotease HtpX [Neisseria sp. HMSC056A03]	Neisseria sp. HMSC056A03	1739544	K03799
+c_000000000061_6	MCL9778742.1	98.8	255	3	1.76e-178	501	squalene synthase HpnC [Neisseria subflava]	Neisseria subflava	28449	K21679
+c_000000000061_6	MCL9778742.1	98.8	255	3	1.76e-178	501	squalene synthase HpnC [Neisseria subflava]	Neisseria subflava	28449	K02291
+c_000000000062_3	WP_019835606.1	100	423	0	2.54e-302	828	MULTISPECIES: UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Staphylococcus]	Staphylococcus	1279	K00790
+c_000000000062_4	RLY80605.1	100	201	0	2.59e-139	399	fructose-bisphosphate aldolase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01624
+c_000000000063_3	WP_003680162.1	100	112	0	4.41e-78	235	MULTISPECIES: iron-sulfur cluster insertion protein ErpA [Neisseriaceae]	Neisseriaceae	481	K15724
+c_000000000063_6	MBF1271117.1	99.1	348	3	3.40e-253	697	N-acetyl-gamma-glutamyl-phosphate reductase [Neisseria sp.]	Neisseria sp.	192066	K00145
+c_000000000064_2	KZC77941.1	100	413	0	2.21e-275	759	pilin biogenesis protein [Neisseria flavescens]	Neisseria flavescens	484	K02653
+c_000000000064_3	OFM31293.1	98.3	295	5	1.47e-209	583	methyltransferase [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K02654
+c_000000000064_4	WP_219089368.1	97.6	206	5	3.40e-132	380	dephospho-CoA kinase [Neisseria sicca]	Neisseria sicca	490	K00859
+c_000000000064_5	WP_003682475.1	98.3	60	1	5.88e-39	132	MULTISPECIES: DNA gyrase inhibitor YacG [Neisseria]	Neisseria	482	K09862
+c_000000000065_1	OFV34154.1	97.6	251	6	9.42e-183	521	hypothetical protein HMPREF3139_03685 [Neisseria sp. HMSC15G01]	Neisseria sp. HMSC15G01	1581107	K07280
+c_000000000066_1	WP_017175242.1	100	512	0	0.0	985	MULTISPECIES: sodium/proline symporter PutP [Staphylococcus]	Staphylococcus	1279	K11928
+c_000000000066_1	WP_017175242.1	100	512	0	0.0	985	MULTISPECIES: sodium/proline symporter PutP [Staphylococcus]	Staphylococcus	1279	K03307
+c_000000000066_2	WP_002450027.1	100	100	0	3.18e-61	192	MULTISPECIES: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC [Staphylococcus]	Staphylococcus	1279	K02435
+c_000000000066_3	WP_048761656.1	100	485	0	0.0	939	MULTISPECIES: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA [Staphylococcus]	Staphylococcus	1279	K02433
+c_000000000066_3	WP_048761656.1	100	485	0	0.0	939	MULTISPECIES: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA [Staphylococcus]	Staphylococcus	1279	K01426
+c_000000000067_1	WP_242227592.1	99.7	290	1	5.66e-212	590	alpha/beta fold hydrolase family protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K00641
+c_000000000067_5	WP_002488451.1	100	427	0	2.80e-292	803	MULTISPECIES: serine--tRNA ligase [Staphylococcus]	Staphylococcus	1279	K01875
+c_000000000068_1	UTG75246.1	100	263	0	1.97e-182	511	3-methyl-2-oxobutanoate hydroxymethyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00606
+c_000000000068_2	KZC79660.1	98.9	278	3	5.93e-196	547	pantoate--beta-alanine ligase [Neisseria flavescens]	Neisseria flavescens	484	K01918
+c_000000000069_2	WP_103268367.1	100	799	0	0.0	1540	DNA topoisomerase IV subunit A [Staphylococcus hominis]	Staphylococcus hominis	1290	K02621
+c_000000000070_1	MBS9341631.1	99.2	932	7	0.0	1852	excinuclease ABC subunit UvrA [Neisseria elongata subsp. nitroreducens]	Neisseria elongata subsp. nitroreducens	90367	K03701
+c_000000000071_1	MBS5742857.1	98.9	178	2	2.77e-123	355	ribosome small subunit-dependent GTPase A [Neisseria sp.]	Neisseria sp.	192066	K06949
+c_000000000071_3	MBF1302078.1	99.5	808	4	0.0	1608	methionine--tRNA ligase [Neisseria sp.]	Neisseria sp.	192066	K01874
+c_000000000071_4	MBF1350572.1	100	262	0	1.65e-178	508	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Neisseria lactamica]	Neisseria lactamica	486	K00790
+c_000000000072_2	MBF1302073.1	99.8	618	1	0.0	1207	RNB domain-containing ribonuclease [Neisseria sp.]	Neisseria sp.	192066	K01147
+c_000000000072_3	WP_036492406.1	100	306	0	2.84e-208	580	patatin-like phospholipase family protein [Neisseria mucosa]	Neisseria mucosa	488	K07001
+c_000000000073_1	MBF1270954.1	100	192	0	3.80e-121	353	3-oxoacyl-ACP reductase FabG [Neisseria sp.]	Neisseria sp.	192066	K00059
+c_000000000075_2	WP_017175732.1	100	153	0	9.87e-106	308	MULTISPECIES: DUF420 domain-containing protein [Staphylococcus]	Staphylococcus	1279	K08976
+c_000000000075_3	WP_017175733.1	100	303	0	1.70e-203	568	MULTISPECIES: heme o synthase [Staphylococcus]	Staphylococcus	1279	K02257
+c_000000000075_4	SIH21183.1	100	312	0	4.40e-215	598	Heme A synthase [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K02259
+c_000000000076_1	MBF1297163.1	100	203	0	2.71e-132	380	glycerol-3-phosphate 1-O-acyltransferase PlsY [Neisseria meningitidis]	Neisseria meningitidis	487	K08591
+c_000000000076_2	KZC79653.1	100	116	0	8.12e-76	230	dihydroneopterin aldolase [Neisseria flavescens]	Neisseria flavescens	484	K01633
+c_000000000076_4	WP_003747210.1	100	178	0	2.70e-122	352	NUDIX hydrolase [Neisseria mucosa]	Neisseria mucosa	488	K01515
+c_000000000076_5	WP_107737581.1	99.1	212	2	6.97e-153	432	MULTISPECIES: alpha/beta hydrolase [Neisseria]	Neisseria	482	K07018
+c_000000000077_2	WP_017174707.1	100	241	0	1.56e-168	474	MULTISPECIES: 4-hydroxy-tetrahydrodipicolinate reductase [Staphylococcus]	Staphylococcus	1279	K00215
+c_000000000077_3	WP_019835540.1	100	239	0	2.80e-122	357	MULTISPECIES: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase [Staphylococcus]	Staphylococcus	1279	K05822
+c_000000000078_2	WP_202596544.1	100	316	0	5.22e-225	624	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH [Staphylococcus hominis]	Staphylococcus hominis	1290	K03438
+c_000000000078_3	WP_017174536.1	100	143	0	2.90e-100	294	MULTISPECIES: division/cell wall cluster transcriptional repressor MraZ [Staphylococcus]	Staphylococcus	1279	K03925
+c_000000000078_4	WP_049382512.1	100	537	0	0.0	1059	MULTISPECIES: bacillithiol biosynthesis cysteine-adding enzyme BshC [Staphylococcus]	Staphylococcus	1279	K22136
+c_000000000079_2	WP_079335447.1	100	329	0	6.08e-226	627	catabolite control protein A [Staphylococcus hominis]	Staphylococcus hominis	1290	K02529
+c_000000000079_3	WP_019835462.1	100	555	0	0.0	1090	MULTISPECIES: formate--tetrahydrofolate ligase [Staphylococcus]	Staphylococcus	1279	K01938
+c_000000000080_1	WP_004519071.1	100	265	0	4.84e-184	516	MULTISPECIES: ABC transporter permease [Neisseria]	Neisseria	482	K09688
+c_000000000080_2	WP_003747991.1	100	216	0	6.95e-155	438	MULTISPECIES: ABC transporter ATP-binding protein [Neisseria]	Neisseria	482	K09689
+c_000000000080_3	MBD0767370.1	98.9	757	8	0.0	1430	RNA-binding transcriptional accessory protein [Neisseria sp. KH1003-02]	Neisseria sp. KH1003-02	1871107	K06959
+c_000000000082_1	WP_196306643.1	100	280	0	2.29e-204	570	aminopeptidase, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K19689
+c_000000000082_2	WP_017175224.1	100	177	0	7.74e-117	338	MULTISPECIES: acyl-CoA thioesterase [Staphylococcus]	Staphylococcus	1279	K01073
+c_000000000082_5	WP_002450071.1	100	172	0	2.16e-116	337	MULTISPECIES: type 1 glutamine amidotransferase [Staphylococcus]	Staphylococcus	1279	K05520
+c_000000000083_3	WP_137041294.1	99.0	197	2	4.39e-135	386	5-formyltetrahydrofolate cyclo-ligase [Neisseria subflava]	Neisseria subflava	28449	K01934
+c_000000000083_5	UTG76002.1	100	242	0	6.86e-168	473	30S ribosomal protein S2 [Neisseria subflava]	Neisseria subflava	28449	K02967
+c_000000000084_2	OFM30821.1	97.9	667	13	0.0	1249	DNA polymerase III subunit gamma/tau [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K02343
+c_000000000084_3	MCL9778053.1	100	111	0	4.81e-68	210	YbaB/EbfC family nucleoid-associated protein [Neisseria subflava]	Neisseria subflava	28449	K09747
+c_000000000085_3	UTG75161.1	99.8	539	1	0.0	1098	oligopeptide ABC transporter substrate-binding protein OppA [Neisseria subflava]	Neisseria subflava	28449	K15580
+c_000000000085_3	UTG75161.1	99.8	539	1	0.0	1098	oligopeptide ABC transporter substrate-binding protein OppA [Neisseria subflava]	Neisseria subflava	28449	K02035
+c_000000000086_2	UTG76158.1	100	89	0	5.22e-55	175	HPr family phosphocarrier protein [Neisseria subflava]	Neisseria subflava	28449	K02784
+c_000000000086_3	UTG66848.1	99.8	587	1	0.0	1136	phosphoenolpyruvate--protein phosphotransferase [Neisseria subflava]	Neisseria subflava	28449	K08483
+c_000000000086_4	MCL9779757.1	100	269	0	4.70e-185	523	ABC transporter substrate-binding protein [Neisseria subflava]	Neisseria subflava	28449	K02016
+c_000000000089_1	MBD0768085.1	99.8	1154	2	0.0	2330	glycosyl transferase [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K09809
+c_000000000090_1	MBF1282207.1	96.8	345	10	6.85e-231	648	pilus assembly protein PilC [Neisseria sp.]	Neisseria sp.	192066	K02674
+c_000000000090_2	MBH5951904.1	87.5	144	15	5.96e-79	241	SIS domain-containing protein [Neisseria meningitidis]	Neisseria meningitidis	487	K06041
+c_000000000090_3	VTX94856.1	96.3	351	13	2.40e-234	650	Transaldolase [Neisseria subflava]	Neisseria subflava	28449	K00616
+c_000000000090_4	OFK84985.1	98.6	283	4	5.23e-211	586	tRNA glutamyl-Q synthetase [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K01894
+c_000000000091_1	WP_145428742.1	100	251	0	6.70e-170	491	DNA polymerase/3'-5' exonuclease PolX [Staphylococcus hominis]	Staphylococcus hominis	1290	K02347
+c_000000000091_2	WP_070492258.1	91.6	783	10	0.0	1332	MULTISPECIES: endonuclease MutS2 [Staphylococcus]	Staphylococcus	1279	K07456
+c_000000000091_3	WP_002449989.1	100	104	0	4.24e-70	214	MULTISPECIES: thioredoxin [Bacillales]	Bacillales	1385	K03671
+c_000000000092_2	WP_002448673.1	100	145	0	1.67e-100	295	MULTISPECIES: 3-hydroxyacyl-ACP dehydratase FabZ [Staphylococcus]	Staphylococcus	1279	K02372
+c_000000000092_3	WP_017175137.1	100	421	0	3.32e-296	813	MULTISPECIES: UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Staphylococcus]	Staphylococcus	1279	K00790
+c_000000000092_5	WP_002448708.1	100	133	0	6.77e-83	249	MULTISPECIES: F0F1 ATP synthase subunit epsilon [Staphylococcus]	Staphylococcus	1279	K02114
+c_000000000093_1	MCL9779476.1	98.8	334	4	4.65e-231	658	LPS-assembly protein LptD [Neisseria subflava]	Neisseria subflava	28449	K04744
+c_000000000093_2	UTG76006.1	99.7	334	1	1.94e-245	677	phosphotransferase [Neisseria subflava]	Neisseria subflava	28449	K07102
+c_000000000093_3	UTG76005.1	99.8	450	1	0.0	885	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG [Neisseria subflava]	Neisseria subflava	28449	K03495
+c_000000000094_3	RKV69319.1	98.4	491	8	0.0	972	MAG: anthranilate synthase component I [Neisseria sp.]	Neisseria sp.	192066	K01657
+c_000000000094_4	UTG75308.1	100	189	0	1.38e-134	384	RNA 2'-phosphotransferase [Neisseria subflava]	Neisseria subflava	28449	K07559
+c_000000000095_3	OHR14151.1	99.7	735	2	0.0	1488	ferripyoverdine receptor [Neisseria sp. HMSC078C12]	Neisseria sp. HMSC078C12	1715075	K16088
+c_000000000095_3	OHR14151.1	99.7	735	2	0.0	1488	ferripyoverdine receptor [Neisseria sp. HMSC078C12]	Neisseria sp. HMSC078C12	1715075	K02014
+c_000000000097_4	WP_002437530.1	100	97	0	1.22e-59	187	MULTISPECIES: copper-sensing transcriptional repressor CsoR [Bacillales]	Bacillales	1385	K21600
+c_000000000097_5	WP_017174787.1	100	494	0	0.0	971	MULTISPECIES: cardiolipin synthase [Staphylococcus]	Staphylococcus	1279	K06131
+c_000000000097_6	WP_049415933.1	100	215	0	6.18e-153	433	HD domain-containing protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K06950
+c_000000000098_1	WP_002218093.1	98.2	271	5	2.93e-178	505	chaperonin GroEL, partial [Neisseria meningitidis]	Neisseria meningitidis	487	K04077
+c_000000000098_2	WP_003684150.1	100	95	0	8.68e-59	185	MULTISPECIES: co-chaperone GroES [Neisseria]	Neisseria	482	K04078
+c_000000000098_3	UTG75963.1	99.8	620	1	0.0	1238	TonB-dependent receptor [Neisseria subflava]	Neisseria subflava	28449	K16087
+c_000000000099_3	WP_003747072.1	100	342	0	1.56e-230	640	MULTISPECIES: anthranilate phosphoribosyltransferase [Neisseria]	Neisseria	482	K00766
+c_000000000099_4	WP_036490598.1	98.0	196	4	1.13e-141	403	aminodeoxychorismate/anthranilate synthase component II [Neisseria mucosa]	Neisseria mucosa	488	K01664
+c_000000000099_4	WP_036490598.1	98.0	196	4	1.13e-141	403	aminodeoxychorismate/anthranilate synthase component II [Neisseria mucosa]	Neisseria mucosa	488	K01658
+c_000000000100_3	UTG76334.1	99.8	442	1	1.08e-302	831	anaerobic C4-dicarboxylate transporter [Neisseria subflava]	Neisseria subflava	28449	K07792
+c_000000000101_1	WP_002449793.1	100	368	0	2.99e-248	687	MULTISPECIES: RNA polymerase sigma factor RpoD [Staphylococcus]	Staphylococcus	1279	K03086
+c_000000000101_2	WP_017176223.1	100	229	0	3.69e-161	455	MULTISPECIES: tRNA (adenine(22)-N(1))-methyltransferase TrmK [Staphylococcus]	Staphylococcus	1279	K06967
+c_000000000101_3	WP_017176224.1	100	367	0	6.28e-270	741	MULTISPECIES: Nif3-like dinuclear metal center hexameric protein [Staphylococcus]	Staphylococcus	1279	K22391
+c_000000000103_2	WP_002447961.1	100	98	0	1.16e-62	195	MULTISPECIES: 30S ribosomal protein S6 [Staphylococcus]	Staphylococcus	1279	K02990
+c_000000000103_3	WP_048762494.1	100	171	0	4.67e-106	311	MULTISPECIES: single-stranded DNA-binding protein [Staphylococcus]	Staphylococcus	1279	K03111
+c_000000000103_4	WP_002447994.1	100	80	0	1.72e-49	160	MULTISPECIES: 30S ribosomal protein S18 [Staphylococcus]	Staphylococcus	1279	K02963
+c_000000000104_1	WP_019835422.1	100	650	0	0.0	1238	MULTISPECIES: alanine--tRNA ligase [Staphylococcus]	Staphylococcus	1279	K01872
+c_000000000104_3	WP_017176179.1	100	142	0	8.02e-93	275	MULTISPECIES: Holliday junction resolvase RuvX [Staphylococcus]	Staphylococcus	1279	K07447
+c_000000000105_1	WP_002448938.1	100	68	0	7.16e-38	131	MULTISPECIES: preprotein translocase subunit YajC [Staphylococcus]	Staphylococcus	1279	K03210
+c_000000000105_2	WP_049382001.1	100	761	0	0.0	1395	MULTISPECIES: protein translocase subunit SecDF [Staphylococcus]	Staphylococcus	1279	K12257
+c_000000000105_3	WP_070519278.1	100	144	0	3.77e-96	291	MULTISPECIES: single-stranded-DNA-specific exonuclease RecJ, partial [Staphylococcus]	Staphylococcus	1279	K07462
+c_000000000106_1	OFM33484.1	98.7	314	4	1.06e-232	643	oxidoreductase [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K25136
+c_000000000106_2	EER55496.1	98.0	393	8	2.63e-282	775	bifunctional N-succinyldiaminopimelate-aminotransferase/acetylornithine transaminase protein [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K00821
+c_000000000107_3	WP_002448977.1	100	140	0	4.16e-94	278	MULTISPECIES: Rrf2 family transcriptional regulator [Staphylococcus]	Staphylococcus	1279	K17472
+c_000000000107_4	WP_070436597.1	99.7	383	1	2.53e-269	743	MULTISPECIES: replication-associated recombination protein A [Staphylococcus]	Staphylococcus	1279	K07478
+c_000000000108_1	WP_017175720.1	99.7	308	1	2.47e-219	608	MULTISPECIES: ribonuclease HIII [Staphylococcus]	Staphylococcus	1279	K03471
+c_000000000108_2	WP_017175719.1	100	88	0	5.47e-52	167	MULTISPECIES: cell division protein ZapA [Staphylococcus]	Staphylococcus	1279	K09888
+c_000000000108_3	WP_017175718.1	100	173	0	4.15e-110	321	MULTISPECIES: CvpA family protein [Staphylococcus]	Staphylococcus	1279	K03558
+c_000000000109_4	WP_049437138.1	99.6	230	1	2.29e-157	456	alkyl hydroperoxide reductase subunit F [Staphylococcus hominis]	Staphylococcus hominis	1290	K03387
+c_000000000110_1	WP_049379606.1	100	645	0	0.0	1193	ABC-F family ATP-binding cassette domain-containing protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K06158
+c_000000000110_2	WP_017175284.1	100	212	0	2.93e-145	413	MULTISPECIES: redox-sensing transcriptional repressor Rex [Staphylococcus]	Staphylococcus	1279	K01926
+c_000000000111_1	WP_017176321.1	99.4	175	1	2.42e-128	367	MULTISPECIES: peptide-methionine (S)-S-oxide reductase MsrA [Staphylococcus]	Staphylococcus	1279	K07304
+c_000000000111_2	WP_017176320.1	100	281	0	2.80e-191	535	MULTISPECIES: DegV family protein [Staphylococcus]	Staphylococcus	1279	K25232
+c_000000000111_3	WP_048679885.1	100	158	0	1.50e-116	336	MULTISPECIES: dihydrofolate reductase [Staphylococcus]	Staphylococcus	1279	K00287
+c_000000000111_4	WP_017176318.1	100	318	0	1.21e-240	663	MULTISPECIES: thymidylate synthase [Staphylococcus]	Staphylococcus	1279	K00560
+c_000000000112_3	WP_071859997.1	99.5	648	3	0.0	1221	DHH family phosphoesterase [Staphylococcus hominis]	Staphylococcus hominis	1290	K22927
+c_000000000113_3	WP_001831260.1	100	66	0	5.35e-40	135	MULTISPECIES: cold shock protein CspA [Staphylococcus]	Staphylococcus	1279	K03704
+c_000000000113_4	WP_019835542.1	99.8	421	1	1.08e-302	829	MULTISPECIES: diaminopimelate decarboxylase [Staphylococcus]	Staphylococcus	1279	K01586
+c_000000000114_2	KZC84271.1	100	389	0	7.70e-273	751	methionine adenosyltransferase [Neisseria flavescens]	Neisseria flavescens	484	K00789
+c_000000000115_3	YP_009151220.1	97.9	285	5	1.94e-211	587	endolysin [Propionibacterium phage PHL132N00]	Propionibacterium phage PHL132N00	1500820	K01447
+c_000000000117_1	UTG73861.1	100	287	0	2.54e-206	574	dTDP-4-dehydrorhamnose reductase [Neisseria subflava]	Neisseria subflava	28449	K00067
+c_000000000117_2	WP_231288082.1	98.5	482	5	1.79e-130	397	calcium-binding protein [Neisseria mucosa]	Neisseria mucosa	488	K01406
+c_000000000118_3	WP_242226858.1	100	206	0	1.03e-133	393	Na+/H+ antiporter NhaC [Staphylococcus hominis]	Staphylococcus hominis	1290	K03315
+c_000000000120_2	WP_049382606.1	100	109	0	9.43e-65	201	SMR family transporter [Staphylococcus hominis]	Staphylococcus hominis	1290	K18924
+c_000000000120_3	WP_017174884.1	100	104	0	1.88e-64	200	MULTISPECIES: multidrug efflux SMR transporter [Staphylococcus]	Staphylococcus	1279	K18925
+c_000000000120_4	WP_017174885.1	100	319	0	1.89e-224	622	MULTISPECIES: 2-hydroxyacid dehydrogenase family protein [Staphylococcus]	Staphylococcus	1279	K00058
+c_000000000121_1	WP_162817655.1	91.7	422	35	3.74e-274	774	type VI secretion system Vgr family protein [Neisseria elongata]	Neisseria elongata	495	K11904
+c_000000000122_1	UTG75020.1	100	306	0	2.60e-229	634	homoserine kinase [Neisseria subflava]	Neisseria subflava	28449	K02204
+c_000000000122_2	MBF1302306.1	94.4	267	12	5.68e-157	457	YadA-like family protein [Neisseria sp.]	Neisseria sp.	192066	K21449
+c_000000000124_1	KZC77830.1	99.0	306	3	4.93e-214	595	aspartate carbamoyltransferase [Neisseria flavescens]	Neisseria flavescens	484	K00609
+c_000000000124_2	WP_003684689.1	100	152	0	2.25e-106	310	MULTISPECIES: aspartate carbamoyltransferase regulatory subunit [Neisseria]	Neisseria	482	K00610
+c_000000000125_3	WP_049332709.1	100	175	0	5.18e-105	308	single-stranded DNA-binding protein [Neisseria sp. HMSC072B12]	Neisseria sp. HMSC072B12	1715080	K03111
+c_000000000126_3	WP_019834705.1	99.2	124	1	2.17e-77	234	MULTISPECIES: dihydroxyacetone kinase phosphoryl donor subunit DhaM [Staphylococcus]	Staphylococcus	1279	K05881
+c_000000000126_4	WP_019834704.1	100	193	0	4.94e-130	373	MULTISPECIES: dihydroxyacetone kinase subunit DhaL [Staphylococcus]	Staphylococcus	1279	K05879
+c_000000000127_1	MBQ1436428.1	95.1	142	7	8.62e-94	280	outer membrane protein transport protein [Ruminococcus sp.]	Ruminococcus sp.	41978	K06076
+c_000000000127_3	WP_003686244.1	100	167	0	2.35e-113	329	peptide deformylase [Neisseria sp. HMSC071A01]	Neisseria sp. HMSC071A01	1739332	K01462
+c_000000000128_2	WP_107769219.1	97.5	435	11	9.38e-315	860	hydroxysqualene dehydroxylase HpnE [Neisseria sicca]	Neisseria sicca	490	K21677
+c_000000000128_3	RKV74983.1	98.6	282	4	7.85e-203	565	MAG: squalene synthase HpnD [Neisseria sp.]	Neisseria sp.	192066	K02291
+c_000000000129_1	OFM32063.1	100	473	0	0.0	956	coproporphyrinogen III oxidase [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K02495
+c_000000000130_1	WP_145435901.1	100	418	0	6.34e-250	696	solute carrier family 23 protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K02824
+c_000000000130_2	WP_017174557.1	99.7	297	1	1.26e-211	588	MULTISPECIES: aspartate carbamoyltransferase catalytic subunit [Staphylococcus]	Staphylococcus	1279	K00609
+c_000000000132_3	UTG75208.1	99.6	243	1	6.09e-167	471	orotidine-5'-phosphate decarboxylase [Neisseria subflava]	Neisseria subflava	28449	K01591
+c_000000000132_4	UTG75209.1	99.6	223	1	1.39e-153	435	NAD(P)H-binding protein [Neisseria subflava]	Neisseria subflava	28449	K17290
+c_000000000133_1	WP_019835771.1	100	422	0	1.21e-304	834	MULTISPECIES: threonine ammonia-lyase IlvA [Staphylococcus]	Staphylococcus	1279	K01754
+c_000000000133_2	WP_017175295.1	100	189	0	5.20e-139	395	MULTISPECIES: 3-isopropylmalate dehydratase small subunit [Staphylococcus]	Staphylococcus	1279	K01704
+c_000000000134_1	UTG75287.1	99.2	390	3	1.06e-259	717	sugar transporter [Neisseria subflava]	Neisseria subflava	28449	K08159
+c_000000000134_2	MBD0765881.1	100	69	0	2.69e-39	134	hypothetical protein [Neisseria sp. KH1003-02]	Neisseria sp. KH1003-02	1871107	K07213
+c_000000000134_2	MBD0765881.1	100	69	0	2.69e-39	134	hypothetical protein [Neisseria sp. KH1003-02]	Neisseria sp. KH1003-02	1871107	K08363
+c_000000000134_3	UTG75289.1	100	328	0	3.74e-226	652	type I restriction endonuclease subunit R [Neisseria subflava]	Neisseria subflava	28449	K01153
+c_000000000135_2	WP_049415930.1	100	262	0	3.02e-181	508	MULTISPECIES: hydroxyethylthiazole kinase [Staphylococcus]	Staphylococcus	1279	K00878
+c_000000000135_3	WP_049382315.1	100	212	0	5.28e-148	420	MULTISPECIES: thiamine phosphate synthase [Staphylococcus]	Staphylococcus	1279	K00788
+c_000000000135_4	WP_002455066.1	99.7	289	1	2.15e-199	556	MULTISPECIES: membrane protein insertase YidC [Terrabacteria group]	Terrabacteria group	1783272	K03217
+c_000000000136_4	WP_070459813.1	98.8	81	1	3.43e-54	172	MULTISPECIES: GNAT family N-acetyltransferase [Neisseria]	Neisseria	482	K06975
+c_000000000137_2	WP_048682829.1	100	464	0	0.0	937	MULTISPECIES: protoporphyrinogen oxidase [Staphylococcus]	Staphylococcus	1279	K00231
+c_000000000137_3	WP_017176379.1	100	186	0	1.43e-130	374	MULTISPECIES: alpha/beta hydrolase [Staphylococcus]	Staphylococcus	1279	K07002
+c_000000000138_2	DAS93351.1	99.1	106	1	5.75e-69	212	MAG TPA: HNH endonuclease [Siphoviridae sp.]	Siphoviridae sp.	2170413	K07451
+c_000000000138_3	MCL9777699.1	96.9	195	6	1.02e-123	357	terminase small subunit [Neisseria subflava]	Neisseria subflava	28449	K07474
+c_000000000139_1	WP_179225252.1	95.3	213	10	1.02e-139	400	restriction endonuclease subunit S [Haemophilus influenzae]	Haemophilus influenzae	727	K01154
+c_000000000139_2	WP_111315117.1	97.7	216	5	5.48e-152	431	restriction endonuclease subunit S [Haemophilus parainfluenzae]	Haemophilus parainfluenzae	729	K01154
+c_000000000139_3	OFR69221.1	99.7	379	1	2.78e-276	759	cell filamentation protein Fic [Neisseria sp. HMSC069H12]	Neisseria sp. HMSC069H12	1739376	K04095
+c_000000000140_2	WP_003684304.1	100	158	0	2.30e-102	300	MULTISPECIES: transcription elongation factor GreA [Neisseria]	Neisseria	482	K03624
+c_000000000141_1	OFO69272.1	97.8	270	6	3.15e-187	524	protein-(glutamine-N5) methyltransferase, release factor-specific [Neisseria sp. HMSC065C04]	Neisseria sp. HMSC065C04	1739524	K02493
+c_000000000142_1	RLY74964.1	100	147	0	1.11e-104	308	alanine--tRNA ligase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01872
+c_000000000142_2	WP_070859437.1	100	609	0	0.0	1192	MULTISPECIES: ATP-dependent RecD-like DNA helicase [Staphylococcus]	Staphylococcus	1279	K03581
+c_000000000143_2	MBD0767849.1	100	166	0	7.02e-110	320	type VI secretion system-associated protein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K11901
+c_000000000143_3	MCL9778713.1	99.8	448	1	0.0	903	type VI secretion system baseplate subunit TssK [Neisseria subflava]	Neisseria subflava	28449	K11893
+c_000000000144_2	MCL9777939.1	90.0	498	42	1.23e-314	891	pilus assembly protein PilC [Neisseria subflava]	Neisseria subflava	28449	K02674
+c_000000000146_3	UTG75334.1	100	439	0	0.0	878	sel1 repeat family protein [Neisseria subflava]	Neisseria subflava	28449	K07126
+c_000000000146_4	UTG75333.1	100	122	0	8.24e-81	243	VanZ family protein [Neisseria subflava]	Neisseria subflava	28449	K20950
+c_000000000147_1	WP_017174609.1	100	155	0	4.01e-102	300	MULTISPECIES: ribosome maturation factor RimP [Staphylococcus]	Staphylococcus	1279	K09748
+c_000000000147_2	WP_019835114.1	100	408	0	1.40e-280	772	MULTISPECIES: transcription termination factor NusA [Staphylococcus]	Staphylococcus	1279	K02600
+c_000000000147_3	WP_002448835.1	100	94	0	6.93e-58	183	MULTISPECIES: YlxR family protein [Staphylococcus]	Staphylococcus	1279	K07742
+c_000000000148_1	WP_001106057.1	100	224	0	1.51e-162	458	MULTISPECIES: IS6-like element IS257 family transposase [Bacteria]	Bacteria	2	K07498
+c_000000000150_3	UTG71710.1	100	255	0	9.37e-177	496	ABC transporter ATP-binding protein [Neisseria subflava]	Neisseria subflava	28449	K02013
+c_000000000151_1	WP_048680488.1	100	273	0	5.13e-174	498	MULTISPECIES: Na+/H+ antiporter NhaC [Staphylococcus]	Staphylococcus	1279	K03315
+c_000000000151_2	WP_002448510.1	100	356	0	3.28e-255	703	MULTISPECIES: NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Staphylococcus]	Staphylococcus	1279	K04940
+c_000000000152_1	AVI07213.1	100	163	0	5.37e-108	315	transcriptional regulator [Staphylococcus hominis]	Staphylococcus hominis	1290	K23774
+c_000000000152_2	WP_017176219.1	100	463	0	0.0	951	MULTISPECIES: glycine--tRNA ligase [Staphylococcus]	Staphylococcus	1279	K01880
+c_000000000153_4	WP_002450015.1	100	183	0	1.50e-126	363	MULTISPECIES: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD [Staphylococcus]	Staphylococcus	1279	K08316
+c_000000000153_5	WP_017175726.1	100	161	0	7.98e-109	317	MULTISPECIES: pantetheine-phosphate adenylyltransferase [Staphylococcus]	Staphylococcus	1279	K00954
+c_000000000154_1	WP_001830184.1	100	77	0	6.17e-44	146	MULTISPECIES: acyl carrier protein [Staphylococcus]	Staphylococcus	1279	K02078
+c_000000000154_2	WP_017174582.1	100	244	0	3.00e-163	461	MULTISPECIES: 3-oxoacyl-[acyl-carrier-protein] reductase [Staphylococcus]	Staphylococcus	1279	K00059
+c_000000000154_3	WP_017174581.1	100	308	0	1.67e-217	604	MULTISPECIES: ACP S-malonyltransferase [Staphylococcus]	Staphylococcus	1279	K00645
+c_000000000156_3	UTG75825.1	100	377	0	1.14e-277	762	succinyl-diaminopimelate desuccinylase [Neisseria subflava]	Neisseria subflava	28449	K01439
+c_000000000157_1	UTG74974.1	100	272	0	6.19e-193	541	4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Neisseria subflava]	Neisseria subflava	28449	K03527
+c_000000000157_2	WP_219089366.1	98.8	168	2	5.78e-119	343	signal peptidase II [Neisseria sicca]	Neisseria sicca	490	K03101
+c_000000000157_3	WP_003685919.1	100	266	0	1.37e-196	549	MULTISPECIES: glycine--tRNA ligase subunit alpha [Neisseria]	Neisseria	482	K01878
+c_000000000160_2	RKV74046.1	99.4	324	2	1.88e-222	618	MAG: octaprenyl diphosphate synthase [Neisseria sp.]	Neisseria sp.	192066	K02523
+c_000000000160_3	WP_002216394.1	100	102	0	2.22e-62	195	MULTISPECIES: 50S ribosomal protein L21 [Neisseria]	Neisseria	482	K02888
+c_000000000160_4	WP_061450787.1	100	68	0	3.17e-40	136	50S ribosomal protein L27, partial [Neisseria meningitidis]	Neisseria meningitidis	487	K02899
+c_000000000161_1	OFO66040.1	99.3	735	5	0.0	1394	type VI secretion protein IcmF [Neisseria sp. HMSC065C04]	Neisseria sp. HMSC065C04	1739524	K11891
+c_000000000162_2	WP_137041272.1	100	384	0	1.10e-274	755	GTPase ObgE [Neisseria subflava]	Neisseria subflava	28449	K03979
+c_000000000162_3	OHP52300.1	98.8	162	2	7.37e-110	320	thioredoxin [Neisseria sp. HMSC061B04]	Neisseria sp. HMSC061B04	1715140	K02199
+c_000000000164_1	WP_002450039.1	100	233	0	6.44e-156	443	recombination regulator RecX [Staphylococcus hominis]	Staphylococcus hominis	1290	K03565
+c_000000000165_1	WP_070504001.1	99.1	454	4	2.64e-310	852	MULTISPECIES: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE [Neisseria]	Neisseria	482	K03650
+c_000000000166_2	WP_017175244.1	100	667	0	0.0	1292	MULTISPECIES: NAD-dependent DNA ligase LigA [Staphylococcus]	Staphylococcus	1279	K01972
+c_000000000167_3	WP_017175211.1	100	151	0	2.08e-106	310	MULTISPECIES: peroxiredoxin [Staphylococcus]	Staphylococcus	1279	K03564
+c_000000000168_1	EFC53327.1	100	339	0	2.87e-235	652	capsule polysaccharide export outer membrane protein CtrA [Neisseria subflava NJ9703]	Neisseria subflava NJ9703	546268	K01991
+c_000000000168_2	EFC53326.1	98.9	370	4	7.93e-248	687	polysaccharide export inner-membrane protein, BexC/CtrB/KpsE family [Neisseria subflava NJ9703]	Neisseria subflava NJ9703	546268	K10107
+c_000000000169_1	KZC78614.1	100	603	0	0.0	1187	GTP-binding protein TypA/BipA [Neisseria flavescens]	Neisseria flavescens	484	K06207
+c_000000000171_2	WP_017176227.1	100	258	0	2.41e-185	518	MULTISPECIES: metal ABC transporter ATP-binding protein [Staphylococcus]	Staphylococcus	1279	K09817
+c_000000000171_3	WP_017176226.1	100	296	0	4.42e-216	599	MULTISPECIES: deoxyribonuclease IV [Staphylococcus]	Staphylococcus	1279	K01151
+c_000000000172_1	WP_017174531.1	100	44	0	8.90e-23	90.9	MULTISPECIES: beta-class phenol-soluble modulin [Staphylococcus]	Staphylococcus	1279	K20337
+c_000000000172_2	WP_048762353.1	100	44	0	5.34e-24	94.0	MULTISPECIES: beta-class phenol-soluble modulin [Staphylococcus]	Staphylococcus	1279	K20337
+c_000000000172_3	WP_017174533.1	100	44	0	2.11e-21	87.4	MULTISPECIES: beta-class phenol-soluble modulin [Staphylococcus]	Staphylococcus	1279	K20337
+c_000000000172_4	WP_017174534.1	100	44	0	3.10e-23	92.0	MULTISPECIES: beta-class phenol-soluble modulin [Staphylococcus]	Staphylococcus	1279	K20337
+c_000000000172_5	WP_002488710.1	100	44	0	8.61e-21	85.9	MULTISPECIES: beta-class phenol-soluble modulin [Staphylococcus]	Staphylococcus	1279	K20337
+c_000000000173_2	OFR82634.1	99.0	193	2	1.43e-138	395	molybdenum cofactor guanylyltransferase [Neisseria sp. HMSC073G10]	Neisseria sp. HMSC073G10	1739369	K03752
+c_000000000174_1	KZC78884.1	100	490	0	0.0	921	pyruvate kinase [Neisseria flavescens]	Neisseria flavescens	484	K00873
+c_000000000175_2	UTG75951.1	100	90	0	2.03e-57	181	GIY-YIG nuclease family protein [Neisseria subflava]	Neisseria subflava	28449	K07461
+c_000000000177_1	RKV80645.1	100	309	0	5.32e-102	311	MAG: energy transducer TonB [Neisseria sp.]	Neisseria sp.	192066	K03832
+c_000000000177_2	WP_049328854.1	100	176	0	1.65e-111	327	MULTISPECIES: MotA/TolQ/ExbB proton channel family protein [Neisseria]	Neisseria	482	K03561
+c_000000000178_1	MBS5742650.1	98.9	353	4	1.07e-259	716	NnrS family protein [Neisseria sp.]	Neisseria sp.	192066	K07234
+c_000000000178_3	KZC77510.1	100	102	0	4.73e-65	203	HTH-type transcriptional regulator NsrR [Neisseria flavescens]	Neisseria flavescens	484	K13771
+c_000000000180_2	SKT35155.1	100	124	0	2.31e-81	246	succinate dehydrogenase, cytochrome b556 subunit [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K00241
+c_000000000183_2	UTG75024.1	100	106	0	4.61e-41	141	accessory factor UbiK family protein [Neisseria subflava]	Neisseria subflava	28449	K09806
+c_000000000183_3	WP_107768914.1	99.5	436	2	3.40e-308	847	YifB family Mg chelatase-like AAA ATPase [Neisseria sicca]	Neisseria sicca	490	K07391
+c_000000000185_1	UTG76078.1	100	308	0	7.05e-215	597	methionyl-tRNA formyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00604
+c_000000000185_2	UTG76077.1	100	172	0	1.85e-117	340	O-acetyl-ADP-ribose deacetylase [Neisseria subflava]	Neisseria subflava	28449	K23518
+c_000000000186_2	WP_107632513.1	100	161	0	2.02e-116	337	nitroreductase family protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K07078
+c_000000000187_2	WP_070503716.1	100	316	0	2.21e-226	627	MULTISPECIES: CysB family HTH-type transcriptional regulator [Neisseria]	Neisseria	482	K13634
+c_000000000188_1	SII15937.1	95.6	435	19	2.11e-275	761	dihydrolipoamide acetyltransferase [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K00658
+c_000000000189_1	MBF9299349.1	95.1	81	4	7.17e-43	150	CPBP family intramembrane metalloprotease [Staphylococcus schleiferi]	Staphylococcus schleiferi	1295	K07052
+c_000000000191_2	WP_017175228.1	100	344	0	6.21e-222	618	MULTISPECIES: sensor histidine kinase [Staphylococcus]	Staphylococcus	1279	K07681
+c_000000000191_2	WP_017175228.1	100	344	0	6.21e-222	618	MULTISPECIES: sensor histidine kinase [Staphylococcus]	Staphylococcus	1279	K11617
+c_000000000191_3	WP_048761633.1	100	119	0	7.26e-80	244	cell wall-active antibiotics response protein LiaF [Staphylococcus hominis]	Staphylococcus hominis	1290	K11622
+c_000000000192_2	RLY82082.1	100	405	0	1.90e-282	778	F0F1 ATP synthase subunit alpha, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K02111
+c_000000000193_2	WP_072291469.1	99.7	330	1	3.39e-196	552	MULTISPECIES: thermonuclease family protein [Terrabacteria group]	Terrabacteria group	1783272	K01174
+c_000000000194_1	WP_213995473.1	99.5	211	1	6.10e-148	425	glutamate racemase [Staphylococcus hominis]	Staphylococcus hominis	1290	K01776
+c_000000000194_2	WP_017175711.1	100	193	0	2.55e-132	379	MULTISPECIES: XTP/dITP diphosphatase [Staphylococcus]	Staphylococcus	1279	K01519
+c_000000000195_1	VTY03792.1	100	77	0	3.19e-46	155	Phosphopantetheine adenylyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00954
+c_000000000195_2	UTG76239.1	100	228	0	2.98e-146	417	Bax inhibitor-1 family protein [Neisseria subflava]	Neisseria subflava	28449	K19416
+c_000000000196_1	WP_002455457.1	100	98	0	1.08e-58	185	MULTISPECIES: YggT family protein [Staphylococcus]	Staphylococcus	1279	K02221
+c_000000000196_4	WP_049382509.1	97.9	194	4	2.12e-118	345	MULTISPECIES: DivIVA domain-containing protein [Staphylococcus]	Staphylococcus	1279	K04074
+c_000000000197_2	KZC85766.1	100	441	0	4.09e-307	848	2-isopropylmalate synthase [Neisseria flavescens]	Neisseria flavescens	484	K01649
+c_000000000198_1	WP_002455096.1	99.6	242	1	8.12e-154	449	chaperonin GroEL [Staphylococcus hominis]	Staphylococcus hominis	1290	K04077
+c_000000000198_2	RLY85208.1	98.8	242	3	1.20e-155	449	chaperonin GroEL, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04077
+c_000000000199_1	WP_061642462.1	100	522	0	0.0	1025	MULTISPECIES: recombinase family protein [Staphylococcus]	Staphylococcus	1279	K06400
+c_000000000200_1	MBD0767681.1	99.2	261	2	4.67e-176	506	paraquat-inducible protein B [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K06192
+c_000000000200_2	MBF1298384.1	95.3	128	6	6.55e-79	239	paraquat-inducible protein A [Neisseria sp.]	Neisseria sp.	192066	K03808
+c_000000000200_3	OHQ27864.1	100	205	0	1.31e-134	393	PqiA family protein [Neisseria sp. HMSC066H01]	Neisseria sp. HMSC066H01	1715031	K03808
+c_000000000201_1	WP_049379534.1	100	295	0	4.61e-201	562	MULTISPECIES: phospho-N-acetylmuramoyl-pentapeptide-transferase [Staphylococcus]	Staphylococcus	1279	K01000
+c_000000000202_3	WP_002449832.1	100	171	0	1.85e-121	350	MULTISPECIES: peptide-methionine (S)-S-oxide reductase MsrA [Staphylococcus]	Staphylococcus	1279	K07304
+c_000000000203_1	WP_037541011.1	99.8	589	1	0.0	1129	MULTISPECIES: bifunctional lysylphosphatidylglycerol flippase/synthetase MprF [Staphylococcus]	Staphylococcus	1279	K14205
+c_000000000204_2	WP_252931880.1	99.4	352	2	3.34e-240	667	PH domain-containing protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K08981
+c_000000000205_1	WP_017174866.1	100	164	0	1.00e-108	317	MULTISPECIES: cyclic pyranopterin monophosphate synthase MoaC [Staphylococcus]	Staphylococcus	1279	K03637
+c_000000000205_2	WP_017174867.1	99.4	168	1	2.54e-113	329	MULTISPECIES: molybdenum cofactor biosynthesis protein MoaB [Staphylococcus]	Staphylococcus	1279	K03638
+c_000000000207_2	MCL9779186.1	98.4	367	6	3.79e-271	744	anhydro-N-acetylmuramic acid kinase [Neisseria subflava]	Neisseria subflava	28449	K09001
+c_000000000208_1	HBE8412776.1	100	574	0	0.0	1145	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA [Staphylococcus aureus]	Staphylococcus aureus	1280	K02545
+c_000000000209_2	WP_003686403.1	100	157	0	4.48e-104	305	bacterioferritin [Neisseria subflava]	Neisseria subflava	28449	K03594
+c_000000000209_3	WP_003686357.1	100	154	0	1.51e-105	308	bacterioferritin [Neisseria subflava]	Neisseria subflava	28449	K03594
+c_000000000210_3	WP_003681587.1	100	139	0	2.51e-90	268	MULTISPECIES: CopD family protein [Neisseria]	Neisseria	482	K08973
+c_000000000211_1	MBF1279774.1	100	115	0	2.81e-72	222	osmoprotectant transport activator ProQ [Neisseria lactamica]	Neisseria lactamica	486	K03607
+c_000000000211_2	KZC79270.1	99.7	366	1	5.97e-263	724	chorismate synthase [Neisseria flavescens]	Neisseria flavescens	484	K01736
+c_000000000212_2	KZC81970.1	100	206	0	9.55e-148	419	hypothetical protein TW90_1642 [Neisseria flavescens]	Neisseria flavescens	484	K08984
+c_000000000212_3	MBF1277907.1	99.7	290	1	9.96e-208	579	phosphatidate cytidylyltransferase [Neisseria sp.]	Neisseria sp.	192066	K00981
+c_000000000214_1	RLY82455.1	100	236	0	2.60e-163	467	methionine adenosyltransferase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K00789
+c_000000000216_1	KMU57891.1	100	143	0	2.01e-103	302	putative metallopeptidase (Zinc) SprT family [Staphylococcus hominis]	Staphylococcus hominis	1290	K03095
+c_000000000216_2	KMU57891.1	100	143	0	2.01e-103	302	putative metallopeptidase (Zinc) SprT family [Staphylococcus hominis]	Staphylococcus hominis	1290	K03095
+c_000000000217_2	WP_137041129.1	99.1	225	2	1.69e-155	440	7-cyano-7-deazaguanine/7-aminomethyl-7-deazaguanine transporter [Neisseria subflava]	Neisseria subflava	28449	K09125
+c_000000000217_3	WP_003748427.1	100	157	0	7.75e-114	329	MULTISPECIES: preQ(1) synthase [Neisseria]	Neisseria	482	K09457
+c_000000000218_2	WP_202596543.1	99.6	246	1	1.92e-172	486	ribonuclease III [Staphylococcus hominis]	Staphylococcus hominis	1290	K03685
+c_000000000219_2	WP_003679682.1	100	119	0	9.37e-72	220	MULTISPECIES: roadblock/LC7 domain-containing protein [Neisseria]	Neisseria	482	K07131
+c_000000000220_2	UTG76332.1	100	249	0	1.94e-186	521	GNAT family N-acetyltransferase [Neisseria subflava]	Neisseria subflava	28449	K22310
+c_000000000223_1	UTG68520.1	98.9	456	5	0.0	907	ABC transporter ATP-binding protein/permease [Neisseria subflava]	Neisseria subflava	28449	K02471
+c_000000000226_1	WP_107737771.1	95.3	149	7	2.73e-92	274	pilin [Neisseria subflava]	Neisseria subflava	28449	K02650
+c_000000000229_1	WP_100442585.1	100	138	0	6.27e-90	270	50S ribosomal protein L3 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02906
+c_000000000229_2	WP_001118667.1	100	102	0	2.30e-64	200	MULTISPECIES: 30S ribosomal protein S10 [Bacteria]	Bacteria	2	K02946
+c_000000000233_1	KZC86456.1	100	126	0	1.63e-84	256	ABC transport inner membrane subunit [Neisseria flavescens]	Neisseria flavescens	484	K02066
+c_000000000233_2	WP_036492156.1	100	164	0	6.77e-107	312	outer membrane lipid asymmetry maintenance protein MlaD [Neisseria mucosa]	Neisseria mucosa	488	K02067
+c_000000000233_3	WP_036492158.1	100	196	0	1.07e-130	375	phospholipid-binding protein MlaC [Neisseria mucosa]	Neisseria mucosa	488	K07323
+c_000000000234_2	OFK85152.1	98.4	322	5	7.64e-221	613	cysteine synthase A [Neisseria sp. HMSC061E12]	Neisseria sp. HMSC061E12	1739301	K01738
+c_000000000235_1	KZC83482.1	100	120	0	6.64e-76	238	magnesium and cobalt transport protein CorA [Neisseria flavescens]	Neisseria flavescens	484	K03284
+c_000000000237_2	WP_019835463.1	100	346	0	3.51e-242	670	MULTISPECIES: bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase [Staphylococcus]	Staphylococcus	1279	K13853
+c_000000000238_1	WP_004464372.1	100	244	0	1.46e-188	525	MULTISPECIES: epoxyqueuosine reductase QueH [Neisseria]	Neisseria	482	K09765
+c_000000000239_2	EEG33840.1	98.1	108	2	1.20e-62	196	comEA protein [Neisseria flavescens NRL30031/H210]	Neisseria flavescens NRL30031/H210	546264	K02237
+c_000000000239_4	WP_137040257.1	100	58	0	2.38e-29	114	undecaprenyl-diphosphate phosphatase [Neisseria subflava]	Neisseria subflava	28449	K06153
+c_000000000241_1	WP_107810701.1	99.6	506	2	0.0	976	preprotein translocase subunit SecA [Neisseria sicca]	Neisseria sicca	490	K03070
+c_000000000243_1	WP_049415605.1	100	353	0	4.64e-249	690	MULTISPECIES: lipid II:glycine glycyltransferase FemX [Staphylococcus]	Staphylococcus	1279	K11693
+c_000000000252_1	KZC75470.1	99.1	234	2	2.22e-160	455	undecaprenyl-diphosphatase UppP [Neisseria flavescens]	Neisseria flavescens	484	K06153
+c_000000000252_2	UTG75022.1	100	213	0	2.32e-147	419	thiol:disulfide interchange protein DsbA/DsbL [Neisseria subflava]	Neisseria subflava	28449	K03673
+c_000000000253_1	WP_070547970.1	99.5	209	1	2.34e-147	422	MULTISPECIES: diacylglycerol kinase [Staphylococcus]	Staphylococcus	1279	K07029
+c_000000000254_1	WP_070436596.1	100	421	0	8.32e-302	833	MULTISPECIES: aspartate--tRNA ligase [Staphylococcus]	Staphylococcus	1279	K01876
+c_000000000256_1	MCG1219298.1	100	480	0	0.0	973	IS1182 family transposase [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K07487
+c_000000000260_2	WP_145421940.1	99.7	335	1	2.00e-234	665	MULTISPECIES: 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [Staphylococcus]	Staphylococcus	1279	K00549
+c_000000000261_2	WP_017175135.1	100	381	0	8.35e-267	738	MULTISPECIES: F0F1 ATP synthase subunit beta [Staphylococcus]	Staphylococcus	1279	K02112
+c_000000000262_2	WP_235063227.1	100	370	0	4.99e-262	729	recombinase family protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K06400
+c_000000000263_1	SUA20538.1	97.5	40	1	1.36e-20	85.9	50S ribosomal protein L27 [Neisseria gonorrhoeae]	Neisseria gonorrhoeae	485	K02899
+c_000000000264_1	UTG76001.1	99.4	178	1	5.28e-112	330	elongation factor Ts [Neisseria subflava]	Neisseria subflava	28449	K02357
+c_000000000264_2	WP_002243681.1	100	215	0	1.62e-142	407	MULTISPECIES: UMP kinase [Neisseria]	Neisseria	482	K09903
+c_000000000265_1	WP_071839347.1	100	463	0	1.54e-279	782	translation initiation factor IF-2, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K02519
+c_000000000266_1	WP_017174849.1	100	287	0	7.18e-197	550	MULTISPECIES: GRP family sugar transporter [Staphylococcus]	Staphylococcus	1279	K05340
+c_000000000268_1	WP_069723825.1	100	205	0	1.41e-141	416	MULTISPECIES: phosphoenolpyruvate carboxykinase (ATP) [Staphylococcus]	Staphylococcus	1279	K01610
+c_000000000268_2	TJX88651.1	99.2	125	1	3.53e-79	240	methionine adenosyltransferase, partial [Staphylococcus haemolyticus]	Staphylococcus haemolyticus	1283	K00789
+c_000000000269_1	MBF1270751.1	98.9	175	2	5.76e-131	379	electron transfer flavoprotein-ubiquinone oxidoreductase [Neisseria sp.]	Neisseria sp.	192066	K00311
+c_000000000269_2	MCL9764618.1	97.2	254	7	8.98e-172	485	dihydropteroate synthase [Neisseria subflava]	Neisseria subflava	28449	K00796
+c_000000000271_1	MBF1276958.1	99.3	134	1	6.58e-86	272	type VI secretion system baseplate subunit TssF [Neisseria sp.]	Neisseria sp.	192066	K11895
+c_000000000271_1	MBF1276958.1	99.3	134	1	6.58e-86	272	type VI secretion system baseplate subunit TssF [Neisseria sp.]	Neisseria sp.	192066	K11896
+c_000000000273_1	WP_001829734.1	100	117	0	4.01e-72	221	MULTISPECIES: 50S ribosomal protein L22 [Bacteria]	Bacteria	2	K02890
+c_000000000273_2	WP_002448348.1	100	92	0	4.36e-62	193	MULTISPECIES: 30S ribosomal protein S19 [Staphylococcus]	Staphylococcus	1279	K02965
+c_000000000273_3	RLY76544.1	99.5	190	1	4.43e-128	370	50S ribosomal protein L2, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K02886
+c_000000000274_2	WP_017174555.1	100	175	0	3.85e-116	337	MULTISPECIES: bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR [Staphylococcus]	Staphylococcus	1279	K02825
+c_000000000275_2	WP_019834847.1	99.7	318	1	6.05e-227	633	MULTISPECIES: U32 family peptidase [Staphylococcus]	Staphylococcus	1279	K08303
+c_000000000276_2	WP_003680755.1	95.7	232	10	4.12e-148	422	tRNA adenosine(34) deaminase TadA [Neisseria flavescens]	Neisseria flavescens	484	K11991
+c_000000000277_2	UTG69537.1	99.7	340	1	8.62e-239	664	amino-acid N-acetyltransferase [Neisseria subflava]	Neisseria subflava	28449	K14682
+c_000000000279_1	WP_202596597.1	100	237	0	2.07e-165	469	PP2C family protein-serine/threonine phosphatase [Staphylococcus hominis]	Staphylococcus hominis	1290	K07315
+c_000000000281_2	MBF1296525.1	99.4	157	1	7.63e-108	319	diaminopimelate epimerase [Neisseria meningitidis]	Neisseria meningitidis	487	K01778
+c_000000000282_1	WP_017175226.1	100	154	0	2.33e-109	318	MULTISPECIES: low molecular weight phosphotyrosine protein phosphatase [Staphylococcus]	Staphylococcus	1279	K25307
+c_000000000282_3	WP_071839301.1	99.3	152	1	1.38e-98	298	aminopeptidase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K19689
+c_000000000283_3	GGO40323.1	99.2	129	1	1.75e-83	250	putative fluoride ion transporter CrcB 1 [Plantactinospora veratri]	Plantactinospora veratri	1436122	K06199
+c_000000000286_1	WP_240636923.1	98.3	296	5	4.45e-219	609	cysteine--tRNA ligase, partial [Neisseria meningitidis]	Neisseria meningitidis	487	K01883
+c_000000000288_1	WP_252931877.1	100	391	0	3.14e-265	734	alanine/glycine:cation symporter family protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03310
+c_000000000290_1	SPY04306.1	99.1	343	3	1.45e-245	679	multidrug resistance translocase [Neisseria meningitidis]	Neisseria meningitidis	487	K03446
+c_000000000295_1	MBF1300624.1	99.5	396	2	9.06e-286	790	electron transfer flavoprotein-ubiquinone oxidoreductase [Neisseria sp.]	Neisseria sp.	192066	K00311
+c_000000000302_1	WP_002448327.1	100	201	0	1.22e-133	383	MULTISPECIES: 50S ribosomal protein L4 [Staphylococcus]	Staphylococcus	1279	K02926
+c_000000000302_2	WP_002448403.1	100	91	0	2.46e-54	174	MULTISPECIES: 50S ribosomal protein L23 [Staphylococcus]	Staphylococcus	1279	K02892
+c_000000000305_1	WP_017176221.1	100	270	0	5.45e-188	526	MULTISPECIES: kinase/pyrophosphorylase [Staphylococcus]	Staphylococcus	1279	K09773
+c_000000000305_2	WP_119624917.1	100	100	0	1.54e-62	206	DNA primase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K02316
+c_000000000309_1	WP_222127098.1	100	222	0	1.50e-152	432	O-methyltransferase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00588
+c_000000000310_2	WP_049415154.1	99.7	307	1	1.46e-189	536	FtsQ-type POTRA domain-containing protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K03589
+c_000000000311_1	OFM32076.1	99.7	391	1	4.91e-271	767	preprotein translocase subunit SecA [Neisseria sp. HMSC068C04]	Neisseria sp. HMSC068C04	1715179	K03070
+c_000000000312_1	WP_003745973.1	98.4	256	4	2.16e-172	486	tryptophan synthase subunit alpha [Neisseria mucosa]	Neisseria mucosa	488	K01695
+c_000000000315_1	UTG73727.1	99.4	331	2	9.45e-224	626	homoserine dehydrogenase [Neisseria subflava]	Neisseria subflava	28449	K00003
+c_000000000317_1	WP_036492161.1	100	92	0	8.17e-58	182	STAS domain-containing protein [Neisseria mucosa]	Neisseria mucosa	488	K07122
+c_000000000317_2	MBD0768060.1	99.3	270	2	4.62e-190	531	ABC transporter [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K04754
+c_000000000318_1	MCD0911328.1	98.7	304	4	3.76e-207	578	M48 family metalloprotease [Staphylococcus aureus]	Staphylococcus aureus	1280	K02172
+c_000000000319_2	UTG76313.1	100	73	0	3.50e-43	149	UDP-2,3-diacylglucosamine diphosphatase [Neisseria subflava]	Neisseria subflava	28449	K03269
+c_000000000320_1	KZC85022.1	99.5	380	2	1.60e-257	712	DNA recombination protein [Neisseria flavescens]	Neisseria flavescens	484	K09760
+c_000000000323_1	WP_083014326.1	99.5	388	2	1.40e-277	773	N-6 DNA methylase [Aggregatibacter aphrophilus]	Aggregatibacter aphrophilus	732	K03427
+c_000000000324_1	UTG75011.1	100	359	0	2.64e-267	734	putative lipopolysaccharide heptosyltransferase III [Neisseria subflava]	Neisseria subflava	28449	K02849
+c_000000000327_1	MCL9778133.1	99.7	355	1	7.31e-257	712	glucose-6-phosphate dehydrogenase [Neisseria subflava]	Neisseria subflava	28449	K00036
+c_000000000328_1	WP_004519263.1	100	125	0	7.03e-80	241	MULTISPECIES: succinate dehydrogenase, cytochrome b556 subunit [Neisseria]	Neisseria	482	K00241
+c_000000000329_1	OFO66042.1	100	373	0	3.33e-272	756	type VI secretion protein ImpG [Neisseria sp. HMSC065C04]	Neisseria sp. HMSC065C04	1739524	K11896
+c_000000000329_1	OFO66042.1	100	373	0	3.33e-272	756	type VI secretion protein ImpG [Neisseria sp. HMSC065C04]	Neisseria sp. HMSC065C04	1739524	K11895
+c_000000000330_2	WP_071859472.1	100	290	0	5.57e-196	555	cell division protein FtsA [Staphylococcus hominis]	Staphylococcus hominis	1290	K03590
+c_000000000331_2	MBF1287934.1	96.6	236	8	3.61e-157	446	ketoacyl-ACP synthase III [Neisseria sp.]	Neisseria sp.	192066	K00648
+c_000000000332_2	UTG76126.1	100	111	0	7.97e-76	229	alkylphosphonate utilization protein [Neisseria subflava]	Neisseria subflava	28449	K06193
+c_000000000337_1	SKO36401.1	100	71	0	1.73e-44	148	16S rRNA processing protein RimM [Mycobacteroides abscessus subsp. massiliense]	Mycobacteroides abscessus subsp. massiliense	1962118	K02860
+c_000000000337_2	WP_003679468.1	100	249	0	6.60e-174	489	tRNA (guanosine(37)-N1)-methyltransferase TrmD [Neisseria flavescens]	Neisseria flavescens	484	K00554
+c_000000000337_3	RKW31256.1	97.6	42	1	4.52e-18	79.0	MAG: 50S ribosomal protein L19, partial [Kingella sp.]	Kingella sp.	2020713	K02884
+c_000000000338_1	RRJ35070.1	99.0	102	1	1.29e-65	203	fructose-bisphosphate aldolase, partial [Pseudomonas aeruginosa]	Pseudomonas aeruginosa	287	K01624
+c_000000000340_2	WP_002449797.1	100	166	0	1.04e-111	325	MULTISPECIES: PTS glucose transporter subunit IIA [Staphylococcus]	Staphylococcus	1279	K02777
+c_000000000342_1	WP_054105444.1	100	313	0	7.44e-214	606	MULTISPECIES: excinuclease ABC subunit UvrC [Staphylococcus]	Staphylococcus	1279	K03703
+c_000000000343_1	EER55199.1	99.1	234	2	1.10e-160	456	hypothetical protein NEIFL0001_0170 [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K03981
+c_000000000346_1	UTG75771.1	99.6	270	1	4.93e-193	541	thiamine-phosphate kinase [Neisseria subflava]	Neisseria subflava	28449	K00946
+c_000000000348_1	WP_002455283.1	99.4	313	2	2.56e-221	621	DEAD/DEAH box helicase [Staphylococcus hominis]	Staphylococcus hominis	1290	K18692
+c_000000000351_1	MCL9791521.1	99.2	354	3	2.62e-245	708	pilus assembly protein PilC [Neisseria subflava]	Neisseria subflava	28449	K02674
+c_000000000352_1	RLY87769.1	100	354	0	3.80e-261	723	o-succinylbenzoate--CoA ligase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01911
+c_000000000353_2	UTG75999.1	99.4	156	1	2.50e-105	308	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH [Neisseria subflava]	Neisseria subflava	28449	K00783
+c_000000000354_1	TKW73134.1	98.7	228	3	2.86e-139	400	PTS transporter subunit IIC, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K07035
+c_000000000355_1	KZC77910.1	97.7	350	8	1.00e-248	701	primosomal protein N' [Neisseria flavescens]	Neisseria flavescens	484	K04066
+c_000000000356_1	OHR15769.1	99.4	350	2	1.64e-249	708	protein-P-II uridylyltransferase [Neisseria sp. HMSC078C12]	Neisseria sp. HMSC078C12	1715075	K00990
+c_000000000358_1	WP_002450042.1	100	270	0	3.15e-187	524	MULTISPECIES: monofunctional peptidoglycan glycosyltransferase SgtB [Staphylococcus]	Staphylococcus	1279	K04478
+c_000000000360_1	WP_141768437.1	100	177	0	1.01e-124	366	M3 family metallopeptidase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K08602
+c_000000000362_1	RLY73739.1	100	324	0	2.70e-236	654	CTP synthase (glutamine hydrolyzing), partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01937
+c_000000000363_2	WP_002448847.1	100	158	0	2.21e-100	295	MULTISPECIES: signal peptidase II [Staphylococcus]	Staphylococcus	1279	K03101
+c_000000000364_1	WP_017176222.1	100	313	0	5.97e-215	609	MULTISPECIES: DNA primase [Staphylococcus]	Staphylococcus	1279	K02316
+c_000000000366_1	WP_049382000.1	100	323	0	7.83e-244	674	MULTISPECIES: tRNA guanosine(34) transglycosylase Tgt [Staphylococcus]	Staphylococcus	1279	K00773
+c_000000000370_1	WP_017174845.1	99.5	217	1	3.18e-148	421	MULTISPECIES: 30S ribosomal protein S3 [Staphylococcus]	Staphylococcus	1279	K02982
+c_000000000370_2	WP_002448374.1	100	109	0	1.41e-73	225	MULTISPECIES: 50S ribosomal protein L16 [Bacillales]	Bacillales	1385	K02878
+c_000000000373_1	MCC3680798.1	100	65	0	1.88e-37	129	type II toxin-antitoxin system PemK/MazF family toxin [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K07171
+c_000000000373_2	WP_002448681.1	100	56	0	2.57e-32	116	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Staphylococcus]	Staphylococcus	1279	K07723
+c_000000000373_3	WP_196306719.1	100	180	0	2.54e-123	357	alanine racemase, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K01775
+c_000000000377_2	UTG75201.1	99.4	175	1	6.52e-117	340	DUF2059 domain-containing protein [Neisseria subflava]	Neisseria subflava	28449	K09924
+c_000000000380_2	OFK20064.1	100	174	0	1.43e-124	360	restriction endonuclease subunit S [Neisseria sp. HMSC071A01]	Neisseria sp. HMSC071A01	1739332	K01154
+c_000000000381_1	WP_048681888.1	100	327	0	3.70e-225	629	MULTISPECIES: aminoacyltransferase [Staphylococcus]	Staphylococcus	1279	K11695
+c_000000000384_1	WP_003680927.1	98.6	148	2	1.81e-76	234	GatB/YqeY domain-containing protein [Neisseria flavescens]	Neisseria flavescens	484	K09117
+c_000000000385_1	WP_107849002.1	99.1	323	3	8.90e-226	632	MULTISPECIES: OmpP1/FadL family transporter [Neisseria]	Neisseria	482	K06076
+c_000000000387_2	WP_019835485.1	100	156	0	2.82e-111	323	MULTISPECIES: thioesterase family protein [Staphylococcus]	Staphylococcus	1279	K07107
+c_000000000390_2	WP_017175215.1	100	180	0	2.81e-134	383	MULTISPECIES: DUF402 domain-containing protein [Staphylococcus]	Staphylococcus	1279	K07586
+c_000000000391_1	WP_017174798.1	100	72	0	2.39e-39	136	MULTISPECIES: type II toxin-antitoxin system PemK/MazF family toxin [Staphylococcus]	Staphylococcus	1279	K07171
+c_000000000392_1	WP_070647608.1	100	190	0	1.71e-128	372	tRNA threonylcarbamoyladenosine dehydratase [Staphylococcus sp. HMSC057A02]	Staphylococcus sp. HMSC057A02	1739303	K22132
+c_000000000399_2	WP_049379627.1	100	200	0	3.24e-135	392	MULTISPECIES: metal-dependent hydrolase [Staphylococcus]	Staphylococcus	1279	K07038
+c_000000000400_1	WP_071560592.1	100	302	0	8.44e-198	559	NCS2 family permease [Staphylococcus hominis]	Staphylococcus hominis	1290	K06901
+c_000000000402_1	WP_242275331.1	100	299	0	4.39e-214	606	excinuclease ABC subunit UvrC [Staphylococcus hominis]	Staphylococcus hominis	1290	K03703
+c_000000000405_1	MCL9779393.1	100	257	0	9.34e-159	452	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00674
+c_000000000408_1	WP_101126083.1	97.5	241	6	6.93e-170	478	IS5 family transposase, partial [Neisseria meningitidis]	Neisseria meningitidis	487	K07481
+c_000000000412_1	WP_039864096.1	99.4	155	1	6.14e-101	296	FxsA family protein [Neisseria flavescens]	Neisseria flavescens	484	K07113
+c_000000000416_2	MBF1299323.1	98.3	120	2	7.72e-85	253	phosphatidylserine decarboxylase family protein [Neisseria sp.]	Neisseria sp.	192066	K01613
+c_000000000419_1	UTG75823.1	100	267	0	2.01e-190	535	ornithine carbamoyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00611
+c_000000000421_2	KZC75499.1	100	144	0	1.13e-94	285	diaminopimelate epimerase [Neisseria flavescens]	Neisseria flavescens	484	K01778
+c_000000000422_1	WP_259979604.1	100	273	0	8.57e-174	516	SMC family ATPase [Staphylococcus hominis]	Staphylococcus hominis	1290	K03546
+c_000000000423_1	WP_011645010.1	99.4	161	1	6.84e-119	342	MULTISPECIES: lincosamide nucleotidyltransferase Lnu(A) [Bacteria]	Bacteria	2	K19545
+c_000000000425_1	MBF1288441.1	99.5	201	1	4.55e-139	397	nitroreductase family protein [Neisseria sp.]	Neisseria sp.	192066	K07078
+c_000000000428_1	UTG75260.1	100	204	0	2.39e-144	411	DnaA regulatory inactivator Hda [Neisseria subflava]	Neisseria subflava	28449	K10763
+c_000000000433_1	RKV83827.1	98.5	270	4	2.69e-186	532	MAG: DUF560 domain-containing protein [Neisseria sp.]	Neisseria sp.	192066	K07280
+c_000000000435_1	WP_137041216.1	99.3	277	2	4.15e-183	537	bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00982
+c_000000000441_2	UTG76271.1	100	142	0	2.80e-92	278	methylated-DNA--[protein]-cysteine S-methyltransferase [Neisseria subflava]	Neisseria subflava	28449	K00567
+c_000000000442_1	OFM23246.1	99.1	220	2	1.63e-149	427	phosphoserine phosphatase SerB [Neisseria sp. HMSC070A01]	Neisseria sp. HMSC070A01	1715190	K01079
+c_000000000444_1	UTG74346.1	99.3	270	2	3.10e-169	493	cation:proton antiporter [Neisseria subflava]	Neisseria subflava	28449	K03455
+c_000000000446_1	WP_049379622.1	100	254	0	5.35e-159	457	YihY/virulence factor BrkB family protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K07058
+c_000000000447_1	WP_017175139.1	100	131	0	1.55e-87	261	MULTISPECIES: single-stranded DNA-binding protein [Bacillales]	Bacillales	1385	K03111
+c_000000000449_2	OHQ16607.1	100	118	0	9.27e-74	228	orotate phosphoribosyltransferase [Neisseria sp. HMSC064F03]	Neisseria sp. HMSC064F03	1715037	K00762
+c_000000000452_1	UTG74989.1	100	207	0	1.69e-147	420	class I SAM-dependent methyltransferase [Neisseria subflava]	Neisseria subflava	28449	K15984
+c_000000000453_1	MBS5742985.1	99.6	257	1	2.00e-184	532	LPS-assembly protein LptD [Neisseria sp.]	Neisseria sp.	192066	K04744
+c_000000000457_2	WP_000369214.1	100	123	0	4.40e-81	244	MULTISPECIES: mecA-type methicillin resistance repressor MecI [Staphylococcaceae]	Staphylococcaceae	90964	K02546
+c_000000000457_2	WP_000369214.1	100	123	0	4.40e-81	244	MULTISPECIES: mecA-type methicillin resistance repressor MecI [Staphylococcaceae]	Staphylococcaceae	90964	K02171
+c_000000000460_1	MBS6065594.1	99.2	258	2	7.22e-180	514	polyamine aminopropyltransferase [Neisseria mucosa]	Neisseria mucosa	488	K00797
+c_000000000462_1	UTG75342.1	100	157	0	2.81e-116	335	transposase [Neisseria subflava]	Neisseria subflava	28449	K07491
+c_000000000465_2	WP_003686098.1	100	144	0	1.27e-58	189	DUF883 family protein [Neisseria subflava]	Neisseria subflava	28449	K05594
+c_000000000466_1	KZC76018.1	100	100	0	9.85e-65	201	regulatory protein ArsR [Neisseria flavescens]	Neisseria flavescens	484	K22042
+c_000000000468_1	EFV80417.1	97.7	175	4	1.20e-113	332	ribonuclease HII [Neisseria mucosa C102]	Neisseria mucosa C102	435832	K03470
+c_000000000472_2	WP_002449620.1	100	133	0	6.03e-86	257	MULTISPECIES: MarR family transcriptional regulator [Staphylococcus]	Staphylococcus	1279	K20338
+c_000000000474_1	WP_196306769.1	99.6	245	1	4.68e-167	474	cysteine desulfurase family protein, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K04487
+c_000000000475_1	DAO12686.1	97.9	236	5	7.78e-154	439	MAG TPA: Putative ATP dependent Clp protease [Siphoviridae sp.]	Siphoviridae sp.	2170413	K01358
+c_000000000483_2	WP_003684452.1	100	74	0	6.26e-46	151	MULTISPECIES: 30S ribosomal protein S16 [Neisseria]	Neisseria	482	K02959
+c_000000000486_2	WP_049349799.1	100	120	0	1.98e-76	235	MULTISPECIES: ATP-dependent Clp endopeptidase proteolytic subunit ClpP [Neisseria]	Neisseria	482	K01358
+c_000000000489_1	ORN74680.1	96.2	209	8	8.23e-143	408	polyribonucleotide nucleotidyltransferase, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K00962
+c_000000000492_1	SKO45289.1	97.4	153	4	1.12e-98	291	Glutamate permease [Mycobacteroides abscessus subsp. massiliense]	Mycobacteroides abscessus subsp. massiliense	1962118	K03312
+c_000000000496_1	MCL9777758.1	100	117	0	4.28e-72	221	DoxX family protein [Neisseria subflava]	Neisseria subflava	28449	K15977
+c_000000000497_1	VTY07531.1	99.3	152	1	3.18e-97	287	Fimbrial protein [Neisseria subflava]	Neisseria subflava	28449	K02650
+c_000000000498_2	RLY76618.1	100	109	0	1.77e-67	212	serine hydroxymethyltransferase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K00600
+c_000000000502_2	WP_003678830.1	100	82	0	2.82e-49	160	MULTISPECIES: succinate dehydrogenase assembly factor 2 [Neisseria]	Neisseria	482	K09159
+c_000000000505_1	WP_049379628.1	100	226	0	2.38e-161	460	MULTISPECIES: A/G-specific adenine glycosylase [Staphylococcus]	Staphylococcus	1279	K03575
+c_000000000506_1	MBD0768064.1	99.1	220	2	1.86e-151	436	type VI secretion protein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K11895
+c_000000000507_1	WP_252931584.1	100	224	0	3.85e-155	447	DNA primase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K02316
+c_000000000509_2	WP_003679823.1	100	149	0	4.42e-104	307	MULTISPECIES: 2,3-diphosphoglycerate-dependent phosphoglycerate mutase [Neisseria]	Neisseria	482	K01834
+c_000000000514_1	OFP77099.1	100	60	0	2.58e-30	115	biopolymer transporter ExbB [Neisseria sp. HMSC066B07]	Neisseria sp. HMSC066B07	1739476	K03561
+c_000000000514_2	EER55242.1	100	145	0	4.59e-89	266	transport energizing protein, ExbD/TolR family [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K03559
+c_000000000518_1	MBS6060982.1	100	158	0	6.20e-102	315	oligoendopeptidase F [Staphylococcus sp.]	Staphylococcus sp.	29387	K08602
+c_000000000531_1	WP_049415638.1	100	165	0	1.26e-104	315	MULTISPECIES: YihY/virulence factor BrkB family protein [Staphylococcus]	Staphylococcus	1279	K07058
+c_000000000532_1	MBS4945326.1	97.1	208	6	4.42e-142	411	bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase [Neisseria mucosa]	Neisseria mucosa	488	K00982
+c_000000000541_1	MBD0768063.1	100	152	0	2.85e-99	293	type VI secretion system-associated lipoprotein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K11906
+c_000000000543_2	OHQ10494.1	100	165	0	1.42e-123	358	exodeoxyribonuclease III [Neisseria sp. HMSC064D07]	Neisseria sp. HMSC064D07	1715087	K01142
+c_000000000545_1	KZC80881.1	84.0	94	15	1.52e-12	69.3	Sel1 repeat family protein [Neisseria flavescens]	Neisseria flavescens	484	K07126
+c_000000000547_2	WP_017174580.1	100	136	0	7.03e-84	259	MULTISPECIES: phosphate acyltransferase PlsX [Staphylococcus]	Staphylococcus	1279	K03621
+c_000000000556_1	RLY87774.1	99.5	190	1	3.81e-135	394	phosphoenolpyruvate carboxykinase (ATP), partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01610
+c_000000000557_1	NGD12827.1	99.4	178	1	3.42e-123	357	CTP synthase [Staphylococcus aureus]	Staphylococcus aureus	1280	K01937
+c_000000000559_1	EEG34495.1	98.8	163	2	1.67e-109	322	cyclic nucleotide-binding domain protein [Neisseria flavescens NRL30031/H210]	Neisseria flavescens NRL30031/H210	546264	K01420
+c_000000000563_1	MBS5743795.1	98.3	120	2	5.45e-80	242	lytic transglycosylase domain-containing protein [Neisseria sp.]	Neisseria sp.	192066	K08309
+c_000000000565_1	MCL9764275.1	100	137	0	9.90e-96	282	lactoylglutathione lyase [Neisseria subflava]	Neisseria subflava	28449	K01759
+c_000000000566_1	MCL9764634.1	98.3	180	3	1.24e-127	368	UDP-2,3-diacylglucosamine diphosphatase [Neisseria subflava]	Neisseria subflava	28449	K03269
+c_000000000571_2	MBS4945488.1	99.3	144	1	5.51e-95	282	RNA polymerase sigma factor RpoE [Neisseria mucosa]	Neisseria mucosa	488	K03088
+c_000000000578_1	UTG75560.1	100	147	0	1.54e-97	287	META domain-containing protein [Neisseria subflava]	Neisseria subflava	28449	K03668
+c_000000000579_1	WP_162779255.1	98.3	180	3	5.56e-119	346	recombinase family protein, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K06400
+c_000000000585_1	MBD0771349.1	100	148	0	2.37e-100	302	acetyltransferase [Neisseria sp. RH3002v2g]	Neisseria sp. RH3002v2g	1871109	K22247
+c_000000000590_1	PKZ60832.1	98.5	65	1	9.73e-36	132	transcriptional regulator [Neisseria perflava]	Neisseria perflava	33053	K07034
+c_000000000605_1	STZ65682.1	100	113	0	4.73e-69	217	acetate kinase [Neisseria flavescens]	Neisseria flavescens	484	K00925
+c_000000000611_1	RLY87774.1	100	171	0	3.46e-118	350	phosphoenolpyruvate carboxykinase (ATP), partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01610
+c_000000000613_1	KZC85433.1	96.4	56	2	2.87e-27	108	DNA repair protein RadC [Neisseria flavescens]	Neisseria flavescens	484	K03630
+c_000000000620_1	MBS5743567.1	99.3	152	1	6.62e-106	313	tryptophan--tRNA ligase [Neisseria sp.]	Neisseria sp.	192066	K01867
+c_000000000621_1	WP_049419820.1	100	159	0	4.09e-106	316	MULTISPECIES: LCP family protein [Staphylococcus]	Staphylococcus	1279	K01005
+c_000000000626_1	RLY76248.1	100	164	0	1.57e-120	348	ferrochelatase, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01772
+c_000000000630_1	UTG75976.1	98.8	163	2	6.54e-108	330	bifunctional biotin--[acetyl-CoA-carboxylase] ligase/type III pantothenate kinase [Neisseria subflava]	Neisseria subflava	28449	K03525
+c_000000000631_1	MBF1270101.1	99.3	150	1	2.52e-76	238	lipid asymmetry maintenance ABC transporter permease subunit MlaE [Neisseria sp.]	Neisseria sp.	192066	K02066
+c_000000000659_1	MBD0768062.1	100	134	0	1.91e-92	273	type VI secretion protein [Neisseria sp. KH1003-01]	Neisseria sp. KH1003-01	1871106	K11905
+c_000000000664_1	WP_103268368.1	100	98	0	2.40e-62	201	LCP family protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01005
+c_000000000669_1	NOJ27535.1	82.9	76	13	3.73e-34	126	hypothetical protein [Nitrososphaera sp.]	Nitrososphaera sp.	1971748	K22736
+c_000000000670_1	Q59594.1	98.0	151	3	1.31e-98	291	RecName: Full=Adenylate kinase; Short=AK; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate monophosphate kinase [Neisseria cinerea]	Neisseria cinerea	483	K00939
+c_000000000678_2	EER56770.1	100	116	0	8.52e-80	242	16S rRNA processing protein RimM [Neisseria flavescens SK114]	Neisseria flavescens SK114	596320	K02860
+c_000000000722_1	MBS6064736.1	100	135	0	1.84e-87	269	FAD:protein FMN transferase [Neisseria mucosa]	Neisseria mucosa	488	K03734
+c_000000000733_2	WP_233654794.1	100	99	0	3.69e-62	198	50S ribosomal protein L3 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02906
+c_000000000738_2	EGD8165780.1	100	56	0	1.12e-30	111	50S ribosomal protein L22 [Shigella flexneri]	Shigella flexneri	623	K02890
+c_000000000748_1	WP_039862448.1	100	110	0	7.61e-76	232	MULTISPECIES: phosphatidylglycerophosphatase A [Neisseria]	Neisseria	482	K01095
+c_000000000749_1	WP_049419819.1	100	131	0	7.10e-81	246	MULTISPECIES: glycerol-3-phosphate 1-O-acyltransferase PlsY [Staphylococcus]	Staphylococcus	1279	K08591
+c_000000000765_1	WP_017175209.1	100	123	0	1.44e-87	261	MULTISPECIES: peroxide-responsive transcriptional repressor PerR [Bacilli]	Bacilli	91061	K09825
+c_000000000769_1	WP_196306922.1	100	89	0	1.04e-60	195	peptidoglycan editing factor PgeF, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K05810
+c_000000000770_1	WP_017176376.1	100	81	0	6.65e-56	177	MULTISPECIES: membrane protein insertion efficiency factor YidD [Staphylococcus]	Staphylococcus	1279	K08998
+c_000000000796_1	MCI4102385.1	100	85	0	1.26e-47	157	translation elongation factor Ts [Klebsiella pneumoniae]	Klebsiella pneumoniae	573	K02357
+c_000000000803_1	TBW74536.1	100	96	0	4.01e-59	186	NCS2 family permease, partial [Staphylococcus capitis]	Staphylococcus capitis	29388	K06901
+c_000000000813_1	WP_196306922.1	100	92	0	6.03e-56	183	peptidoglycan editing factor PgeF, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K05810
+c_000000000835_1	MBS5836897.1	100	114	0	3.13e-81	247	succinate dehydrogenase iron-sulfur subunit [Neisseria sp.]	Neisseria sp.	192066	K00240
+c_000000000843_1	WP_049415294.1	100	112	0	1.59e-70	224	MULTISPECIES: phosphate acyltransferase PlsX [Staphylococcus]	Staphylococcus	1279	K03621
+c_000000000848_1	WP_017176369.1	100	105	0	1.86e-67	208	MULTISPECIES: CrcB family protein [Staphylococcus]	Staphylococcus	1279	K06199
+c_000000000858_1	SII14160.1	100	56	0	1.98e-28	110	G3P acyltransferase [Mycobacteroides abscessus subsp. abscessus]	Mycobacteroides abscessus subsp. abscessus	1185650	K08591
+c_000000000859_1	WP_017174682.1	100	61	0	2.08e-34	121	MULTISPECIES: 4-oxalocrotonate tautomerase [Staphylococcus]	Staphylococcus	1279	K01821
+c_000000000866_1	WP_193385351.1	99.1	106	1	2.91e-66	206	LCP family protein, partial [Rhodanobacter denitrificans]	Rhodanobacter denitrificans	666685	K01005
+c_000000000877_1	WP_081451139.1	100	68	0	8.23e-43	147	FixH family protein [Neisseria flavescens]	Neisseria flavescens	484	K09926
+c_000000000888_1	OFO36989.1	98.1	103	2	7.31e-60	196	tetraacyldisaccharide 4'-kinase [Neisseria sp. HMSC075C10]	Neisseria sp. HMSC075C10	1739539	K00912
+c_000000000904_1	WP_003679470.1	100	97	0	2.51e-57	182	MULTISPECIES: 50S ribosomal protein L19 [Neisseriaceae]	Neisseriaceae	481	K02884
+c_000000000914_1	MBS5742910.1	100	71	0	4.66e-43	144	ATP-dependent Clp protease proteolytic subunit [Neisseria sp.]	Neisseria sp.	192066	K01358
+c_000000000927_1	MCA0117286.1	98.8	82	1	4.33e-48	157	NCS2 family permease [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K06901
+c_000000000950_1	KZC83625.1	98.4	64	1	4.81e-35	128	putative membrane protein [Neisseria flavescens]	Neisseria flavescens	484	K03975
+c_000000000956_1	WP_017175272.1	100	40	0	3.29e-16	75.5	MULTISPECIES: co-chaperone GroES [Staphylococcus]	Staphylococcus	1279	K04078
+c_000000000968_1	MBS4944152.1	97.8	91	2	1.26e-56	186	zeta toxin family protein [Neisseria mucosa]	Neisseria mucosa	488	K16214
+c_000000000969_1	WP_070547813.1	98.9	91	1	4.67e-52	171	MULTISPECIES: biotin transporter BioY [Staphylococcus]	Staphylococcus	1279	K03523
+c_000000001046_2	WP_070587573.1	97.0	33	1	1.43e-14	73.2	crossover junction endodeoxyribonuclease RuvC [Neisseria sp. HMSC058F07]	Neisseria sp. HMSC058F07	1715175	K01159
+c_000000001086_1	MBF1288126.1	97.4	78	2	1.80e-44	149	RidA family protein [Neisseria sp.]	Neisseria sp.	192066	K09022
+c_000000001094_1	WP_226973527.1	94.8	77	4	7.82e-43	144	transposase, partial [[Ruminococcus] gnavus]	[Ruminococcus] gnavus	33038	K07493
+c_000000001124_1	OHR11211.1	98.6	74	1	5.17e-45	158	hypothetical protein HMPREF2596_03325 [Neisseria sp. HMSC078C12]	Neisseria sp. HMSC078C12	1715075	K11904
+c_000000001127_1	RKV82747.1	96.0	75	3	1.15e-45	154	MAG: aminoacyl-tRNA hydrolase [Neisseria sp.]	Neisseria sp.	192066	K01056
+c_000000001131_1	EFV81180.1	95.9	74	3	1.23e-45	152	hypothetical protein HMPREF0604_00635 [Neisseria mucosa C102]	Neisseria mucosa C102	435832	K07280
+c_000000001156_1	MCI4078275.1	95.8	72	3	2.92e-40	138	FKBP-type peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae]	Klebsiella pneumoniae	573	K03545
+c_000000001158_1	WP_003680926.1	98.4	63	1	1.26e-29	109	MULTISPECIES: 30S ribosomal protein S21 [Betaproteobacteria]	Betaproteobacteria	28216	K02970
+c_000000001195_1	WP_003679524.1	100	34	0	1.69e-15	72.4	MULTISPECIES: Trm112 family protein [Neisseria]	Neisseria	482	K09791
+c_000000001200_1	RLY69463.1	97.1	69	2	5.50e-36	129	FtsQ-type POTRA domain-containing protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03589
+c_000000001217_1	MCA3774137.1	98.5	67	1	5.61e-41	140	peptide-methionine (S)-S-oxide reductase MsrA [Cutibacterium sp.]	Cutibacterium sp.	1912221	K07304
+c_000000001323_1	MBF1294412.1	97.2	36	1	2.17e-15	75.1	methionine adenosyltransferase [Neisseria sp.]	Neisseria sp.	192066	K00789
+c_000000001335_1	SUM33617.1	94.4	36	2	1.19e-16	75.9	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000001350_1	WP_196310192.1	98.0	49	1	1.10e-28	107	ribosome maturation factor RimM, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02860
+c_000000001367_1	WP_048761778.1	97.9	47	1	3.16e-24	97.8	MULTISPECIES: 6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus]	Staphylococcus	1279	K00794
+c_000000001371_1	WP_232158234.1	100	47	0	1.94e-28	105	DDE-type integrase/transposase/recombinase, partial [Staphylococcus haemolyticus]	Staphylococcus haemolyticus	1283	K07498
+c_000000001374_1	OUJ21403.1	100	47	0	1.70e-24	97.8	methionine adenosyltransferase, partial [Corynebacterium kefirresidentii]	Corynebacterium kefirresidentii	1979527	K00789
+c_000000001457_1	WP_049418198.1	97.4	39	1	6.21e-17	79.3	ribosome maturation factor RimM [Staphylococcus hominis]	Staphylococcus hominis	1290	K02860
+c_000000001498_1	MBE0334874.1	95.0	40	2	7.59e-19	81.6	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K00794
+c_000000001601_1	WP_049418188.1	97.4	38	1	6.18e-15	76.3	DNA-processing protein DprA [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000001765_1	MBA9874096.1	100	36	0	8.48e-15	71.6	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000001845_1	MRH32189.1	97.2	36	1	3.58e-15	74.3	methionine adenosyltransferase [Limosilactobacillus reuteri]	Limosilactobacillus reuteri	1598	K00789
+c_000000001939_1	WP_209594432.1	100	37	0	1.32e-13	69.3	50S ribosomal protein L19 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000001944_1	WP_242291025.1	97.2	36	1	1.10e-14	72.0	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000001946_1	WP_048762353.1	97.0	33	1	1.84e-13	67.0	MULTISPECIES: beta-class phenol-soluble modulin [Staphylococcus]	Staphylococcus	1279	K20337
+c_000000002009_1	WP_171769830.1	100	37	0	8.18e-16	75.9	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000002096_1	MBA9874096.1	94.6	37	2	2.54e-14	70.5	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000002432_1	SUM33617.1	97.2	36	1	1.79e-14	69.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000002685_1	OUJ21306.1	97.2	36	1	1.81e-15	73.6	hypothetical protein CBI45_12695, partial [Corynebacterium kefirresidentii]	Corynebacterium kefirresidentii	1979527	K03466
+c_000000002948_1	WP_069724806.1	96.9	32	1	4.07e-12	63.2	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000002986_1	WP_069724806.1	97.0	33	1	1.48e-12	64.3	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000003031_1	WP_248490696.1	96.9	32	1	1.10e-10	59.7	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000003032_1	WP_248490696.1	100	30	0	1.17e-09	57.0	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000003173_1	WP_216528376.1	97.2	36	1	9.06e-14	68.6	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000003481_1	MBZ6406241.1	97.2	36	1	6.89e-15	73.2	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000003728_1	MBA9874096.1	97.2	36	1	6.94e-14	69.3	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000003788_1	WP_179110020.1	94.4	36	2	1.25e-13	68.2	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000003805_1	MBE9454765.1	95.8	24	1	1.63e-06	48.5	30S ribosomal protein S16 [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02959
+c_000000003892_1	WP_041494663.1	94.4	36	2	2.34e-14	70.1	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000003970_1	WP_107639118.1	97.2	36	1	6.46e-15	75.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000004018_1	WP_194087395.1	97.2	36	1	1.28e-15	72.4	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000004021_1	WP_151097755.1	100	36	0	1.98e-14	69.3	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000004055_1	MBA9874096.1	97.2	36	1	1.20e-14	71.2	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000004134_1	WP_171769830.1	97.2	36	1	1.77e-14	72.4	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000004201_1	WP_242291025.1	97.2	36	1	1.56e-14	71.6	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000004246_1	WP_248490696.1	97.2	36	1	6.41e-13	65.5	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000004365_1	MBZ6406241.1	97.2	36	1	1.95e-14	72.0	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000004381_1	WP_179110020.1	94.4	36	2	1.78e-13	67.8	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000004383_1	MBZ6406241.1	97.2	36	1	1.95e-14	72.0	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000004684_1	WP_171769830.1	97.2	36	1	4.43e-15	73.9	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000004700_1	WP_002462372.1	97.2	36	1	3.53e-16	75.1	30S ribosomal protein S16 [Staphylococcus simiae]	Staphylococcus simiae	308354	K02959
+c_000000004897_1	MBZ6406241.1	97.2	36	1	1.95e-14	72.0	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000004930_1	SUM33617.1	97.1	35	1	1.79e-14	69.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000004940_1	WP_248490696.1	100	36	0	1.57e-13	67.0	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000004952_1	WP_242291025.1	97.2	36	1	3.86e-15	73.2	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000004973_1	SUM33617.1	100	36	0	3.09e-15	71.6	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000004975_1	WP_107639118.1	100	36	0	4.46e-16	79.0	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000005135_1	WP_107639118.1	97.2	36	1	2.50e-13	71.6	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000005136_1	WP_107639118.1	100	36	0	2.45e-14	74.3	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000005182_1	WP_057512014.1	100	36	0	1.92e-15	73.9	50S ribosomal protein L19 [Staphylococcus sp. NAM3COL9]	Staphylococcus sp. NAM3COL9	1667172	K02884
+c_000000005326_1	WP_208157225.1	97.2	36	1	1.92e-15	73.9	50S ribosomal protein L19 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000005611_1	WP_107639118.1	97.2	36	1	9.41e-13	70.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000005885_1	WP_107623343.1	97.2	36	1	4.53e-15	73.9	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000005994_1	WP_002462372.1	97.2	36	1	1.01e-15	73.9	30S ribosomal protein S16 [Staphylococcus simiae]	Staphylococcus simiae	308354	K02959
+c_000000006038_1	WP_171769830.1	97.2	36	1	3.13e-15	74.3	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000006078_1	WP_002488176.1	100	36	0	1.40e-18	81.6	PadR family transcriptional regulator [Staphylococcus hominis]	Staphylococcus hominis	1290	K10947
+c_000000006122_1	WP_216528376.1	94.4	36	2	1.06e-12	65.9	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000006171_1	WP_107639118.1	97.2	36	1	1.80e-13	72.0	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000006215_1	WP_145165538.1	97.2	36	1	2.38e-15	72.4	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000006309_1	WP_171769830.1	100	36	0	5.53e-16	76.3	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000006387_1	WP_145165538.1	97.2	36	1	7.98e-14	68.6	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000006395_1	WP_145441614.1	97.2	36	1	1.41e-16	77.8	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000006472_1	WP_166494780.1	97.2	36	1	2.30e-12	65.1	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000006513_1	WP_107639118.1	97.2	36	1	3.41e-14	73.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000006709_1	WP_194087395.1	97.2	36	1	1.50e-14	69.7	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000006747_1	WP_145441614.1	100	36	0	9.99e-17	78.2	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000006831_1	POC78222.1	97.2	36	1	3.13e-14	70.5	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000006926_1	WP_107639118.1	97.2	36	1	9.25e-14	72.8	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000006933_1	MBA9874096.1	100	36	0	1.71e-14	70.9	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000007029_1	WP_171769830.1	100	36	0	5.53e-16	76.3	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000007051_1	WP_002448807.1	100	36	0	8.68e-17	76.6	MULTISPECIES: 30S ribosomal protein S16 [Staphylococcus]	Staphylococcus	1279	K02959
+c_000000007115_1	WP_107639118.1	97.2	36	1	1.26e-14	75.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000007266_1	RNM42667.1	97.2	36	1	2.26e-16	75.1	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000007269_1	MCD0914122.1	100	36	0	1.16e-15	72.4	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000007350_1	WP_216528376.1	94.4	36	2	7.44e-13	66.2	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000007431_1	RNM42667.1	97.2	36	1	1.36e-17	78.2	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000007498_1	WP_145165538.1	97.2	36	1	1.68e-15	72.8	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000007503_1	WP_242291025.1	97.2	36	1	9.54e-16	74.7	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000007546_1	WP_145165538.1	100	36	0	2.90e-16	74.7	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000007572_1	WP_242291025.1	97.2	36	1	6.29e-14	70.1	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000007606_1	WP_248490696.1	96.9	32	1	3.15e-10	58.5	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000007626_1	WP_171769830.1	100	36	0	7.83e-16	75.9	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000007632_1	MBZ6406241.1	97.2	36	1	9.76e-15	72.8	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000007752_1	WP_196310192.1	97.2	36	1	1.98e-18	81.3	ribosome maturation factor RimM, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02860
+c_000000007766_1	MBA9874096.1	97.2	36	1	6.94e-14	69.3	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000007827_1	WP_107639118.1	97.2	36	1	3.49e-13	71.2	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000007868_1	MBZ6406241.1	100	36	0	6.89e-15	73.2	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000007941_1	WP_242291025.1	97.2	36	1	2.21e-14	71.2	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000008110_1	MCH2899035.1	97.2	36	1	2.13e-13	67.8	hypothetical protein [Listeria monocytogenes]	Listeria monocytogenes	1639	K03466
+c_000000008255_1	WP_145165538.1	100	36	0	2.38e-15	72.4	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000008301_1	WP_242291025.1	97.2	36	1	2.21e-14	71.2	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000008335_1	MRF38900.1	97.2	36	1	3.24e-14	69.7	50S ribosomal protein L19 [Staphylococcus sp. KY49P]	Staphylococcus sp. KY49P	2664181	K02884
+c_000000008415_1	WP_107639118.1	97.2	36	1	1.80e-13	72.0	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000008574_1	WP_248490696.1	97.1	34	1	1.20e-10	59.7	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000008645_1	WP_242291025.1	97.2	36	1	3.13e-14	70.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000008720_1	RNM42667.1	97.2	36	1	4.56e-16	74.3	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000008827_1	WP_196307290.1	97.2	36	1	4.39e-13	66.6	YggT family protein, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02221
+c_000000008846_1	RNM42667.1	97.2	36	1	4.38e-14	69.3	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000008852_1	WP_107639118.1	100	36	0	6.46e-15	75.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000008894_1	MCD0914122.1	97.2	36	1	3.34e-15	71.2	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000009111_1	WP_145441614.1	100	36	0	4.99e-17	79.0	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000009138_1	WP_166494780.1	97.2	36	1	6.58e-12	63.9	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000009259_1	WP_069823784.1	97.2	36	1	9.06e-15	73.2	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus succinus]	Staphylococcus succinus	61015	K00794
+c_000000009304_1	MBA9874096.1	97.2	36	1	3.44e-14	70.1	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000009359_1	POC78222.1	100	36	0	1.10e-14	71.6	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000009495_1	WP_194087395.1	94.4	36	2	1.24e-13	67.4	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000009614_1	MCD0914122.1	100	36	0	1.16e-15	72.4	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000009670_1	RNM42667.1	100	36	0	1.59e-16	75.5	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000009862_1	MCH2899035.1	97.2	36	1	1.83e-14	70.5	hypothetical protein [Listeria monocytogenes]	Listeria monocytogenes	1639	K03466
+c_000000009879_1	WP_107639118.1	100	36	0	4.76e-14	73.6	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000009945_1	WP_107639118.1	100	36	0	4.63e-15	76.3	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000009960_1	WP_242291025.1	97.2	36	1	3.13e-14	70.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000010000_1	RNM42667.1	100	36	0	5.55e-17	76.6	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000010021_1	WP_145165538.1	97.2	36	1	6.83e-15	71.2	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000010083_1	WP_107639118.1	97.2	36	1	9.41e-13	70.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000010163_1	WP_107639118.1	97.2	36	1	4.63e-15	76.3	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000010216_1	WP_107639118.1	100	36	0	6.46e-15	75.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000010282_1	WP_142290397.1	97.2	36	1	3.49e-13	66.2	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000010425_1	WP_107623343.1	97.2	36	1	2.83e-16	77.0	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000010567_1	WP_145165538.1	97.2	36	1	2.38e-15	72.4	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000010604_1	WP_216528376.1	100	36	0	3.85e-15	72.0	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000010730_1	WP_107623343.1	97.2	36	1	1.60e-15	75.1	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000010791_1	POC78222.1	97.2	36	1	5.93e-12	64.7	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000011021_1	WP_216805136.1	97.2	36	1	1.97e-14	69.7	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000011095_1	WP_107639118.1	97.2	36	1	9.25e-14	72.8	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000011192_1	WP_207563587.1	91.7	36	3	6.50e-16	74.7	LCP family protein, partial [Mycobacteroides abscessus]	Mycobacteroides abscessus	36809	K01005
+c_000000011228_1	WP_194087126.1	97.2	36	1	1.19e-14	70.5	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000011297_1	MBZ6406241.1	97.2	36	1	4.87e-15	73.6	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000011340_1	NEU36497.1	97.2	36	1	1.16e-14	70.9	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000011390_1	WP_145165538.1	97.2	36	1	9.71e-15	70.9	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000011391_1	WP_194087395.1	97.2	36	1	1.50e-14	69.7	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000011406_1	WP_166494780.1	97.2	36	1	1.14e-12	65.9	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000011413_1	WP_107639118.1	97.2	36	1	1.70e-15	77.4	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000011432_1	RNM42667.1	100	36	0	3.21e-16	74.7	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000011441_1	WP_166494780.1	97.2	36	1	1.33e-11	63.2	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000011534_1	SUM33617.1	97.2	36	1	2.64e-16	74.3	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000011723_1	WP_166494780.1	97.2	36	1	9.35e-12	63.5	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000011836_1	WP_103268368.1	97.2	36	1	7.88e-14	73.2	LCP family protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K01005
+c_000000011885_1	WP_107639118.1	97.2	36	1	1.76e-14	74.7	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000011892_1	WP_166494780.1	97.1	35	1	3.26e-12	64.7	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000011962_1	OUJ21306.1	100	36	0	3.14e-16	75.5	hypothetical protein CBI45_12695, partial [Corynebacterium kefirresidentii]	Corynebacterium kefirresidentii	1979527	K03466
+c_000000012079_1	WP_198985695.1	100	36	0	2.14e-15	73.2	signal peptidase II, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03101
+c_000000012101_1	MBZ6406241.1	97.2	36	1	2.43e-15	74.3	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000012116_1	WP_107639118.1	97.2	36	1	3.32e-15	76.6	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000012275_1	RNM42667.1	97.2	36	1	1.59e-16	75.5	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000012284_1	WP_194087126.1	97.2	36	1	1.44e-15	72.8	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000012342_1	NEU36497.1	97.2	36	1	4.73e-14	69.3	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000012519_1	WP_242230577.1	100	36	0	1.16e-15	74.3	putative DNA-binding protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09787
+c_000000012524_1	WP_145165538.1	100	36	0	2.04e-16	75.1	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000012532_1	WP_242230577.1	97.2	36	1	2.34e-15	73.6	putative DNA-binding protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09787
+c_000000012693_1	SUM33617.1	97.2	36	1	1.53e-15	72.4	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000012794_1	WP_107623343.1	97.2	36	1	3.20e-15	74.3	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000012845_1	WP_145165538.1	100	36	0	5.85e-16	73.9	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000012911_1	NEU36497.1	97.2	36	1	8.17e-15	71.2	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000012995_1	WP_198985695.1	97.2	36	1	2.49e-14	70.5	signal peptidase II, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03101
+c_000000013113_1	WP_145165538.1	97.2	36	1	9.71e-15	70.9	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000013129_1	WP_002448807.1	97.2	36	1	2.48e-16	75.5	MULTISPECIES: 30S ribosomal protein S16 [Staphylococcus]	Staphylococcus	1279	K02959
+c_000000013231_1	MBA9874096.1	97.2	36	1	1.98e-13	68.2	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000013326_1	WP_107623343.1	97.2	36	1	2.56e-14	72.0	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000013471_1	MBA9874096.1	97.2	36	1	6.94e-14	69.3	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000013582_1	WP_019835580.1	100	36	0	2.91e-15	77.0	MULTISPECIES: DNA-processing protein DprA [Staphylococcus]	Staphylococcus	1279	K04096
+c_000000013658_1	WP_179110020.1	97.2	36	1	1.07e-14	70.9	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000013758_1	WP_107623343.1	97.2	36	1	2.83e-16	77.0	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000013802_1	WP_242229497.1	100	36	0	4.30e-17	77.4	30S ribosomal protein S16 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02959
+c_000000013810_1	WP_179110020.1	94.4	36	2	1.78e-13	67.8	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000013882_1	WP_151097755.1	97.2	36	1	3.29e-13	66.2	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000013998_1	WP_145165538.1	97.2	36	1	8.30e-16	73.6	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000014022_1	WP_171769830.1	97.2	36	1	8.86e-15	73.2	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000014045_1	WP_216528376.1	97.2	36	1	1.29e-13	68.2	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000014063_1	SUM33617.1	97.2	36	1	1.79e-14	69.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000014072_1	WP_145165538.1	97.2	36	1	3.38e-15	72.0	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000014125_1	WP_179110020.1	94.4	36	2	1.53e-14	70.5	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000014163_1	WP_145165538.1	97.2	36	1	1.68e-15	72.8	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000014183_1	MRH32189.1	97.2	36	1	3.58e-15	74.3	methionine adenosyltransferase [Limosilactobacillus reuteri]	Limosilactobacillus reuteri	1598	K00789
+c_000000014333_1	MBU5910592.1	97.2	36	1	5.85e-16	73.9	cell division/cell wall cluster transcriptional repressor MraZ [Vibrio cholerae O1]	Vibrio cholerae O1	127906	K03925
+c_000000014341_1	PZQ01715.1	97.2	36	1	3.29e-15	75.5	LytR family transcriptional regulator, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K01005
+c_000000014426_1	WP_242291025.1	97.2	36	1	1.92e-15	73.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000014444_1	MBE9454765.1	95.5	22	1	2.46e-05	45.4	30S ribosomal protein S16 [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02959
+c_000000014445_1	NEU36497.1	100	36	0	2.34e-14	70.1	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000014650_1	RJG31305.1	100	36	0	9.64e-14	69.3	type II toxin-antitoxin system PemK/MazF family toxin [Staphylococcus haemolyticus]	Staphylococcus haemolyticus	1283	K07171
+c_000000014726_1	MRF38900.1	97.2	36	1	5.61e-15	71.6	50S ribosomal protein L19 [Staphylococcus sp. KY49P]	Staphylococcus sp. KY49P	2664181	K02884
+c_000000014797_1	WP_198985695.1	97.2	36	1	5.01e-14	69.7	signal peptidase II, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03101
+c_000000014804_1	WP_107639118.1	97.2	36	1	1.26e-14	75.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000014938_1	RLY74271.1	97.2	36	1	6.62e-17	75.9	antitoxin MazE, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K07723
+c_000000014956_1	WP_145165538.1	97.2	36	1	3.38e-15	72.0	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000014972_1	WP_145165538.1	97.2	36	1	1.68e-15	72.8	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000015251_1	WP_216805136.1	97.2	36	1	2.80e-14	69.3	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000015372_1	SUM33617.1	97.2	36	1	7.58e-16	73.2	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000015929_1	WP_179110020.1	94.4	36	2	8.83e-14	68.6	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000015965_1	WP_194087126.1	97.2	36	1	2.91e-15	72.0	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000015983_1	WP_242291025.1	97.2	36	1	3.13e-14	70.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000016040_1	WP_248490696.1	96.3	27	1	5.73e-07	50.1	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000016068_1	WP_194087126.1	97.2	36	1	4.13e-15	71.6	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000016106_1	WP_145165538.1	97.2	36	1	1.18e-15	73.2	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000016213_1	WP_166494780.1	97.1	35	1	4.23e-10	59.3	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000016236_1	WP_242230577.1	97.1	35	1	2.58e-14	70.9	putative DNA-binding protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09787
+c_000000016635_1	WP_242291025.1	97.2	36	1	3.13e-14	70.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000016731_1	WP_242291025.1	100	36	0	1.35e-15	74.3	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000016777_1	WP_107639118.1	100	36	0	1.76e-14	74.7	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000016898_1	MBA9874096.1	97.2	36	1	9.85e-14	68.9	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000017056_1	WP_107639118.1	100	36	0	1.26e-14	75.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000017062_1	MBA9874096.1	97.2	36	1	1.98e-13	68.2	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000017209_1	MBZ6406241.1	100	36	0	1.72e-15	74.7	DNA translocase FtsK [Staphylococcus saprophyticus]	Staphylococcus saprophyticus	29385	K03466
+c_000000017212_1	WP_194087126.1	97.2	36	1	1.44e-15	72.8	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000017234_1	WP_171769830.1	97.2	36	1	1.41e-13	70.1	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000017328_1	WP_142290397.1	97.1	35	1	1.65e-13	67.0	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000017424_1	MBD4419937.1	97.2	36	1	1.71e-14	70.9	hypothetical protein [Xanthomonas citri pv. citri]	Xanthomonas citri pv. citri	611301	K03466
+c_000000017470_1	NEU36497.1	100	36	0	2.01e-15	72.8	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000017516_1	SUM33617.1	100	36	0	4.40e-15	71.2	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000017525_1	WP_107639118.1	100	36	0	1.29e-13	72.4	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000017624_1	WP_145165538.1	100	35	0	1.13e-15	73.2	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000017630_1	WP_145165538.1	100	35	0	1.60e-15	72.8	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000017670_1	WP_107639118.1	97.2	36	1	4.76e-14	73.6	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000017679_1	WP_216805136.1	100	35	0	6.56e-15	70.9	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000017796_1	RNM42667.1	97.2	36	1	7.88e-17	76.3	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000017890_1	RNM42667.1	97.1	35	1	6.20e-16	73.9	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000017973_1	WP_248490696.1	96.7	30	1	3.37e-09	55.8	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000018179_1	WP_041495097.1	100	35	0	3.76e-15	71.6	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000018308_1	WP_107639118.1	97.2	36	1	6.64e-14	73.2	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000018318_1	WP_041495097.1	97.2	36	1	2.77e-15	72.0	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000018352_1	WP_242291025.1	97.2	36	1	3.13e-14	70.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000018365_1	WP_216528376.1	100	35	0	1.50e-14	70.5	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000018375_1	RNM42667.1	97.1	35	1	7.24e-15	71.2	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000018427_1	WP_171769830.1	97.2	36	1	2.50e-14	72.0	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000018489_1	WP_194087395.1	94.4	36	2	1.24e-13	67.4	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000018490_1	MCD0914122.1	97.2	36	1	3.34e-15	71.2	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000018613_1	WP_145165538.1	97.2	36	1	9.71e-15	70.9	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000018680_1	WP_107623343.1	97.2	36	1	9.06e-15	73.2	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000018684_1	WP_107639118.1	97.2	36	1	1.80e-13	72.0	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000018690_1	WP_166494780.1	97.2	36	1	1.33e-11	63.2	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000018704_1	WP_171769830.1	97.2	36	1	1.25e-14	72.8	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000018877_1	WP_166494780.1	97.2	36	1	1.88e-11	62.8	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000019097_1	WP_199180807.1	94.4	36	2	1.19e-14	70.5	signal peptidase II, partial [Staphylococcus warneri]	Staphylococcus warneri	1292	K03101
+c_000000019228_1	WP_194087126.1	97.2	36	1	1.44e-15	72.8	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000019274_1	WP_107639118.1	97.2	36	1	4.85e-13	70.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000019307_1	WP_107639118.1	97.2	36	1	4.85e-13	70.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000019355_1	WP_196310192.1	100	36	0	9.83e-19	82.0	ribosome maturation factor RimM, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02860
+c_000000019439_1	WP_069724806.1	96.7	30	1	3.07e-11	60.8	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000019440_1	WP_194087395.1	97.1	35	1	1.19e-13	67.4	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000019460_1	WP_002448807.1	97.2	36	1	2.03e-15	73.2	MULTISPECIES: 30S ribosomal protein S16 [Staphylococcus]	Staphylococcus	1279	K02959
+c_000000019505_1	POC78222.1	97.2	36	1	2.55e-13	68.2	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000019513_1	WP_107639118.1	97.2	36	1	2.53e-12	68.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000019568_1	NEU36497.1	97.2	36	1	1.65e-14	70.5	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000019654_1	WP_142290397.1	94.4	36	2	7.06e-13	65.5	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000019718_1	WP_179110020.1	94.4	36	2	3.08e-14	69.7	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000019876_1	WP_166494780.1	97.1	35	1	4.43e-12	64.3	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000019894_1	WP_107623343.1	97.1	35	1	1.73e-14	72.4	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000019896_1	WP_216528376.1	97.2	36	1	7.76e-15	71.2	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000019931_1	SUM33617.1	97.1	35	1	1.72e-14	69.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000019932_1	WP_216528376.1	97.2	36	1	9.06e-14	68.6	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000019940_1	WP_166494780.1	97.1	35	1	1.80e-11	62.8	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000020025_1	MCH2899035.1	100	36	0	5.24e-14	69.3	hypothetical protein [Listeria monocytogenes]	Listeria monocytogenes	1639	K03466
+c_000000020336_1	WP_145165538.1	97.2	36	1	2.90e-16	74.7	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000020400_1	WP_171769830.1	94.4	36	2	3.54e-14	71.6	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000020417_1	WP_216528376.1	91.7	36	3	4.30e-12	64.3	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000020432_1	WP_216528376.1	100	35	0	7.11e-13	66.2	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000020465_1	RNM42667.1	97.2	36	1	9.21e-16	73.6	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000020557_1	WP_107639118.1	100	35	0	2.34e-14	74.3	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000020558_1	WP_107639118.1	97.2	36	1	9.41e-13	70.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000020571_1	SUM33617.1	97.2	36	1	1.79e-14	69.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000020926_1	POC78222.1	97.2	36	1	6.30e-14	69.7	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000021504_1	NEU36497.1	100	35	0	5.50e-15	71.6	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000021586_1	WP_179110020.1	97.2	36	1	4.38e-14	69.3	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000021664_1	OUJ21306.1	97.1	35	1	9.96e-15	71.6	hypothetical protein CBI45_12695, partial [Corynebacterium kefirresidentii]	Corynebacterium kefirresidentii	1979527	K03466
+c_000000021714_1	WP_107639118.1	97.1	35	1	1.26e-11	67.0	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000021940_1	WP_242291025.1	97.2	36	1	6.29e-14	70.1	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000022162_1	WP_107639118.1	97.1	35	1	3.33e-13	71.2	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000022372_1	RNM42667.1	97.2	36	1	5.55e-17	76.6	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000022393_1	MCD0914122.1	100	35	0	6.46e-15	70.5	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000022504_1	WP_142290397.1	97.1	35	1	1.65e-13	67.0	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000022691_1	UDI78444.1	97.1	35	1	2.99e-14	70.9	50S ribosomal protein L19 [Staphylococcus taiwanensis]	Staphylococcus taiwanensis	2750012	K02884
+c_000000022697_1	WP_242230577.1	97.2	36	1	3.32e-15	73.2	putative DNA-binding protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09787
+c_000000022723_1	SUM33617.1	97.1	35	1	7.25e-16	73.2	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000022735_1	MCD0914122.1	97.2	36	1	4.75e-15	70.9	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000022817_1	MBA9874096.1	100	35	0	3.29e-14	70.1	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000022871_1	WP_107623343.1	97.2	36	1	9.06e-15	73.2	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000022915_1	RNM42667.1	97.2	36	1	6.22e-14	68.9	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000023038_1	WP_145441614.1	100	35	0	3.83e-16	76.6	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000023229_1	WP_216528376.1	100	35	0	1.75e-13	67.8	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000023238_1	RNM42667.1	97.1	35	1	1.25e-15	73.2	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000023256_1	WP_166494780.1	97.1	35	1	3.81e-13	67.0	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000023291_1	WP_107637561.1	100	35	0	1.67e-16	75.9	30S ribosomal protein S16 [Staphylococcus haemolyticus]	Staphylococcus haemolyticus	1283	K02959
+c_000000023305_1	WP_002462372.1	97.1	35	1	2.76e-15	72.8	30S ribosomal protein S16 [Staphylococcus simiae]	Staphylococcus simiae	308354	K02959
+c_000000023350_1	WP_107623343.1	100	35	0	1.91e-16	77.4	6,7-dimethyl-8-ribityllumazine synthase [Staphylococcus hominis]	Staphylococcus hominis	1290	K00794
+c_000000023503_1	WP_242230577.1	97.2	36	1	9.46e-15	72.0	putative DNA-binding protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09787
+c_000000023534_1	WP_221161500.1	100	36	0	3.13e-14	70.9	50S ribosomal protein L19 [Staphylococcus caprae]	Staphylococcus caprae	29380	K02884
+c_000000023578_1	RNM42667.1	100	35	0	1.52e-16	75.5	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000023648_1	WP_107639118.1	100	35	0	2.34e-14	74.3	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000023748_1	MBA9874096.1	97.1	35	1	4.67e-14	69.7	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000023819_1	WP_248490696.1	96.9	32	1	3.15e-10	58.5	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000023929_1	WP_145165538.1	97.2	36	1	2.78e-14	69.7	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000024037_1	MBA9874096.1	97.1	35	1	3.82e-13	67.4	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000024062_1	MXF74261.1	97.1	35	1	4.13e-14	68.6	50S ribosomal protein L19 [Escherichia coli]	Escherichia coli	562	K02884
+c_000000024237_1	WP_216528376.1	97.2	36	1	1.29e-13	68.2	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000024528_1	WP_248490696.1	96.4	28	1	1.03e-07	52.0	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000024920_1	WP_171769830.1	97.1	35	1	9.56e-14	70.5	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000024992_1	WP_216528376.1	97.1	35	1	2.04e-12	65.1	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000025262_1	RNM42667.1	97.1	35	1	6.20e-16	73.9	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000025447_1	SUM33617.1	97.1	35	1	7.00e-14	68.2	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000025468_1	WP_142290397.1	100	35	0	2.85e-14	68.9	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000025519_1	WP_107639118.1	100	35	0	4.55e-14	73.6	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000025633_1	KMU58582.1	97.1	35	1	5.77e-15	72.4	FtsZ-interacting protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09772
+c_000000025726_1	MBA9874096.1	100	35	0	3.29e-14	70.1	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000026355_1	WP_145165538.1	97.1	35	1	1.87e-14	70.1	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000026391_1	WP_107639118.1	97.1	35	1	2.42e-12	68.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000026491_1	WP_063644672.1	100	32	0	5.36e-12	64.3	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000026514_1	WP_002488176.1	97.1	35	1	2.54e-16	75.9	PadR family transcriptional regulator [Staphylococcus hominis]	Staphylococcus hominis	1290	K10947
+c_000000026711_1	NEU36497.1	97.1	35	1	5.50e-15	71.6	DUF87 domain-containing protein [bacterium LRH843]	bacterium LRH843	2681972	K03466
+c_000000026770_1	WP_216528376.1	94.3	35	2	1.67e-11	62.8	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000027183_1	WP_242291025.1	97.1	35	1	1.71e-13	68.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000027637_1	SUM33617.1	97.1	34	1	5.52e-13	65.9	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000027654_1	MRF38900.1	100	35	0	4.59e-16	74.3	50S ribosomal protein L19 [Staphylococcus sp. KY49P]	Staphylococcus sp. KY49P	2664181	K02884
+c_000000027735_1	WP_194087126.1	100	35	0	7.98e-15	70.9	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000028231_1	WP_031928846.1	100	34	0	1.64e-13	68.9	50S ribosomal protein L19 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000028365_1	SUM33617.1	100	34	0	1.64e-14	69.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000028653_1	WP_199180807.1	94.3	35	2	3.95e-15	71.6	signal peptidase II, partial [Staphylococcus warneri]	Staphylococcus warneri	1292	K03101
+c_000000028996_1	WP_166494780.1	97.1	35	1	3.12e-12	64.7	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000029064_1	MBD4419937.1	97.1	34	1	1.81e-13	68.2	hypothetical protein [Xanthomonas citri pv. citri]	Xanthomonas citri pv. citri	611301	K03466
+c_000000029198_1	MRF38900.1	97.1	34	1	8.50e-14	68.6	50S ribosomal protein L19 [Staphylococcus sp. KY49P]	Staphylococcus sp. KY49P	2664181	K02884
+c_000000029396_1	MCM8763928.1	75.0	32	3	6.97e-05	48.5	methionine adenosyltransferase [Candidatus Omnitrophica bacterium]	Candidatus Omnitrophica bacterium	2035772	K00789
+c_000000029668_1	WP_242291025.1	97.1	35	1	1.71e-13	68.9	50S ribosomal protein L19 [Staphylococcus hominis]	Staphylococcus hominis	1290	K02884
+c_000000029837_1	WP_171769830.1	100	34	0	1.15e-14	72.8	DNA translocase FtsK, partial [Shigella flexneri]	Shigella flexneri	623	K03466
+c_000000029840_1	WP_179110020.1	94.3	35	2	2.82e-12	64.7	hypothetical protein, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K03466
+c_000000029959_1	WP_216528376.1	97.1	35	1	2.48e-13	67.4	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000030054_1	NCA41862.1	97.1	34	1	1.68e-13	67.0	50S ribosomal protein L19 [Streptococcus equi]	Streptococcus equi	1336	K02884
+c_000000030102_1	WP_248490696.1	97.0	33	1	1.39e-11	62.0	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000030279_1	WP_194087126.1	100	34	0	1.54e-14	70.1	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000030304_1	SUM33617.1	100	34	0	4.71e-14	68.6	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000030485_1	MRF38900.1	97.1	35	1	7.62e-15	71.2	50S ribosomal protein L19 [Staphylococcus sp. KY49P]	Staphylococcus sp. KY49P	2664181	K02884
+c_000000030613_1	WP_216805136.1	97.1	34	1	3.00e-13	66.6	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000030868_1	WP_145165538.1	97.1	34	1	1.04e-13	68.2	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000031734_1	WP_216528376.1	97.1	34	1	1.18e-13	68.2	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000032005_1	WP_194087126.1	100	34	0	1.08e-14	70.5	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000032443_1	WP_107639118.1	97.1	35	1	1.72e-13	72.0	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000032651_1	MBA9874096.1	94.1	34	2	1.21e-11	63.5	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000032745_1	NCA41862.1	94.1	34	2	1.39e-12	64.7	50S ribosomal protein L19 [Streptococcus equi]	Streptococcus equi	1336	K02884
+c_000000033381_1	SUM33617.1	97.1	34	1	1.92e-13	67.0	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000033592_1	MBD4419937.1	100	34	0	4.47e-14	69.7	hypothetical protein [Xanthomonas citri pv. citri]	Xanthomonas citri pv. citri	611301	K03466
+c_000000034057_1	RNM42667.1	97.1	34	1	4.87e-15	71.6	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000034166_1	WP_151097755.1	97.1	34	1	1.44e-11	62.0	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000035954_1	WP_111058433.1	100	34	0	1.16e-13	69.3	50S ribosomal protein L19 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000036696_1	SUM33617.1	97.1	34	1	1.58e-12	64.7	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000036738_1	WP_111058433.1	100	33	0	3.15e-13	68.2	50S ribosomal protein L19 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000036834_1	WP_194087126.1	97.0	33	1	1.72e-13	67.4	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000036845_1	MBA9874096.1	97.1	34	1	6.01e-12	64.3	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000036956_1	WP_194087126.1	97.0	33	1	9.98e-13	65.5	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000037006_1	WP_107639118.1	97.1	34	1	6.22e-11	65.1	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000037112_1	WP_142290397.1	97.1	34	1	3.19e-13	66.2	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000037226_1	WP_216528376.1	97.1	34	1	9.66e-13	65.9	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
+c_000000037281_1	WP_248490696.1	96.9	32	1	1.10e-10	59.7	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000037474_1	WP_194087126.1	100	34	0	1.54e-14	70.1	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000037989_1	RNM42667.1	97.0	33	1	4.66e-15	71.6	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000038112_1	MCD0914122.1	97.1	34	1	7.24e-14	67.8	30S ribosomal protein S16 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000039102_1	WP_145165538.1	97.0	33	1	2.84e-13	67.0	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000040013_1	SUM33617.1	97.0	33	1	7.76e-15	70.5	DNA translocase stage III sporulation prot [Staphylococcus gallinarum]	Staphylococcus gallinarum	1293	K03466
+c_000000040638_1	WP_180373652.1	65.6	32	11	5.39e-04	43.9	methionine adenosyltransferase domain-containing protein, partial [Helicobacter pylori]	Helicobacter pylori	210	K00789
+c_000000040829_1	MXF74261.1	100	33	0	3.12e-13	66.2	50S ribosomal protein L19 [Escherichia coli]	Escherichia coli	562	K02884
+c_000000041042_1	WP_142290397.1	100	33	0	3.05e-13	66.2	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000041235_1	MBA9874096.1	100	33	0	7.04e-13	66.6	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000041423_1	MBA9874096.1	97.1	34	1	2.99e-12	65.1	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000041657_1	RNM42667.1	100	33	0	2.69e-14	69.7	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000041994_1	MBA9874096.1	97.1	34	1	1.48e-12	65.9	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000042213_1	RNM42667.1	100	33	0	1.62e-15	72.8	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000043130_1	RNM42667.1	100	33	0	1.62e-15	72.8	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000043981_1	MBA9874096.1	100	33	0	7.04e-13	66.6	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000044897_1	MBA9874096.1	94.1	34	2	3.46e-11	62.4	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000044906_1	MXF74261.1	97.0	33	1	4.43e-13	65.9	50S ribosomal protein L19 [Escherichia coli]	Escherichia coli	562	K02884
+c_000000045228_1	WP_142290397.1	97.0	33	1	1.25e-12	64.7	50S ribosomal protein L19, partial [Staphylococcus argenteus]	Staphylococcus argenteus	985002	K02884
+c_000000045608_1	WP_242267634.1	100	33	0	4.97e-12	68.2	DNA-processing protein DprA [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000045820_1	WP_107639118.1	97.0	33	1	8.25e-11	64.7	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000045822_1	WP_145165538.1	97.0	33	1	1.92e-11	62.4	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000045956_1	RNM42667.1	97.0	33	1	1.28e-12	65.5	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000045997_1	HAR7263475.1	100	33	0	1.80e-12	66.2	50S ribosomal protein L19 [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000046138_1	MBA9874096.1	97.0	33	1	2.85e-12	65.1	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000046183_1	WP_248490696.1	100	33	0	1.89e-11	61.6	50S ribosomal protein L19, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02884
+c_000000046313_1	POC78222.1	97.0	33	1	7.35e-12	64.3	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000046469_1	MRF38900.1	97.0	33	1	2.33e-13	67.4	50S ribosomal protein L19 [Staphylococcus sp. KY49P]	Staphylococcus sp. KY49P	2664181	K02884
+c_000000046857_1	WP_194087126.1	97.0	33	1	6.00e-14	68.6	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000049415_1	POC78222.1	100	33	0	1.28e-12	66.2	hypothetical protein CRN61_16955, partial [Vibrio vulnificus]	Vibrio vulnificus	672	K03466
+c_000000049615_1	WP_103297864.1	100	32	0	1.98e-14	70.5	MULTISPECIES: 30S ribosomal protein S16 [Staphylococcus]	Staphylococcus	1279	K02959
+c_000000049754_1	WP_176718973.1	96.2	26	1	1.12e-07	51.6	30S ribosomal protein S16, partial [Staphylococcus aureus]	Staphylococcus aureus	1280	K02959
+c_000000050441_1	WP_194087126.1	100	33	0	6.00e-14	68.6	50S ribosomal protein L19, partial [Staphylococcus epidermidis]	Staphylococcus epidermidis	1282	K02884
+c_000000050466_1	WP_166494780.1	97.0	33	1	2.34e-11	62.4	FtsK/SpoIIIE domain-containing protein, partial [Escherichia coli]	Escherichia coli	562	K03466
+c_000000050522_1	WP_107639118.1	97.0	33	1	8.28e-12	67.4	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000050823_1	WP_145165538.1	97.0	33	1	8.15e-13	65.9	YlxM family DNA-binding protein, partial [Paenibacillus terrae]	Paenibacillus terrae	159743	K09787
+c_000000051208_1	WP_107639118.1	97.0	33	1	4.24e-13	70.9	DNA-processing protein DprA, partial [Staphylococcus hominis]	Staphylococcus hominis	1290	K04096
+c_000000051346_1	MBA9874096.1	97.0	33	1	8.15e-12	63.9	50S ribosomal protein L19 [Ralstonia insidiosa]	Ralstonia insidiosa	190721	K02884
+c_000000051840_1	KMU58582.1	100	33	0	3.49e-13	67.8	FtsZ-interacting protein [Staphylococcus hominis]	Staphylococcus hominis	1290	K09772
+c_000000052574_1	WP_216528376.1	90.9	33	3	2.94e-09	57.0	FtsK/SpoIIIE domain-containing protein, partial [Vibrio cholerae]	Vibrio cholerae	666	K03466
