@@ -1,0 +1,35 @@
+Linux version
+
+Using ReadLine,Boost,HDF5
+mothur v.1.43.0
+Last updated: 10/21/19
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://forum.mothur.org
+
+Type 'quit()' to exit program
+
+[NOTE]: Setting random seed to 19760620.
+
+Batch Mode
+
+
+mothur > set.dir(input=., output=mothur.output)
+Mothur's directories:
+outputDir=mothur.output/
+inputDir=/scratch/li.gua/PROJECTS/AMPLICON/
+
+mothur > set.logfile(name=mothur.output/mothur.log)

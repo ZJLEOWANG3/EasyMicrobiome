@@ -1,0 +1,1344 @@
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+1012 nt in 4 seqs, min 253, max 253, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.tempvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+22015 nt in 87 seqs, min 252, max 254, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+19498 nt in 77 seqs, min 252, max 256, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 4 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 4 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 5 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+54388 nt in 215 seqs, min 250, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+46028 nt in 182 seqs, min 247, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temp 100%
+45801 nt in 181 seqs, min 252, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+41744 nt in 165 seqs, min 251, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Sorting by abundance 100%
+ 100%
+Counting k-mers 100%
+116293 nt in 460 seqs, min 226, max 254, avg 253
+Masking 100%
+Detecting chimerasDetecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.tempvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+92607 nt in 366 seqs, min 250, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+176340 nt in 697 seqs, min 222, max 273, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+178666 nt in 706 seqs, min 245, max 258, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 1 (1.3%) chimeras, 76 (98.7%) non-chimeras,
+and 0 (0.0%) borderline sequences in 77 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.1%) chimeras, 1900 (99.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 1902 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 87 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 87 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 1384 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 1384 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+7083 nt in 28 seqs, min 252, max 253, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 28 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 28 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 194 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 194 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+490954 nt in 1940 seqs, min 239, max 273, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 181 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 181 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 5961 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5961 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 215 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 215 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 8450 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 8450 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+55923 nt in 221 seqs, min 252, max 254, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+28584 nt in 113 seqs, min 250, max 254, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 165 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 165 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 3124 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3124 total sequences.
+ 100%
+Sorting by abundanceReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+Counting k-mers 100%
+ 100%
+6578 nt in 26 seqs, min 252, max 254, avg 253
+MaskingDetecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Found 3 (11.5%) chimeras, 23 (88.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 26 unique sequences.
+Taking abundance information into account, this corresponds to
+3 (3.8%) chimeras, 77 (96.2%) non-chimeras,
+and 0 (0.0%) borderline sequences in 80 total sequences.
+ 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 181 (99.5%) non-chimeras,
+and 1 (0.5%) borderline sequences in 182 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 7976 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 7977 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temp 100%
+56957 nt in 225 seqs, min 251, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+52924 nt in 209 seqs, min 240, max 257, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 113 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 113 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 2622 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 2622 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+190823 nt in 754 seqs, min 252, max 273, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 1 (0.5%) chimeras, 219 (99.1%) non-chimeras,
+and 1 (0.5%) borderline sequences in 221 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 9652 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 9655 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+9872 nt in 39 seqs, min 253, max 255, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+59941 nt in 237 seqs, min 241, max 254, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 39 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 39 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 257 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 257 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+23251 nt in 92 seqs, min 227, max 255, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+52384 nt in 207 seqs, min 252, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+59965 nt in 237 seqs, min 223, max 256, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 92 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 92 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 2076 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 2076 total sequences.
+ 100%
+Found 1 (0.4%) chimeras, 224 (99.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 225 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 7056 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 7058 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 1 (0.3%) chimeras, 365 (99.7%) non-chimeras,
+and 0 (0.0%) borderline sequences in 366 unique sequences.
+Taking abundance information into account, this corresponds to
+3 (0.0%) chimeras, 14053 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 14056 total sequences.
+ 100%
+Found 1 (0.5%) chimeras, 208 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 209 unique sequences.
+Taking abundance information into account, this corresponds to
+47 (0.7%) chimeras, 6228 (99.3%) non-chimeras,
+and 0 (0.0%) borderline sequences in 6275 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temphttps://github.com/torognes/vsearch
+
+ 100%
+42247 nt in 167 seqs, min 250, max 254, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+ 100%
+Found 2 (0.8%) chimeras, 235 (99.2%) non-chimeras,
+and 0 (0.0%) borderline sequences in 237 unique sequences.
+Taking abundance information into account, this corresponds to
+4 (0.0%) chimeras, 10269 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 10273 total sequences.
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+115057 nt in 455 seqs, min 227, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+25290 nt in 100 seqs, min 243, max 254, avg 253
+Masking 100%
+Found 1 (0.5%) chimeras, 206 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 207 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 7531 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 7532 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 2 (0.4%) chimeras, 458 (99.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 460 unique sequences.
+Taking abundance information into account, this corresponds to
+68 (0.3%) chimeras, 19442 (99.7%) non-chimeras,
+and 0 (0.0%) borderline sequences in 19510 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 167 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 167 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 8008 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 8008 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+63042 nt in 249 seqs, min 251, max 272, avg 253
+Masking 100%
+Found 3 (0.4%) chimeras, 703 (99.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 706 unique sequences.
+Taking abundance information into account, this corresponds to
+7 (0.2%) chimeras, 4335 (99.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 4342 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+62228 nt in 246 seqs, min 251, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+89273 nt in 353 seqs, min 227, max 254, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 100 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 100 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 2772 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 2772 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+165435 nt in 654 seqs, min 234, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 236 (99.6%) non-chimeras,
+and 1 (0.4%) borderline sequences in 237 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 7562 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 7563 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.tempDetecting chimeras 100%
+57079 nt in 226 seqs, min 231, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+64441 nt in 255 seqs, min 221, max 257, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+125429 nt in 496 seqs, min 241, max 254, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+294340 nt in 1164 seqs, min 237, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 4 (0.6%) chimeras, 690 (99.0%) non-chimeras,
+and 3 (0.4%) borderline sequences in 697 unique sequences.
+Taking abundance information into account, this corresponds to
+14 (0.1%) chimeras, 19387 (99.9%) non-chimeras,
+and 4 (0.0%) borderline sequences in 19405 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 244 (99.2%) non-chimeras,
+and 2 (0.8%) borderline sequences in 246 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 9285 (100.0%) non-chimeras,
+and 2 (0.0%) borderline sequences in 9287 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 3 (1.2%) chimeras, 246 (98.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 249 unique sequences.
+Taking abundance information into account, this corresponds to
+41 (0.5%) chimeras, 7826 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 7867 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+46394 nt in 184 seqs, min 226, max 254, avg 252
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 226 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 226 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 10295 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 10295 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 2 (0.4%) chimeras, 451 (99.1%) non-chimeras,
+and 2 (0.4%) borderline sequences in 455 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 25455 (100.0%) non-chimeras,
+and 2 (0.0%) borderline sequences in 25459 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+196380 nt in 776 seqs, min 235, max 265, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+243920 nt in 964 seqs, min 251, max 255, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 2 (0.8%) chimeras, 253 (99.2%) non-chimeras,
+and 0 (0.0%) borderline sequences in 255 unique sequences.
+Taking abundance information into account, this corresponds to
+3 (0.0%) chimeras, 9838 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 9841 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 6 (0.8%) chimeras, 747 (99.1%) non-chimeras,
+and 1 (0.1%) borderline sequences in 754 unique sequences.
+Taking abundance information into account, this corresponds to
+7 (0.1%) chimeras, 9577 (99.9%) non-chimeras,
+and 1 (0.0%) borderline sequences in 9585 total sequences.
+ 100%
+Found 2 (0.6%) chimeras, 351 (99.4%) non-chimeras,
+and 0 (0.0%) borderline sequences in 353 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 12874 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 12876 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+322469 nt in 1274 seqs, min 250, max 273, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+50368 nt in 199 seqs, min 252, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 2 (1.1%) chimeras, 182 (98.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 184 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 5527 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5529 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+58192 nt in 230 seqs, min 247, max 256, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temp 100%
+622014 nt in 2458 seqs, min 236, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.tempDetecting chimeras 100%
+58196 nt in 230 seqs, min 251, max 255, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mersvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+51844 nt in 205 seqs, min 226, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 199 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 199 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 9093 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 9093 total sequences.
+ 100%
+Found 3 (0.6%) chimeras, 491 (99.0%) non-chimeras,
+and 2 (0.4%) borderline sequences in 496 unique sequences.
+Taking abundance information into account, this corresponds to
+17 (0.1%) chimeras, 15677 (99.7%) non-chimeras,
+and 35 (0.2%) borderline sequences in 15729 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+46234 nt in 183 seqs, min 223, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 205 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 205 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 5987 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5987 total sequences.
+ 100%
+Found 1 (0.4%) chimeras, 229 (99.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 230 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 6250 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 6251 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+32371 nt in 128 seqs, min 231, max 256, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 229 (99.6%) non-chimeras,
+and 1 (0.4%) borderline sequences in 230 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 7111 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 7112 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+71361 nt in 282 seqs, min 252, max 256, avg 253
+Masking 100%
+Found 3 (0.5%) chimeras, 651 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 654 unique sequences.
+Taking abundance information into account, this corresponds to
+6 (0.0%) chimeras, 29704 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 29710 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+23758 nt in 94 seqs, min 241, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+Sorting by abundance 100%
+ 100%
+41245 nt in 163 seqs, min 252, max 254, avg 253
+MaskingCounting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 183 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 183 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 11584 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 11584 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+ 100%
+Found 2 (1.6%) chimeras, 126 (98.4%) non-chimeras,
+and 0 (0.0%) borderline sequences in 128 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.1%) chimeras, 3177 (99.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3179 total sequences.
+69760 nt in 276 seqs, min 227, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 93 (98.9%) non-chimeras,
+and 1 (1.1%) borderline sequences in 94 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 4039 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 4040 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp6.temp 100%
+21507 nt in 85 seqs, min 243, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+82672 nt in 327 seqs, min 224, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 163 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 163 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 5096 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5096 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 85 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 85 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 1324 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 1324 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 282 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 282 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 10798 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 10798 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.tempReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+41696 nt in 165 seqs, min 223, max 254, avg 253
+Masking 100%
+654705 nt in 2586 seqs, min 227, max 274, avg 253
+Masking 100%
+Found 5 (0.6%) chimeras, 770 (99.2%) non-chimeras,
+and 1 (0.1%) borderline sequences in 776 unique sequences.
+Taking abundance information into account, this corresponds to
+46 (0.2%) chimeras, 23912 (99.8%) non-chimeras,
+and 1 (0.0%) borderline sequences in 23959 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 275 (99.6%) non-chimeras,
+and 1 (0.4%) borderline sequences in 276 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 11038 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 11039 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+40230 nt in 159 seqs, min 247, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+41729 nt in 165 seqs, min 251, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 1 (0.3%) chimeras, 325 (99.4%) non-chimeras,
+and 1 (0.3%) borderline sequences in 327 unique sequences.
+Taking abundance information into account, this corresponds to
+296 (1.6%) chimeras, 17704 (98.4%) non-chimeras,
+and 1 (0.0%) borderline sequences in 18001 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+54411 nt in 215 seqs, min 246, max 258, avg 253
+Masking 100%
+Found 1 (0.6%) chimeras, 163 (98.8%) non-chimeras,
+and 1 (0.6%) borderline sequences in 165 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 6417 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 6419 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 159 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 159 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 3184 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3184 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+1207305 nt in 4771 seqs, min 227, max 273, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 165 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 165 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 7148 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 7148 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+28077 nt in 111 seqs, min 250, max 254, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+61756 nt in 244 seqs, min 251, max 260, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+39974 nt in 158 seqs, min 250, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 111 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 111 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 4737 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 4737 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp2.temp 100%
+43998 nt in 174 seqs, min 239, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 1 (0.5%) chimeras, 214 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 215 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 8783 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 8784 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp11.temp 100%
+2530 nt in 10 seqs, min 253, max 253, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 158 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 158 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 6864 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 6864 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 10 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 10 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 524 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 524 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 174 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 174 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 5460 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5460 total sequences.
+ 100%
+Found 358 (37.1%) chimeras, 594 (61.6%) non-chimeras,
+and 12 (1.2%) borderline sequences in 964 unique sequences.
+Taking abundance information into account, this corresponds to
+576 (5.6%) chimeras, 9648 (94.2%) non-chimeras,
+and 16 (0.2%) borderline sequences in 10240 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+29357 nt in 116 seqs, min 252, max 255, avg 253
+Masking 100%
+Sorting by abundance 100%
+ 100%
+Sorting by abundanceCounting k-mers 100%
+Detecting chimeras 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 12 (1.0%) chimeras, 1148 (98.6%) non-chimeras,
+and 4 (0.3%) borderline sequences in 1164 unique sequences.
+Taking abundance information into account, this corresponds to
+120 (0.2%) chimeras, 55872 (99.8%) non-chimeras,
+and 6 (0.0%) borderline sequences in 55998 total sequences.
+ 100%
+Found 1 (0.4%) chimeras, 243 (99.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 244 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 8785 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 8786 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+132892 nt in 525 seqs, min 248, max 272, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 116 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 116 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 3601 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3601 total sequences.
+ 100%
+Found 26 (1.3%) chimeras, 1907 (98.3%) non-chimeras,
+and 7 (0.4%) borderline sequences in 1940 unique sequences.
+Taking abundance information into account, this corresponds to
+124 (0.2%) chimeras, 63667 (99.8%) non-chimeras,
+and 8 (0.0%) borderline sequences in 63799 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp5.temp 100%
+81624 nt in 323 seqs, min 227, max 254, avg 253
+MaskingReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+148024 nt in 585 seqs, min 234, max 256, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp8.temp 100%
+17213 nt in 68 seqs, min 252, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+176117 nt in 696 seqs, min 251, max 256, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 68 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 68 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 778 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 778 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 12 (0.9%) chimeras, 1261 (99.0%) non-chimeras,
+and 1 (0.1%) borderline sequences in 1274 unique sequences.
+Taking abundance information into account, this corresponds to
+51 (0.3%) chimeras, 20341 (99.7%) non-chimeras,
+and 1 (0.0%) borderline sequences in 20393 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+10120 nt in 40 seqs, min 253, max 253, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 40 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 40 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 173 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 173 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 322 (99.7%) non-chimeras,
+and 1 (0.3%) borderline sequences in 323 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 11894 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 11895 total sequences.
+ 100%
+Found 4 (0.8%) chimeras, 521 (99.2%) non-chimeras,
+and 0 (0.0%) borderline sequences in 525 unique sequences.
+Taking abundance information into account, this corresponds to
+5 (0.0%) chimeras, 14537 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 14542 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+922360 nt in 3645 seqs, min 235, max 263, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+31626 nt in 125 seqs, min 252, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 2 (0.3%) chimeras, 583 (99.7%) non-chimeras,
+and 0 (0.0%) borderline sequences in 585 unique sequences.
+Taking abundance information into account, this corresponds to
+19 (0.1%) chimeras, 13446 (99.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 13465 total sequences.
+ 100%
+Found 7 (1.0%) chimeras, 686 (98.6%) non-chimeras,
+and 3 (0.4%) borderline sequences in 696 unique sequences.
+Taking abundance information into account, this corresponds to
+11 (0.2%) chimeras, 7020 (99.8%) non-chimeras,
+and 3 (0.0%) borderline sequences in 7034 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+23033 nt in 91 seqs, min 252, max 255, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 125 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 125 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 3391 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3391 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+14675 nt in 58 seqs, min 252, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 91 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 91 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 2606 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 2606 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp10.temp 100%
+19228 nt in 76 seqs, min 251, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 2 (3.4%) chimeras, 56 (96.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 58 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (2.4%) chimeras, 83 (97.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 85 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+23536 nt in 93 seqs, min 252, max 254, avg 253
+Masking 100%
+Found 1 (1.3%) chimeras, 75 (98.7%) non-chimeras,
+and 0 (0.0%) borderline sequences in 76 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 2672 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 2673 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+Found 2 (2.2%) chimeras, 91 (97.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 93 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.1%) chimeras, 3358 (99.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3360 total sequences.
+ 100%
+39706 nt in 157 seqs, min 241, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+42019 nt in 166 seqs, min 252, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 17 (10.8%) chimeras, 140 (89.2%) non-chimeras,
+and 0 (0.0%) borderline sequences in 157 unique sequences.
+Taking abundance information into account, this corresponds to
+25 (0.4%) chimeras, 5645 (99.6%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5670 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+35415 nt in 140 seqs, min 251, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 166 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 166 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 8105 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 8105 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+20654 nt in 82 seqs, min 223, max 254, avg 252
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 82 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 82 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 2117 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 2117 total sequences.
+ 100%
+Found 30 (1.2%) chimeras, 2423 (98.6%) non-chimeras,
+and 5 (0.2%) borderline sequences in 2458 unique sequences.
+Taking abundance information into account, this corresponds to
+130 (0.2%) chimeras, 70500 (99.8%) non-chimeras,
+and 44 (0.1%) borderline sequences in 70674 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 0 (0.0%) chimeras, 140 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 140 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 5153 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 5153 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp3.temp 100%
+48584 nt in 192 seqs, min 252, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+78160 nt in 309 seqs, min 222, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Found 1 (0.5%) chimeras, 191 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 192 unique sequences.
+Taking abundance information into account, this corresponds to
+12 (0.2%) chimeras, 7574 (99.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 7586 total sequences.
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temp 100%
+722765 nt in 2858 seqs, min 222, max 261, avg 253
+Masking 100%
+Found 0 (0.0%) chimeras, 308 (99.7%) non-chimeras,
+and 1 (0.3%) borderline sequences in 309 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 12368 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 12369 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+46797 nt in 185 seqs, min 249, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 2 (1.1%) chimeras, 183 (98.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 185 unique sequences.
+Taking abundance information into account, this corresponds to
+5 (0.1%) chimeras, 6811 (99.9%) non-chimeras,
+and 0 (0.0%) borderline sequences in 6816 total sequences.
+ 100%
+Found 26 (1.0%) chimeras, 2549 (98.6%) non-chimeras,
+and 11 (0.4%) borderline sequences in 2586 unique sequences.
+Taking abundance information into account, this corresponds to
+140 (0.2%) chimeras, 68942 (99.7%) non-chimeras,
+and 79 (0.1%) borderline sequences in 69161 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp 100%
+43734 nt in 173 seqs, min 226, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+310492 nt in 1227 seqs, min 222, max 272, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 2 (1.2%) chimeras, 171 (98.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 173 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 7850 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 7852 total sequences.
+ 100%
+Found 6 (0.5%) chimeras, 1221 (99.5%) non-chimeras,
+and 0 (0.0%) borderline sequences in 1227 unique sequences.
+Taking abundance information into account, this corresponds to
+91 (0.3%) chimeras, 29678 (99.7%) non-chimeras,
+and 0 (0.0%) borderline sequences in 29769 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+269757 nt in 1066 seqs, min 227, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 39 (1.1%) chimeras, 3596 (98.7%) non-chimeras,
+and 10 (0.3%) borderline sequences in 3645 unique sequences.
+Taking abundance information into account, this corresponds to
+151 (0.1%) chimeras, 129154 (99.9%) non-chimeras,
+and 13 (0.0%) borderline sequences in 129318 total sequences.
+ 100%
+Found 8 (0.8%) chimeras, 1056 (99.1%) non-chimeras,
+and 2 (0.2%) borderline sequences in 1066 unique sequences.
+Taking abundance information into account, this corresponds to
+119 (0.3%) chimeras, 37083 (99.7%) non-chimeras,
+and 3 (0.0%) borderline sequences in 37205 total sequences.
+ 100%
+Found 35 (1.2%) chimeras, 2808 (98.3%) non-chimeras,
+and 15 (0.5%) borderline sequences in 2858 unique sequences.
+Taking abundance information into account, this corresponds to
+656 (0.4%) chimeras, 183160 (99.6%) non-chimeras,
+and 22 (0.0%) borderline sequences in 183838 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp7.temp 100%
+18218 nt in 72 seqs, min 252, max 256, avg 253
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp1.temp 100%
+33886 nt in 134 seqs, min 241, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 72 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 72 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 1877 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 1877 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temp 100%
+202445 nt in 800 seqs, min 242, max 256, avg 253
+Masking 100%
+Found 132 (2.8%) chimeras, 4620 (96.8%) non-chimeras,
+and 19 (0.4%) borderline sequences in 4771 unique sequences.
+Taking abundance information into account, this corresponds to
+640 (0.3%) chimeras, 184075 (99.6%) non-chimeras,
+and 38 (0.0%) borderline sequences in 184753 total sequences.
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 134 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 134 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 4592 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 4592 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+42238 nt in 167 seqs, min 251, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 167 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 167 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 4514 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 4514 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+82997 nt in 328 seqs, min 245, max 273, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 6 (0.8%) chimeras, 793 (99.1%) non-chimeras,
+and 1 (0.1%) borderline sequences in 800 unique sequences.
+Taking abundance information into account, this corresponds to
+81 (0.3%) chimeras, 24603 (99.7%) non-chimeras,
+and 1 (0.0%) borderline sequences in 24685 total sequences.
+ 100%
+Found 0 (0.0%) chimeras, 328 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 328 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 9562 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 9562 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp4.temp 100%
+40892 nt in 162 seqs, min 220, max 254, avg 252
+Maskingvsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+ 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimerasReading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+11640 nt in 46 seqs, min 252, max 254, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 46 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 46 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 668 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 668 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+44256 nt in 175 seqs, min 227, max 255, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 1 (0.6%) chimeras, 157 (96.9%) non-chimeras,
+and 4 (2.5%) borderline sequences in 162 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 8471 (99.9%) non-chimeras,
+and 11 (0.1%) borderline sequences in 8483 total sequences.
+ 100%
+Found 1 (0.6%) chimeras, 174 (99.4%) non-chimeras,
+and 0 (0.0%) borderline sequences in 175 unique sequences.
+Taking abundance information into account, this corresponds to
+1 (0.0%) chimeras, 4343 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 4344 total sequences.
+vsearch v2.21.1_linux_x86_64, 125.1GB RAM, 48 cores
+https://github.com/torognes/vsearch
+
+Reading file mothur.output/mothur.input.trim.contigs.good.unique.good.filter.unique.precluster.temp9.temp 100%
+67238 nt in 266 seqs, min 231, max 256, avg 253
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 1 (0.4%) chimeras, 264 (99.2%) non-chimeras,
+and 1 (0.4%) borderline sequences in 266 unique sequences.
+Taking abundance information into account, this corresponds to
+2 (0.0%) chimeras, 13172 (100.0%) non-chimeras,
+and 1 (0.0%) borderline sequences in 13175 total sequences.
