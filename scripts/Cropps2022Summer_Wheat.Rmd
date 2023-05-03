@@ -26,22 +26,17 @@ library(xlsx)
 ```{r self.define}
 # set working dir
 setwd("/Users/zijianleowang/Desktop/GitHub/EasyMicrobiome/scripts")
-# # set name - Full dataset
-# pathlist = list(abundance="../data/CROPPS2022Summer16S/abundance/genus.tsv",
-#                 meta="../data/CROPPS2022Summer16S/metadata_wheat_v1.xlsx")
-# projlist = list(projname = "Winter_Wheat_genus",
-#                 groupcol = c("Timepoint","Plot..Name."), #all () and space will become .
-#                 sheetindex = 1, # first sheet
-#                 endRow = 44) # how many rows within the metadata excel
-
-
-# set name - T1 and T4 wheat dataset
-pathlist = list(abundance="../data/CROPPS2022Summer16S/abundance/genus.tsv",
-                meta="../data/CROPPS2022Summer16S/metadata_wheat_v2.xlsx")
-projlist = list(projname = "Winter_Wheat_genus_T1T4",
+tax.level = "genus" # genus, phylum
+# set name - Full dataset
+pathlist = list(abundance=paste("../data/CROPPS2022Summer16S/abundance/",
+                tax.level,".tsv",sep=""),
+                meta="../data/CROPPS2022Summer16S/metadata_wheat_v3.xlsx")
+projlist = list(projname = paste("Winter_Wheat_",tax.level,sep=""),
                 groupcol = c("Timepoint","Plot..Name."), #all () and space will become .
                 sheetindex = 1, # first sheet
-                endRow = 20) # how many rows within the metadata excel
+                endRow = 32) # how many rows within the metadata excel
+
+exclude.env.corr = c("Timepoint","Plot..Name.","Wet","Normal") # to be deleted
 ```
 
 ```{r func.get.data}
@@ -74,6 +69,7 @@ all_na_cols <- which(colSums(is.na(meta_table)) == nrow(meta_table))
 meta_table <- meta_table[, -all_na_cols]
 # fill in missing value
 meta_table[is.na(meta_table)] <- 0
+meta_table[meta_table=="NA"] <- 0
 
 # scale
 if (SCALE==TRUE){
@@ -154,17 +150,18 @@ alpha diversity of provided community data using selected indices/method(s). It 
 
 method, options include:“richness”, “fisher”, “simpson”, “shannon” and “evenness”. It performs pairwise analysis of variance in diversity between groups and its significance annotated as on the plots. grouping_column is a categorical variable for which the grouping should be based on during the analysis. pValueCutoff specifies the p-value threshold for significance in ANOVA, default is set to 0.05. For the following examples, we use simpson, richness and shannon indices for calculating diversity.
 
+
 ```{r diversity, error=TRUE}
 # trace(perform_anova,edit=T)
-# names(df_pw) <- c("measure", "from", "to", "y", "p")
-
+# trace(plot_anova_diversity,edit=T)
+method = c("richness","simpson","shannon")
 for (temp.col in projlist$groupcol){
   print(temp.col)
   p<-plot_anova_diversity(physeq,
-                          method = c("richness"),# c("richness","simpson", "shannon"),
+                          method = method,# c("richness","simpson", "shannon"),
                           grouping_column = temp.col, pValueCutoff=0.05)
   print(p)
-  ggsave(paste('../output/',projlist$projname,"/",'anova_div_',temp.col,'.png',sep=""),p,height=5,width=3)
+  ggsave(paste('../output/',projlist$projname,"/",'anova_div_',temp.col,'.png',sep=""),p,height=5,width=3*length(method))
   
   }
 ```
@@ -243,23 +240,24 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 for (gp in projlist$groupcol){
   if (gp != "Sample.name"){
 SAM2 = sample_data(physeq)
-temp = c("Sample.name","clipped","warmed","sorted") # to be deleted
+temp = exclude.env.corr 
 temp = temp[-which(gp == temp)]
 SAM2 = SAM2[,!(names(SAM2)) %in% temp]
 # SAM2$artgroup = rep(1,nrow(SAM2))
 physeq2 <- phyloseq(SAM2,otu_table(physeq))
+
 env.taxa.cor <- taxa.env.correlation(physeq2, 
                                      grouping_column= gp,# "artgroup",
                                      method="spearman", pvalue.threshold=0.05,
                                  padjust.method="BH",
-                                 adjustment=5,
+                                 adjustment=1,
                                  num.taxa=50,
                                  tax.name=c("accumulibacter ","tetrasphaera"),
                                  select.variables=NULL)
 
 p <- plot_taxa_env(env.taxa.cor)
 print(p)
-ggsave(paste('../output/',projlist$projname,"/",'env.corr.strain.',gp,'.png',sep=""),p,height=10,width=20)}}
+ggsave(paste('../output/',projlist$projname,"/",'env.corr.strain.',gp,'.png',sep=""),p,height=10,width=1.3*length(colnames(physeq2@sam_data)))}}
 ```
 
 ```{r DESeq, error=TRUE}

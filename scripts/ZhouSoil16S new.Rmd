@@ -27,13 +27,27 @@ library(xlsx)
 # set working dir
 setwd("/Users/zijianleowang/Desktop/GitHub/EasyMicrobiome/scripts")
 # set name
-
-pathlist = list(abundance="../data/ZhouSoil16S/New/abundance/genus.tsv",
+tax.level = "phylum" # phylum, genus
+sort.tf = "sort" # sort, unsort, all
+if (sort.tf=="sort"){
+  split = c(seq(1,32,4),seq(2,32,4)) # sorted
+} else if (sort.tf=="unsort"){
+  split = c(seq(3,32,4),seq(4,32,4)) # unsorted
+} else if (sort.tf=="all"){
+  split=FALSE
+}
+pathlist = list(abundance=paste("../data/ZhouSoil16S/New/abundance/",
+                                tax.level,".tsv",sep=""),
                 meta="../data/ZhouSoil16S/New/metadata_new.xlsx")
-projlist = list(projname = "ZhouSoil16S_sorted_genus",
-                groupcol = c("set.name"),
+projlist = list(projname = paste("ZhouSoil16S_New_",sort.tf,"_",tax.level,sep=""),
+                groupcol = c("set.name","control","warming","half.precipitation",
+                             "double.precipitation","unclipped"),
                 sheetindex = 1, 
                 endRow = 33) # first sheet
+
+# excluded column names cor CCA and Env. Correlation
+exclude.cca = c("set.name","control","warming","half.precipitation",
+                "double.precipitation","unclipped","sorted")
 
 ```
 
@@ -118,8 +132,6 @@ return (list(OTU=OTU,SAM=SAM,physeq=physeq))
 ```
 
 ```{r get data}
-# split = c(seq(3,32,4),seq(4,32,4)) # unsorted
-split = c(seq(1,32,4),seq(2,32,4)) # sorted
 all = get.data(pathlist,projlist, SCALE=TRUE, split=split)
 OTU = all$OTU
 SAM = all$SAM
@@ -134,16 +146,16 @@ method, options include:“richness”, “fisher”, “simpson”, “shannon�
 
 ```{r diversity, error=TRUE}
 # trace(perform_anova,edit=T)
-# names(df_pw) <- c("measure", "from", "to", "y", "p")
 
+method = c("richness") # c("richness","simpson", "shannon")
 for (temp.col in projlist$groupcol){
   
   p<-plot_anova_diversity(physeq,
-                          method = c("richness"),# c("richness","simpson", "shannon"),
+                          method = method,
                           grouping_column = temp.col, pValueCutoff=0.05)
   print(p)
-  ggsave(paste('../output/',projlist$projname,"/",'anova_div_',temp.col,'.png',sep=""),p,height=5,width=3)
-  
+  width = 3/2 * length(unique(p$data$measure)) * length(unique(p$data[,4])) 
+  ggsave(paste('../output/',projlist$projname,"/",'anova_div_',temp.col,'.png',sep=""),p,height=5,width=width)
   }
 ```
 Beta Diversity: High LCBD values indicate a unique community composition, while low values indicate a more common species set.
@@ -201,11 +213,15 @@ for (gp in projlist$groupcol){
 
 This function finds a set of best environmental variables that describe community structure.
 ```{r CCA, error=TRUE}
-# trace(plot_cca,edit=T), change line 49 for font size
+# trace(plot_cca,edit=T)
+# change line 49 for font size
+# for all conditions, it shall have levels > 2
+
 for (gp in projlist$groupcol){
   print(gp)
-  pcca <- tryCatch(plot_cca(physeq = physeq, grouping_column = gp, pvalueCutoff = 0.05, 
-      env.variables = NULL, num.env.variables = NULL, exclude.variables = gp, 
+  pcca <- tryCatch(plot_cca(physeq = physeq, grouping_column = gp, pvalueCutoff = 1, 
+      env.variables = NULL, num.env.variables = NULL, 
+      exclude.variables = exclude.cca, 
       draw_species = F), 
       error = function(e) {
     message(paste("Error: ", e$message))
@@ -213,31 +229,32 @@ for (gp in projlist$groupcol){
   if (!is.na(pcca)){
     print(pcca)
     ggsave(paste('../output/',projlist$projname,"/",'cca_',gp,'.png',sep=""),pcca,height=5,width=5)}
-  }
+}
+
 ```
 
 ```{r Corr. Env. Strain, error=TRUE}
-knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+
 for (gp in projlist$groupcol){
-  if (gp != "Sample.name"){
-SAM2 = sample_data(physeq)
-temp = c("Sample.name","clipped","warmed","sorted") # to be deleted
-temp = temp[-which(gp == temp)]
-SAM2 = SAM2[,!(names(SAM2)) %in% temp]
-# SAM2$artgroup = rep(1,nrow(SAM2))
-physeq2 <- phyloseq(SAM2,otu_table(physeq))
-env.taxa.cor <- taxa.env.correlation(physeq2, 
-                                     grouping_column= gp,# "artgroup",
+# SAM2 = sample_data(physeq)
+# to.be.exclude.group = exclude.cca.corr[-which(gp == exclude.cca)]
+# SAM2 = SAM2[,!(names(SAM2)) %in% to.be.exclude.group]
+# physeq2 <- phyloseq(SAM2,otu_table(physeq))
+
+env.taxa.cor <- taxa.env.correlation(physeq, 
+                                     grouping_column= gp,
                                      method="spearman", pvalue.threshold=0.05,
                                  padjust.method="BH",
                                  adjustment=5,
                                  num.taxa=50,
-                                 tax.name=c("accumulibacter ","tetrasphaera"),
+                                 # tax.name=c("accumulibacter ","tetrasphaera"),
                                  select.variables=NULL)
 
 p <- plot_taxa_env(env.taxa.cor)
 print(p)
-ggsave(paste('../output/',projlist$projname,"/",'env.corr.strain.',gp,'.png',sep=""),p,height=10,width=20)}}
+ggsave(paste('../output/',projlist$projname,"/",'env.corr.strain.',gp,'.png',sep=""),p,height=10,width=20)
+stop()
+}
 ```
 
 ```{r DESeq, error=TRUE}
@@ -263,34 +280,23 @@ model <- '
 # regressions
 
 # soil affected by treatment
-TP..mg.P.kg. ~ warmed + clipped
-NO3..mg.L. ~ warmed  + clipped
-NH4..mg.L. ~ warmed  + clipped
-TN..mg.L. ~ warmed  + clipped
-H2O..mg.gsoil. ~ warmed  + clipped
-pH ~ warmed  + clipped
+TP..mg.L. ~ warming + half.precipitation + double.precipitation + unclipped
+NO3..mg.L. ~ warming + half.precipitation + double.precipitation + unclipped
+NH4..mg.L. ~ warming + half.precipitation + double.precipitation + unclipped
+Phosphate..mg.L. ~ warming + half.precipitation + double.precipitation + unclipped
+H2O..mg.gsoil. ~ warming + half.precipitation + double.precipitation + unclipped
 
-# microbes affected by soil; aka mediation pathways
-# polyP..FACS ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH + TN..mg.L. + NH4..mg.L. + NO3..mg.L.
-# PAO..FACS ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH + TN..mg.L. + NH4..mg.L. + NO3..mg.L.
-# PHAAO..FACS ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH + TN..mg.L. + NH4..mg.L. + NO3..mg.L.
-
-# if split
-# Normalized.polyP..FACS ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH 
-# Normalized.PHAAO..FACS ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH 
-# Normalized.PAO..FACS ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH 
-#Normalized.PAO..Raman ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH 
-
-Richness ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH + TN..mg.L. + NH4..mg.L. + NO3..mg.L.
+Richness ~ NH4..mg.L. + NO3..mg.L. + Phosphate..mg.L. + H2O..mg.gsoil. + TP..mg.L.
+Biomass..mg.gsoil. ~ NH4..mg.L. + NO3..mg.L. + Phosphate..mg.L. + H2O..mg.gsoil. + TP..mg.L.
 
 # AP not only affected by soil but also PAO microbial structure
-AP.Activity..nmol.MUB..g.dry.soil...hour. ~ TP..mg.P.kg. + H2O..mg.gsoil. + pH + TN..mg.L. + NH4..mg.L. + NO3..mg.L. + Richness
+AP.Activity..nmol.MUB..g.dry.soil...hour. ~ NH4..mg.L. + NO3..mg.L. + Phosphate..mg.L. + H2O..mg.gsoil. + TP..mg.L. + Richness + Biomass..mg.gsoil.
 
 
 # covariance # if split
-# Normalized.polyP..FACS ~~ Normalized.PHAAO..FACS
-# Normalized.polyP..FACS ~~ Normalized.PAO..FACS
-# Normalized.PHAAO..FACS ~~ Normalized.PAO..FACS
+# Normalized.PCO..FACS ~~ Normalized.PCO..Raman
+# Normalized.PAO..FACS ~~ Normalized.PAO..Raman
+# Normalized.PHAAO..FACS ~~ Normalized.PHAAO..Raman
 '
 Fit <- lavaan::sem(model, data=data.SEM)
 summary(Fit, rsquare=T, standardized=T,fit.measures=TRUE)

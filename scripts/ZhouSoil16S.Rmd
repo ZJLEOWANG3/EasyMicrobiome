@@ -28,9 +28,19 @@ library(xlsx)
 setwd("/Users/zijianleowang/Desktop/GitHub/EasyMicrobiome/scripts")
 # set name
 
-pathlist = list(abundance="../data/ZhouSoil16S/Old/abundance/genus.tsv",
+tax.level = "phylum" # phylum, genus
+sort.tf = "unsort" # sort, unsort, all
+if (sort.tf=="sort"){
+  split = seq(2,24,2) # sorted
+} else if (sort.tf=="unsort"){
+  split = seq(1,24,2) # unsorted
+} else if (sort.tf=="all"){
+  split=FALSE
+}
+pathlist = list(abundance=paste("../data/ZhouSoil16S/Old/abundance/",
+                                tax.level,".tsv",sep=""),
                 meta="../data/ZhouSoil16S/Old/metadata2.xlsx")
-projlist = list(projname = "ZhouSoil16S_unsorted_genus",
+projlist = list(projname = paste("ZhouSoil16S_Old_",sort.tf,"_",tax.level,sep=""),
                 groupcol = c("Sample.name","clipped","warmed","sorted"),
                 sheetindex = 1, 
                 endRow = 25) # first sheet
@@ -118,8 +128,7 @@ return (list(OTU=OTU,SAM=SAM,physeq=physeq))
 ```
 
 ```{r get data}
-split = seq(1,24,2) # unsorted
-# split = seq(2,24,2) # sorted
+
 all = get.data(pathlist,projlist, SCALE=TRUE, split=split)
 OTU = all$OTU
 SAM = all$SAM
@@ -136,13 +145,15 @@ method, options include:“richness”, “fisher”, “simpson”, “shannon�
 # trace(perform_anova,edit=T)
 # names(df_pw) <- c("measure", "from", "to", "y", "p")
 
+method = c("richness")
 for (temp.col in projlist$groupcol){
   
   p<-plot_anova_diversity(physeq,
-                          method = c("richness"),# c("richness","simpson", "shannon"),
+                          method = method,# c("richness","simpson", "shannon"),
                           grouping_column = temp.col, pValueCutoff=0.05)
   print(p)
-  ggsave(paste('../output/',projlist$projname,"/",'anova_div_',temp.col,'.png',sep=""),p,height=5,width=3)
+  width = 3/2 * length(unique(p$data$measure)) * length(unique(p$data[,4])) 
+  ggsave(paste('../output/',projlist$projname,"/",'anova_div_',temp.col,'.png',sep=""),p,height=5,width=width)
   
   }
 ```

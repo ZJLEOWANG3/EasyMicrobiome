@@ -164,7 +164,15 @@ dev.off()
 
 ```{r inference}
 pred <- predict(fit,node="risk2.renorm",data=df.bn.imputed,method="bayes-lw")
-df.bn$bn.pred <- pred
+sqrt(mean((pred[1:39] - df.bn.imputed$risk2.renorm[1:39])^2)) # b
+sqrt(mean((pred[40:90] - df.bn.imputed$risk2.renorm[40:90])^2)) # f
+PA.id = which(df.bn$Strain=="PA")
+sqrt(mean((pred[PA.id] - df.bn.imputed$risk2.renorm[PA.id])^2)) # PA
+Baumanii.id = which(df.bn$Strain=="Baumanii")
+sqrt(mean((pred[Baumanii.id] - df.bn.imputed$risk2.renorm[Baumanii.id])^2)) # Baumanii
+Ecoli.id = which(df.bn$Strain=="Ecoli")
+sqrt(mean((pred[Ecoli.id] - df.bn.imputed$risk2.renorm[Ecoli.id])^2)) # Ecoli
+# df.bn.imputed$bn.pred <- pred
 ```
 Predicting with Monte Carlo posterior inference
 A better approach to prediction is to use some form of inference and predict from more nodes than just the parents of the target node. Likelihood weighting is better suited for this task than logic sampling because it guarantees that none of the particles it generates are discarded, no matter how unlikely the values taken by the predictors are. (However, they must be observable.) This is what method = "bayes-lw" does for each observation being predicted:
